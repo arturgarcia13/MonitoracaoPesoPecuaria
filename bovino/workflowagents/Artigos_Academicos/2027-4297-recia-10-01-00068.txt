@@ -1,0 +1,505 @@
+68
+ARTÍCULO ORIGINAL
+REVISTA COLOMBIANA 
+DE CIENCIA ANIMAL
+ISSN  on line 2027-4297    2018©     http://www.recia.edu.co
+Rev Colombiana Cienc Anim 2018; 10(1):68-73.
+INFORMACIÓN
+Recibido: 12-07-2017; 
+Aceptado: 12-12-2017.
+Correspondencia autor: 
+julio.souza@ufms.br
+ABSTRACT
+Environmental effects and genetic parameters were estimated for weights at 365 
+and 550 days for Nellore cattle raised in the Parana State. Least Squared Means 
+methodology, was used to estimate environmental effects. The model included as 
+fixed effects year and month of birth calf, sex and age of dam at calving as a covariate 
+and error as random effects. The variance components were estimated using an 
+animal model considered as fixed effects contemporary group and age of dam. As 
+random effect were composite of direct and maternal genetic additive effects and 
+permanent environment.  The genetic trends for direct and maternal effects were 
+estimated by the regression of annual breeding value means on the animals’ year 
+of birth. The heritability were 0.24±0.03 and 0.35±0.05 for direct genetic effect and 
+0.08±0.03 and 0.03±0.04 for maternal heritability for weights at 365 and 550 days, 
+respectively. The genetic trends of the direct and maternal effects were 0.506 kg/year 
+and -0.184 kg/year for weights at 365 days; and 0.712 kg/year and 0.187 kg/year for 
+weights at 550 days. The results indicate the existence of adequate genetic variability 
+to enable successful selection of breeding stock and realization of genetic gain.
+KEYWORDS:
+Beef cattle;
+heritability;
+zebu.
+RESUMO
+Objetivou-se avaliar os efeitos de meio e estimar os parâmetros e tendência 
+genética para peso aos 365 e 550 dias de animais da raça Nelore criados no 
+estado do Paraná. Utilizou-se do método dos quadrados mínimos, incluindo os 
+efeitos fixos de ano, mês de nascimento, sexo e a co-variável idade da vaca ao 
+parto (linear e quadrática). Os parâmetros genéticos foram estimados utilizando-se 
+um modelo animal que continha os efeitos aleatórios genéticos direto e materno, 
+de ambiente permanente e o erro; além do efeito fixo de grupo contemporâneo e 
+da co-variável idade da vaca ao parto. A tendência genética foi obtida por meio de 
+análise de regressão linear do valor genético do animal sobre o ano de nascimento. 
+As herdabilidades diretas foram 0,24±0,03 e 0,35±0,05; as herdabilidades maternas 
+foram 0,08±0,03 e 0,03±0,04, para peso aos 365 e 550 dias, respectivamente. 
+As tendências genéticas direta e materna foram 0,506 kg/ano e -0,184 kg/ano 
+para P365; e 0,712 kg/ano e 0,187 kg/ano para P550. Os resultados indicam a 
+existência de variabilidade genética o que possibilitam ganhos através de seleção. 
+PALAVRAS CHAVE:
+Gado de corte;
+herdabilidade;
+zebu.
+Parâmetros e tendências genéticas para peso ao sobreano de 
+animais Nelore criados no estado do Paraná, Brasil
+Parameters and genetic trends for weight at yearling Nellore animals raised in 
+the Parana state, Brazil
+Júlio Cesar de Souza1, Marcos Paulo Gonçalves de  Resende2, Luiz Otavio Campos da Silva3, Marco 
+Gusmão4, Andrea Gondo3, Marcelo Falci Mota4, José Antonio Freitas5 e Rosana Moreira da Silva6
+1Universidade Federal de Mato Grosso do Sul. Campo Grande, Mato Grosso do Sul, Brasil. 
+2Universidade Estadual do Sudoeste da Bahia, Jequie, Bahia, Brasil. 
+3Empresa Brasileira de Pesquisa Agropecuária - Gado de Corte, Campo Grande, Mato Grosso do Sul, Brasil. 
+4Médico Veterinário Autônomo. Rondonópolis, Mato Grosso, Brasil. 
+5Universidade Federal da Fronteira Sul, Realeza, Paraná, Brasil. 
+6Universidade Federal do Paraná, Palotina, Paraná, Brasil. 
+7Universidade Estadual de Mato Grosso do Sul, Aquidauana, Mato Grosso do Sul, Brasil. 
+DOI: 10.24188/recia.v10.n1.2018.632
+
+69
+REVISTA COLOMBIANA 
+DE CIENCIA ANIMAL
+de Souza, et al.
+INTRODUÇÃO
+O Brasil é um país de grande extensão territorial, sendo 
+a atividade pecuária bastante intensa e importante 
+geradora de renda na balança comercial. O uso de 
+programas de melhoramento genéticos específicos, 
+abrangendo os diferentes sistemas de produção é 
+importante e as estimativas de parâmetros genéticos e 
+estimativas de efeito de meio contribuem na realização 
+de ajustes dos pesos às respectivas idades, além de 
+que, possibilitam avaliar as tendências e ganho genético 
+dos rebanhos ao longo de um determinado período. 
+Diversos trabalhos envolvendo efeitos ambientais 
+como ano e estação de nascimento do bezerro, sexo, 
+fazenda e idade da vaca foram reportados por SOUZA 
+et al. (2000), SOUZA et al. (2002), GUIMARÃES et al. 
+(2003), TORAL et al. (2004). Estudando herdabilidade 
+direta e materna, e tendência genética, SOUZA et 
+al. (2005) e FERRAZ FILHO et al. (2002) mostram 
+valores de média a alta magnitude. Quanto ao 
+progresso genético, SANTOS et al. (2012) reportam 
+a necessidade  de avaliar as tendências genéticas, 
+fenotípicas e de ambiente para características de 
+importância econômica, e utilizar essas respostas como 
+elementos norteadores de ações futuras para melhorar 
+a produção animal. 
+LAUREANO et al. (2011) estudando tendência genética 
+de animais da Raça Nelore, reportaram 0,219 kg de 
+ganho para características ao sobreano, com um 
+incremento de 0,08% nas médias anuais. FERRAZ 
+FILHO et al. (2002), que relataram tendências genéticas 
+diretas iguais 0,280kg/ano, respectivamente, para peso 
+ao sobreano, as quais corresponderam a incrementos 
+na mudança genética anual de 0,10% nas médias dos 
+pesos, para animais da raça Tabapuã. 
+MUCARIi y OLIVEIRA (2003) avaliando animais de raça 
+zebuína, relataram tendências genéticas de 0,345kg/
+ano, para peso ao sobreano. Segundo os valores 
+revelados, com ganhos genéticos relativamente baixos, 
+podem estar associados à baixa variabilidade genética 
+observada nos rebanhos avaliados (LAUREANO et al., 
+2011). Nesse sentido, objetivou-se avaliar os efeitos de 
+meio, estimar parâmetros genéticos e as tendências 
+genéticas para os pesos aos 365 e 550 dias de bovinos 
+da raça Nelore criados no estado do Paraná.
+MATERIAL E MÉTODOS
+Utilizaram-se informações de animais da raça Nelore, 
+criados no estado do Paraná, pertencentes ao banco 
+de dados da Associação Brasileira de Criadores de 
+Zebu  e do Centro Nacional de Pesquisa de Gado de 
+Corte da EMBRAPA (Empresa Brasileira de Pesquisa 
+Agropecuaria). Para estimativas dos efeitos de meio, 
+as análises foram realizadas utilizando-se o método 
+dos quadrados mínimos, para dados desbalanceados. 
+Considerou-se para avaliação dos efeitos ambientais 
+para o peso aos 365 (n = 13.218) e 550 dias de idade 
+(n = 8.007) informações obtidas no período de 1980 
+a 2000, referente a 530 touros distribuídos em 182 
+fazendas. 
+Incluiu-se no modelo estatístico os efeitos fixos de ano 
+e mês de nascimento do bezerro, sexo, idade da vaca 
+ao parto (linear e quadrático como covariável), além do 
+efeito aleatório do touro dentro de fazenda (nem todos 
+os touros trabalharam em todas as fazendas) e do erro, 
+conforme descrito a seguir: 
+(
+)
+(
+)
+ijklmn
+jklm
+ijklm
+m
+l
+k
+ij
+ijklmn
+e
+X
+X
+b
+X
+X
+b
+S
+M
+A
+F
+T
+Y
++
+−
++
+−
++
++
++
++
++
+=
+2
+2
+1
+)
+(
+µ
+, 
+Em que: 
+Yijklmn = variável dependente (P365 ou P550); 
+µ = média geral para a característica avaliada; 
+TFij = efeito aleatório do reprodutor i dentro da fazenda j;
+k
+A  = efeito fixo do ano de nascimento k; 
+Ml = efeito fixo do mês l de nascimento; Sm = efeito fixo 
+do sexo da cria m; 
+Xijklm = idade da vaca ao parto; 
+b1 = coeficiente de regressão para idade linear; 
+b2 = coeficiente de regressão para idade quadrática;
+eijklmn = erro aleatório, normal e independentemente 
+distribuído com média zero e variância σ 2 (NID(0,σ2)).
+Para estimativa dos componentes de variância e 
+covariâncias, assim como dos parâmetros para efeitos 
+genéticos diretos e maternos, os números de animais 
+utilizados foram 19.150 e 11.190, para P365 e P550, 
+respectivamente. Os grupos contemporâneos foram 
+formados levando-se em consideração os efeitos de 
+mês e ano de nascimento dos bezerros, sexo e fazenda, 
+combinados. A metodologia utilizada para obter as 
+estimativas foi a da máxima verossimilhança restrita, 
+programa MTDFREML, de BOLDMAN et al., (1995), 
+com o seguinte modelo: 
+Y = Xb + Za + Mm + lp + e, 
+Em que Y = vetor das informações; X = matriz de 
+incidência dos efeitos fixos; b = vetor dos efeitos fixos 
+de grupo contemporâneo e idade da vaca ao parto; Z = 
+matriz de incidência para os efeitos aleatórios genéticos 
+diretos de animal; a = vetor dos efeitos aleatórios 
+genéticos diretos de animal; M = matriz de incidência 
+para os efeitos aleatórios genéticos maternos de animal; 
+m = vetor de efeitos genéticos maternos de animal; l = 
+matriz de incidência do efeito do ambiente permanente; 
+p = vetor dos efeitos de ambiente permanente e, 
+e = vetor dos erros aleatórios associados a cada 
+observação. 
+As tendências genéticas para os efeitos aditivos diretos 
+e maternos foram estimadas pela regressão ponderada 
+
+70
+REVISTA COLOMBIANA 
+DE CIENCIA ANIMAL
+de Souza, et al.
+das médias anuais dos valores genéticos diretos e 
+maternos sobre o ano de nascimento do animal.
+RESULTADOS E DISCUSSÃO
+Todas as fontes de variação do modelo influenciaram 
+(P<0,0001) as características estudadas (Tabela 
+1), evidenciando a sua importância ao se fazer 
+comparações de pesos e também para a escolha de 
+reprodutores. A média ajustada e o erro padrão para os 
+365 dias de idade foram 267,0±2,6 kg, com R2 de 62,7% 
+e o coeficiente de variação de 17,2%. Para o peso aos 
+550 dias, a média e o erro padrão foram 359,0±3,97 kg, 
+com um R2 de 69% e coeficiente de variação de 16,96%. 
+O efeito de mês de nascimento, também significativo 
+(P<0,0001) para ambos os pesos e revelou que deve 
+haver variações nas condições edafoclimáticas e que 
+estas influenciam diretamente sobre as características 
+produtivas dos animais, principalmente quando se trata 
+de animais mantidos em pastagem. 
+Tabela 1. Resumo da análise de variância para os pesos aos 
+365 e 550 dias de idade criados no estado do Paraná.
+Fontes de 
+Variação
+Peso aos 365 dias
+Peso aos 550 
+dias
+GL
+QM
+GL
+QM
+Touro (Fazenda)
+2.206
+8771,09***
+1677 13517,34***
+Mês
+11
+39695,76***
+11
+40112,15***
+Ano
+20
+14132,58***
+20
+23413,41***
+Sexo
+1
+4967855,25***
+1
+3016,95***
+Idade da vaca linear
+1
+110140,22***
+1
+55335,57***
+Idade da vaca
+quadratica
+1
+123059,90***
+1
+53734,29***
+Erro
+10977
+6295
+Total
+13.217
+8.006
+Os animais mais pesados aos 365 dias foram os nascidos 
+no mês de maio, 278,1±2,9 kg, e os mais leves, com peso 
+de 254,8±2,6 kg, nasceram no mês de janeiro (Figura 1). 
+Para o peso aos 550 dias, o mês de nascimento em que 
+ocorreu a maior média foi o mês de julho, com 373,1±4,0 
+kg e o de menor média foi o mês de abril com 344,6±4,2 
+kg. Para o peso aos 550 dias, os animais mais pesados 
+nasceram no mês de julho, 373,1±3,97 kg e os mais leves, 
+nascidos em abril, pesaram 344,6±4,2 kg. 
+Tais evidências orienta a implantação de uma estação de 
+monta com intuito de obter bezerros mais pesados a essas 
+idades, no início de maio e término em setembro. Ressalta-
+se a necessidade de planejamento nutricional para as 
+matrizes e, até mesmo suplementação com volumoso e 
+ou concentrado, para obter-se balanço energético positivo, 
+garantindo a ciclicidade ovariana, visto baixa produção de 
+forragens tanto quantitativamente quanto qualitativamente 
+neste período (seca). 
+Figura 1. Peso (kg) aos 365 e 550 dias de idade conforme o 
+mês de nascimento, para animais da raça Nelore, criados no 
+estado do Paraná. 
+O efeito de ano de nascimento foi significativo 
+(P<0,0001) mostrando as variações climáticas ao 
+longo dos anos, devido a efeitos sazonais de chuvas 
+ou longos períodos de estiagens, presença e/ou 
+intensidade de geada, etc. Dessa forma, em anos com 
+alta precipitação propiciando um aumento da produção 
+de forragem e conseqüentemente um maior ganho de 
+peso dos animais. Quando a estação da seca é severa, 
+a produção de forragem fica prejudicada e o ganho de 
+peso fica comprometido.
+Durante o período avaliado os animais nascidos no ano 
+2000, tanto para peso aos 365 como aos 550 dias de 
+idade, apresentaram pesos mais elevados, 288,48±5,11 
+kg e 396,07±9,55 kg, respectivamente. Os menores 
+pesos observados foram os obtidos no ano de 1981 para 
+o peso aos 365 dias e no ano de 1982 para peso aos 
+550 dias de idade, com 242,08±6,72 kg e 337,31±6,60 
+kg, respectivamente. 
+O efeito do sexo dos animais também foi significativo 
+(P<0,0001) para as duas características avaliadas. O 
+peso dos machos (n=6.784) foi 289,30 ± 2,10 kg e o 
+das fêmeas (n=6.434), 244,61±2,08 kg aos 365 dias de 
+idade, 15,5% mais alto nos machos. Para o peso aos 
+550 dias, os machos (n=3.790) pesaram 400,89±3,12 
+kg e as fêmeas (n=4.217) 317,02±3,05 kg, uma 
+superioridade de 20,9%. 
+Para peso aos 550 dias, os valores foram 263,23±46,01 
+kg e 304,18±52,80 kg no estado do Mato Grosso do 
+Sul.  Observou-se também efeito linear e quadrático 
+da idade da vaca sobre o peso dos animais. A média 
+de idade das matrizes para o peso aos 365 dias foi 
+de 89,5±41,62 meses e para peso aos 550 dias, foi 
+de 88,24±42,09 meses. Observou-se que as matrizes 
+apresentaram seu ponto máximo (média de idade em 
+que as matrizes produziram animais mais pesados) 
+
+71
+REVISTA COLOMBIANA 
+DE CIENCIA ANIMAL
+de Souza, et al.
+foi aos 103,74 meses para P365 e 107,37 meses para 
+P550, sendo que as vacas no início (jovens) e no final da 
+sua vida produtiva (depois dos 174 meses) produziram 
+progênies mais leves (Figura 2). 
+Figura 2. Peso médio aos 365 e 550 dias de idade de animais 
+da raça Nelore, de acordo com a idade da vaca ao parto.
+Com base nessas observações, pode-se realizar 
+um descarte seletivo de 10% ao ano, eliminando as 
+vacas com idade avançada e manter no rebanho as 
+vacas jovens. Esses resultados confirmam os obtidos 
+por SOUZA et al. (2000, que relataram apenas efeito 
+quadrático da idade da vaca sobre peso aos 365 e aos 
+550 dias de idade.  Por outro lado, SOUZA et al. (2002) 
+não verificaram efeito significativo da idade da vaca 
+efeito linear e quadrático sobre o peso aos 365 dias.
+Os componentes aditivos diretos foram elevados 
+mostrando variabilidade da característica estudada. As 
+estimativas obtidas para herdabilidade direta e materna 
+para P365 foram 0,24±0,03 e 0,08±0,03 e para P550, 
+foram 0,35±0,05 e 0,03±0,04 respectivamente (Tabela 
+2). TORAL et al. (2004) obtiveram herdabilidade direta 
+maior para P365 (0,40) e para P550 (0,35). Na tabela 2 
+pode se observar que os valores das correlações entre 
+os efeitos direto materno foram elevados e negativos 
+para P550, porém não significativo, visto o valor do 
+desvio-padrão estimado. 
+Tabela 2. Parâmetros genéticos estimados para os pesos de 
+animais da raça Nelore, criados no estado do Paraná aos 365 
+(P365) e 550 (P550) dias de idade.
+Parâmetro
+Característica
+P365
+P550
+Variância aditiva direta (σ 2
+a)
+330,78
+591,02
+Variância materna (σ 2
+m)
+104,34
+50,35
+Co-variância direta materna (σ am)
+-123,02
+-157,83
+Variância efeito permanente materno (σ 2
+pe)
+127,65
+93,92
+Variância residual (σ 2
+e)
+914,83
+1.096,58
+Variância fenotípica (σ 2
+p)
+1.354,58
+1.674,05
+Herdabilidade direta (h2
+δ)
+0,24 ± 0,03
+0,35 ± 0,05
+Herdabilidade materna (h2
+m)
+0,08 ± 0,03
+0,03 ± 0,04
+Correlação direta materna (rdm)
+-0,66 ± 0,12
+-0,91 ± 0,44
+Efeito de ambiente permanente (c2)
+0,09 ± 0,02
+0,06 ± 0,03
+Proporção ambiental da variância (e1) 
+0,68 ± 0,02
+0,66 ± 0,04
+Os valores obtidos para o efeito materno foram baixos, 
+a essas nestas idades, os animais ja encontram-se 
+independente de suas mães, no entanto, o efeito foi 
+negativo. O ganho genético total no período para 
+P365 no período de 1981 a 2000 foi 9,14 kg, com uma 
+equação de ajuste igual á y = 0.4571x - 2.4416 e um 
+R² = 0.8563. Para o P550, o ganho genético total foi de 
+11,96 kg e a equação de ajuste linear foi y = 0.5978x - 
+3.7309 e um R² = 0.7708.
+SOUZA et al. (2004) avaliando a tendência genética 
+para o peso aos 205 dias de idade para animais da raça 
+Nelore nas regiões do Pantanal, constataram um ganho 
+de 6,92 kg e para a região do Alto Taquari Bolsão um 
+ganho de 8,13 kg no período de 1976 a 2001.  FERRAZ 
+FILHO et al. (2002) ao estudarem bovinos da raça 
+Tabapuã, verificaram tendências genéticas do efeito 
+direto de 0,207 e 0,276 kg/ano para peso aos 365 e 
+550 dias respectivamente.
+Apesar de a habilidade materna ser mais importante na 
+fase inicial da vida do animal, bezerros filhos de vacas 
+com maior habilidade materna tendem a desmamar 
+mais pesados e consequentemente são mais pesados 
+nas idades subseqüentes. Verifica-se (Figura 3) que 
+com o aumento do ganho genético direto há uma 
+redução no ganho materno, com intensidade menos 
+acentuada.
+A tendência materna no período foi negativa, com 
+perda de 0,188 kg/ano. No entanto, deve se trabalhar 
+no sentido de ampliar o ganho genético/ano, visto que 
+os animais apresentam potencial genético para as 
+duas características. Malhado et. al. (2010) estudando 
+melhoramento genético e estrutura populacional da 
+Raça Nelore na Região Norte do Brasil, verificaram 
+ganho genético de 1.559 kg para P365 e 1.951 kg 
+para P365 e consideraram que para essas duas 
+características houve ganho ao longo do tempo.
+
+72
+REVISTA COLOMBIANA 
+DE CIENCIA ANIMAL
+de Souza, et al.
+Conclusões
+Os fatores ambientais exerceram efeito significativo 
+sobre as características de P365 e P550 dias, portanto, 
+é necessário levá-los em consideração quando 
+Figura 3. Tendência genética direta (vga = observada; vga_a = estimada) e materna (vgm = observada; vgm_a = estimada) para 
+o p365 e p550.
+da seleção em gado de corte. Os coeficientes de 
+herdabilidade estimados indicam possibilidade de se 
+realizar seleção baseando-se nos pesos a essas idades. 
+Os animais criados no Estado do Paraná apresentaram 
+ganho genético no período estudado, mas com perdas 
+quanto aos efeitos maternos. 
+REFERÊNCIAS
+BOLDMAN, K.G.; KRIESE, L.A.; VAN VLECK, L.D.; VAN TASSEL, C.P.; KACHMAN, D. 1995. A manual for use of 
+MTDFREML. A set of programs to obtain estimates of variances and covariances.  ARS, USDA, Washington, DC.
+FERRAZ FILHO, P.B.; RAMOS, A.A.; SSILVA, L.O.C.; SOUZA, J.C.; ALENCAR, M.M.; MALHADO, C.H.M. 2002. 
+Tendência genética dos efeitos direto e materno sobre os pesos à desmama e pós-desmama de bovinos da raça 
+Tabapuã no Brasil. Revista Brasileira de Zootecnia 31(1): 635-640.
+GUIMARÃES, L.B.; FERRAZ FILHO, P.B.; SOUZA, J.C.; SILVA, L.O.C. 2003.     Aspectos genéticos e de ambiente 
+sobre pesos pré e pós desmama em bovinos da raça Tabapuã na região pecuária oeste São Paulo – Paraná. 
+Archives of Veterinary Science 8(1):109-119.
+LAUREANO, M.M.M.; BOLIGON, A.A.; COSTA, R.B.; FORNI, S.; SEVERO, J.L.P; ALBUQUERQUE, L.G. 2011. 
+Estimativas de herdabilidade e tendências genéticas para características de crescimento e reprodutivas em bovinos 
+da raça Nelore. Arquivos Brasileiro de Medicina Veterinária e Zootecnia 63(1): 143-152.
+MALHADO, C.H.M; CARNEIRO, P.L.S.; MALHADO, A.C.M.; MARTINS FILHO, R.; BOZZI, R; LADLE, R.J. 2010. 
+Genetic improvement and population structure of the Nellore breed in northern Brazil. Pesquisa Agropecuária 
+Brasileira, Brasília 45(10):1109-1116.
+ 
+MUCARI, T.B.; OLIVEIRA, J.A. 2003. Análise genético-quantitativa de pesos aos 8, 12, 18 e 24 meses de idade em 
+um rebanho da raça Guzerá. Revista Brasileira de Zootecnia 32(1):1604-1613.
+
+73
+REVISTA COLOMBIANA 
+DE CIENCIA ANIMAL
+de Souza, et al.
+SANTOS, L.H.; OLIVEIRA, S.M.P.; MALHADO, C.H.M.; CARNEIRO, P.L.S.; MARTINS FILHO, R.; LOBO, R.N.B.; 
+RODRIGUES, D.S. 2012. Estrutura populacional e tendências genéticas e fenotípicas da raça Guzerá no Nordeste 
+do Brasil. Revista Brasileira de Saúde e Produção Animal 13(4):1032-1043.
+SOUZA, J.C.; RAMOS, A.A.; SILVA, L.O.C.; FILHO, K.E.; ALENCAR, M.M.; WECHSLER, F.S.; FILHO, P.B.F. 2000. 
+Fatores do ambiente sobre o peso ao desmame de bezerros da raça Nelore em regiões tropicais brasileiras. Ciência 
+Rural 30(5):881-885.
+SOUZA, J.C.; MALHADO, C.H.M.; SILVA, L.O.C.; FERRAZ FILHO, P.B. 2002. Efeito do ambiente sobre o peso de 
+bovinos da raça Guzerá no estado de São Paulo.  Archives of Veterinary Science 7(1):57-63.
+TORAL, F.L.B.; SILVA, L.O.C.; MARTINS, E.N.; GONDO, A.; SIMONELLI, S. M. 2004. Interação Genótipo x Ambiente 
+em Características de Crescimento de Bovinos da Raça Nelore no Mato Grosso do Sul. Revista Brasileira Zootecnia 
+33(6):1445-1455.

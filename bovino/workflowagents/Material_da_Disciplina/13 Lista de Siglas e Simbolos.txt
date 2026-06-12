@@ -1,0 +1,147 @@
+13.1 Lista de Siglas
+Sigla
+Significado
+MRLS
+Modelo de Regressão Linear Simples
+MRLM
+Modelo de Regressão Linear Múltipla
+MQO / OLS
+Mínimos Quadrados Ordinários / Ordinary Least Squares
+MV
+Máxima Verossimilhança
+WLS
+Weighted Least Squares (Regressão Linear Ponderada)
+GLS
+Generalized Least Squares (MQ Generalizados)
+BLUE
+Best Linear Unbiased Estimator (Melhor Estimador Linear Não-Viesado)
+GLM
+Generalized Linear Model (Modelo Linear Generalizado)
+GAM
+Generalized Additive Model (Modelo Aditivo Generalizado)
+GAMLSS
+Generalized Additive Model for Location, Scale and Shape
+ANOVA
+Análise de Variância
+IC
+Intervalo de Confiança
+EP
+Erro-Padrão
+IC95%
+Intervalo de Confiança a 95%
+H0, H1
+Hipótese nula, Hipótese alternativa
+PDF, CDF
+Função Densidade de Probabilidade; Função de Distribuição Acumulada
+AIC, BIC, AICc
+Critérios de Informação (Akaike, Bayesiano, Akaike corrigido)
+, 
+Coeficiente de determinação e ajustado
+SQTot, SQReg, SQRes
+Somas de Quadrados (Total, Regressão, Resíduos)
+PRESS
+Predicted Residual Sum of Squares (LOOCV)
+CV-
+k-fold Cross-Validation
+VIF
+Variance Inflation Factor
+df
+Graus de liberdade
+13  Lista de Siglas e Símbolos
+R2 ¯R2
+k
+Parte IV — Apêndices > 13  Lista de Siglas e Símbolos
+
+
+Sigla
+Significado
+Var, Cov, Corr
+Variância, Covariância, Correlação
+FDR
+False Discovery Rate
+13.2 Lista de Símbolos
+Símbolo
+Descrição
+Variável resposta (escalar / vetor de observações)
+Matriz de covariáveis (matriz de planejamento)
+Parâmetros do modelo (intercepto e inclinações)
+Vetor de parâmetros 
+Termo(s) de erro aleatório (escalar / vetor)
+Estimadores (MQO/MV) dos parâmetros
+Valores ajustados pelo modelo (escalar / vetor)
+Resíduos (observado – ajustado; escalar / vetor)
+Estimador da variância residual (
+)
+Matriz “chapéu” (projeção): 
+Matriz dos resíduos: 
+Alavancagem (diagonal de 
+)
+Resíduo studentizado: 
+Distância de Cook
+Matriz identidade de dimensão 
+Espaço coluna de 
+Posto (rank) de 
+Inversa generalizada de Moore–Penrose
+Traço da matriz 
+Determinante de 
+, 
+Inversa e transposta de 
+Y ,  Y
+X,  X
+β0,  β1,   … ,  βp
+β
+(β0,  β1,   … ,  βp)⊤
+εi,  ε
+^βj,   ^β
+^Yi,   ^Y
+^εi,  ^ε
+^σ2
+^σ2 = SQRes/(n −p −1)
+H
+ H = X(X⊤X)−1X⊤
+M
+ M = In −H
+hii
+H
+ri
+ri =
+^εi
+^σ√1 −hii
+Di
+In
+n
+col(X)
+X
+rank(X)
+X
+X+
+tr(A)
+A
+det(A)
+A
+A−1 A⊤
+A
+
+Símbolo
+Descrição
+Espaço vetorial real -dimensional
+Distribuição Normal -variada
+Média e matriz de covariância na Normal multivariada
+Nº de observações; Nº de variáveis explicativas
+Médias amostrais de 
+ e 
+Somas de quadrados e produto cruzado (MRLS)
+Matriz de contrastes e vetor-alvo (testes conjuntos: 
+)
+Rn
+n
+Nn(μ, Σ)
+n
+μ,  Σ
+n,  p
+¯X,   ¯Y
+X
+Y
+Sxx,  Sxy
+C,  d
+H0 : Cβ = d

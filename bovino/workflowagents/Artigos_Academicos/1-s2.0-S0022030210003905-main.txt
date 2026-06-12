@@ -1,0 +1,781 @@
+ 
+ 
+ An evaluation of Brix refractometry instruments for measurement 
+of colostrum quality in dairy cattle 
+ V.  Bielmann ,*1  J.  Gillan ,*  N. R.  Perkins ,*  A. L.  Skidmore ,†  S.  Godden ,‡ and  K. E.  Leslie *
+ * Department of Population Medicine, University of Guelph, Guelph, Ontario, Canada N1G 2W1 
+ † Schering-Plough Animal Health, Alexander, NY 14005 
+ ‡ Department of Veterinary Population Medicine, University of Minnesota, St. Paul 55108 
+ ABSTRACT 
+ Acquisition of high quality colostrum is an important 
+factor influencing neonatal calf health. Many methods 
+have been used to assess the Ig concentration of co-
+lostrum; however, improved, validated evaluation tools 
+are needed. The aims of this study were to evaluate 
+both optical and digital Brix refractometer instruments 
+for the measurement of Ig concentration of colostrum 
+as compared with the gold standard radial immunodif-
+fusion assay laboratory assessment and to determine 
+the correlation between Ig measurements taken from 
+fresh and frozen colostrum samples for both Brix re-
+fractometer instruments. This research was completed 
+using 288 colostrum samples from 3 different farms. 
+It was concluded that the optical and digital Brix re-
+fractometers were highly correlated for both fresh and 
+frozen samples (r = 0.98 and r = 0.97, respectively). 
+Correlation between both refractometer instruments 
+for fresh and frozen samples and the gold standard 
+radial immunodiffusion assay were determined to be 
+very similar, with a correlation coefficient between 0.71 
+and 0.74. Both instruments exhibited excellent test 
+characteristics, indicating an appropriate cut-off point 
+of 22% Brix score for the identification of good quality 
+colostrum. 
+ Key words:   colostrum quality ,  Brix refractometer , 
+ failure of passive transfer ,  immunoglobulin 
+ INTRODUCTION 
+ Colostrum, the initial secretion from the mammary 
+gland after parturition, is an important source of im-
+munity and nutrition for the neonate. It contains func-
+tional proteins, Ig, fat, minerals, and vitamins to ensure 
+future health. The most important factor influencing 
+calf health and future production is ensuring adequate 
+intake of high quality colostrum as soon as possible after 
+birth. The failure of passive transfer (FPT) of Ig results 
+in an increased morbidity and mortality of calves as a 
+result of an increased susceptibility to pathogens and 
+subsequent disease (McEwan et al., 1970; Boyd, 1972; 
+McGuire et al., 1976). The definition of FPT is a low 
+concentration of IgG in the serum between 24 and 48 h 
+of age. Radial immunodiffusion assays (RID) are the 
+gold standard for determining serum IgG concentra-
+tion. Measurement of total proteins (TP) in the blood 
+is an indirect measure of IgG concentration and can be 
+determined by refractometry. A calf is considered to be 
+suffering from FPT if serum IgG concentration is less 
+than 10 mg/mL (Weaver et al., 2000) or serum protein 
+levels are less than 5.2 to 5.5 g/dL (Naylor and Kron-
+feld, 1977). The National Dairy Heifer Evaluation Proj-
+ect conducted in 1993 by the National Animal Health 
+Monitoring System (Fort Collins, CO) reported that 
+more than 40% of calves tested for serum Ig levels 24 to 
+48 h postpartum had levels below 5.0 g/dL. Addition-
+ally, other studies have indicated that FPT is highly 
+prevalent, with 35% of calves affected in the United 
+States (Tyler et al., 1998). An extensive investigation 
+was completed to determine the prevalence of FPT 
+on dairy farms throughout southern Ontario (Trotz-
+Williams et al., 2008). This herd-level study measured 
+TP concentrations of 422 calves, 1 to 7 d of age, among 
+112 farms. In this study, 37.1% of calves showed FPT, 
+defined as a serum TP concentration below 5.2 g/dL. 
+Most recently, Beam et al. (2009) reported the preva-
+lence of FPT in heifer calves in the United States to be 
+19.2%. However, 40.7% of US operations had at least 
+1 calf with FPT. Thus, although the overall levels of 
+FPT are decreasing, it is still a considerable issue on 
+many dairy farms. Clearly, there is a widespread need 
+for improved calf and colostral management practices 
+to ensure optimal calf health. One key component to 
+achieve this goal could be the implementation of useful 
+tools for the assessment of colostrum quality. 
+ Colostrum varies among animals depending on parity, 
+breed, season, time until first milking, and prepartum 
+diet (Donovan et al., 1986; Moore et al., 2005; Gul-
+liksen et al., 2008). A variety of methods are available 
+J. Dairy Sci.  93 :3713–3721
+doi: 10.3168/jds.2009-2943 
+© American Dairy Science Association®,  2010 .
+3713
+ Received November 24, 2009.
+ Accepted April 3, 2010.
+  1 Corresponding author:  vbielman@uoguelph.ca 
+
+to evaluate colostrum quality. However, not all of these 
+techniques are conducive to on-farm use. An effective 
+on-farm tool should be inexpensive, rapid, easy to use, 
+and accurate. The most accurate method of evaluating 
+the colostral Ig content is RID (Oyeniyi and Hunter, 
+1978; Fleenor and Stott, 1980). This method is consid-
+ered to be the gold standard for comparison with other 
+methods. Unfortunately, the RID is a laboratory assess-
+ment that requires approximately 18 to 24 h to deter-
+mine the results. As such, it is not conducive to on-farm 
+application. A hydrometer measures the specific gravity 
+of a liquid. In the case of colostrum, the specific gravity 
+is highly correlated to TS. Protein accounts for a high 
+proportion of TS, and globulins represent a large portion 
+of this protein. Thus, the specific gravity of colostrum 
+is correlated to its Ig content (Fleenor and Stott, 1980). 
+Pritchett et al. (1994) later compared the hydrometer 
+with the RID to determine an appropriate cut-off point 
+indicative of high or low levels of Ig in a colostrum 
+sample. For a 2.84-L feeding of colostrum, a cut-off of 
+50 mg/mL had a low sensitivity of 32% and specificity 
+of 97%. The researchers determined that misclassifica-
+tion of colostrum was minimized when the cut-off point 
+was increased to between 60 and 85 mg/mL. The 2007 
+National Animal Health Monitoring System dairy study 
+determined that approximately 13% of US dairy opera-
+tions that hand-fed colostrum evaluated the quality of 
+colostrum before feeding it to calves. The colostrometer 
+was the most common method of evaluating colostrum 
+(43.7%), followed closely by visual assessment (41.6%). 
+Colostrometers are well suited to on-farm use because 
+it only takes minutes to use, yet they are temperature 
+sensitive (Mechor et al., 1992) and fragile. Recently, a 
+Brix refractometer was reported to be a useful method 
+for the evaluation of the TS content of waste milk for 
+nutritional management on calf ranches (Moore et al., 
+2009). Unlike the colostrometer, the Brix refractometer 
+is not sensitive to the temperature of the colostrum at 
+the time of analysis. A recent study by Bielmann et al. 
+(2008) analyzed a subset of the colostrum samples at 3 
+different temperatures: 5, 20, and 38°C. No significant 
+differences were found between the Brix scores taken 
+at the 3 different sample temperatures. Furthermore, 
+the Brix instrument was evaluated for measurement 
+of colostrum Ig concentration in mares (Chavatte et 
+al., 1998). These reports provide optimism for the use-
+fulness of the Brix instrument as a tool for on-farm 
+monitoring of colostrum quality. The objectives of this 
+study were to evaluate both optical and digital Brix 
+refractometer instruments for the measurement of Ig 
+concentration of colostrum compared with the gold 
+standard RID laboratory assessment and to determine 
+the correlation between measurements taken from fresh 
+and frozen colostrum samples.
+MATERIALS AND METHODS
+Colostrum Sample Source and Collection
+An evaluation of the optical (Animal Reproduction 
+Systems, Chino, CA) and digital (Atago Co. Ltd., Bel-
+levue, WA) Brix refractometer instruments was per-
+formed using colostrum from 288 Holstein dairy cows 
+from the University of Guelph Elora Dairy Research 
+Centre (Elora, Ontario, Canada), a commercial herd 
+in eastern Ontario, Canada, and from the University of 
+Minnesota Transition Management Facility (Emerald 
+Dairy II, Emerald, WI). Two samples of colostrum were 
+collected from the first milking for analysis. The num-
+ber of samples analyzed was based on a convenience 
+sampling in 3 herds. Samples were collected from fresh 
+cows from March 2008 to January 2009. Both the digi-
+tal and optical Brix refractometers measure the refrac-
+tometric index of liquids on a Brix scale. The optical 
+Brix refractometer requires an individual to peer into 
+the instrument and determine the percentage Brix of 
+the liquid being analyzed by identifying a blue line on 
+the scale. The digital Brix determines the Brix score of 
+the liquid by shining a light through the sample in the 
+well, measuring the index of refraction, and present-
+ing the reading in Brix units on a digital scale. The 
+optical Brix refractometer values may be interpreted 
+differently by different people, whereas the digital Brix 
+refractometer may provide more consistent results if 
+used and cleaned properly. However, functionally, both 
+the optical and digital Brix refractometers measure and 
+operate in the same manner, measuring the refractive 
+index of a liquid.
+Colostrum Sample Analysis
+Of the 2 samples taken, one sample was measured 
+within 1 h of collection with both optical and digital 
+Brix refractometers and was considered to be the fresh 
+sample. If the readings could not be taken within that 
+time frame, the sample was refrigerated until measure-
+ments could be taken. The other sample was frozen for 
+2 d at −20°C and then thawed to room temperature. 
+Colostrum samples that were refrigerated or frozen and 
+then thawed were inverted 10 to 12 times to thoroughly 
+mix the colostrum for an accurate measure of the qual-
+ity of the sample. Then, the sample was measured with 
+the optical and digital Brix instruments. This was con-
+sidered to be the frozen sample. As such, each animal’s 
+colostrum had 4 Brix score (%) results, 1 measurement 
+for each instrument at both fresh and frozen-thawed 
+states. The optical refractometer had an upper limit on 
+the scale of 32.0%. Therefore, those samples that had a 
+reading that surpassed 32.0% were assigned a measure-
+ment of 32.0%. After measurements were taken from the 
+Journal of Dairy Science Vol. 93 No. 8, 2010
+BIELMANN ET AL.
+3714
+
+fresh sample, it was then frozen and stored at −20°C 
+until it could be shipped to the Saskatoon Colostrum 
+Company (Saskatoon, Saskatchewan, Canada) for anal-
+ysis of serum IgG concentration by RID as described 
+by Chelack et al. (1993). To ensure little plate-to-plate 
+variation, quality control measures are implemented for 
+each plate. A standard curve is made with Midlands bo-
+vine serum calibrator (1/4–1/32; Midland Bioproducts 
+Corporation, Boone, IA) to obtain Ig concentrations 
+of approximately 8.7, 4.35, 2.18, and 1.09 g/L. This is 
+dispensed twice per plate. For each plate, 5 replicates 
+of USDA bovine serum reference (Midland Bioproducts 
+Corp.) at 1/4 of working stock, as well as 5 replicates 
+of the Saskatoon Colostrum Company’s own colostrum 
+standard diluted at 1/30 (this standard has been ap-
+proved by the Canadian Food Inspection Agency) are 
+used All plates are incubated for 18 h at 20 to 25°C. 
+Diameters are read and a regression line is generated 
+from the Midlands bovine serum calibrator. A plate is 
+considered acceptable if the coefficient of determina-
+tion is greater than 0.97 for the standard curve and the 
+mean values obtained for the reference colostrum are 
+the expected values ±10%. If a plate does not meet 
+these criteria, it is repeated. If a sample falls outside 
+the standard curve, it is retested at a different dilution 
+so that it falls inside the standard curve values.
+Statistical Analysis
+Optical and digital Brix refractometer scores were 
+plotted against each other for both fresh and frozen 
+colostrum samples. Descriptive statistics were used 
+to compare the optical Brix refractometer scores for 
+fresh and frozen colostrum samples and digital Brix 
+refractometer scores for fresh and frozen samples as 
+well to compare both Brix refractometers to the RID. 
+A Spearman rank coefficient of correlation was calcu-
+lated to determine the level of relationship between the 
+instruments. Two-tailed t-tests were performed to de-
+termine statistical differences between the optical and 
+digital Brix refractometer instruments. Epidemiological 
+diagnostic test characteristics (sensitivity, specificity, 
+and predictive values) were calculated to compare the 
+optical and digital Brix refractometers to the RID gold 
+standard. Predictive values were calculated using the 
+prevalence of samples with an RID IgG concentration 
+of greater than or less than 50 g/L and a Brix reading 
+below or above the cut points tested.
+RESULTS
+Descriptive Analysis
+A total of 288 fresh colostrum samples were collected 
+from Holstein dairy cows between March 2008 and Jan-
+uary 2009. Eighty-two samples were from first-lactation 
+cows, 81 samples were from second-lactation cows, and 
+122 samples were from third-lactation and greater cows. 
+Of these samples, 114, 22, and 152 were collected from 
+University of Guelph Elora Dairy Research Centre, the 
+commercial herd in eastern Ontario, and the University 
+of Minnesota Transition Management Facility, respec-
+tively. In the end, 15 frozen samples were missing and 
+thus not available for analysis. As such, 273 colostrum 
+samples were assessed for Ig concentrations by the 
+laboratory RID. The RID Ig concentrations displayed a 
+normal distribution and ranged from 22.4 to 196.9 g/L 
+(Figure 1). The mean and median of the RID Ig con-
+centrations were 94.4 and 91.8 g/L, respectively. Only 
+7.7% of samples were below the standard cut-off point 
+of 50 g/L for Ig concentration.
+The Brix scores ranged from 13.5 to 32.0% and 13.6 
+to 37.0% for the optical and digital Brix refractometers, 
+respectively. The distribution of the optical and digital 
+Brix refractometer scores for fresh colostrum samples 
+is shown in Figure 2. The fresh and frozen samples 
+measured using the optical Brix had a mean and me-
+dian Brix score of 26.1 and 26.0% and 26.1 and 26.2%, 
+respectively. For the optical Brix refractometer, 21 of 
+the fresh samples and 22 of the frozen samples mea-
+sured above 32.0%, truncating the upper level of the 
+distribution (Figure 2). The fresh and frozen samples 
+measured using the digital Brix instrument had a mean 
+and median Brix value of 26.3 and 26.4% and 26.3 and 
+26.5%, respectively. For the digital Brix refractometer, 
+scores for fresh and frozen colostrum samples were nor-
+mally distributed. There was no evidence of a difference 
+between fresh and frozen samples when using the opti-
+cal or digital Brix refractometers (r = 0.98, P < 0.001 
+and r = 0.97, P < 0.001 for fresh and frozen samples, 
+respectively).
+Correlation Coefficients
+Correlation between both refractometer instruments 
+for fresh and frozen samples and the gold standard 
+laboratory RID was determined using correlation plots 
+of the 273 colostrum samples. For RID analysis, only 
+frozen samples were used. The correlation between the 
+RID values and the optical Brix values for measuring 
+frozen samples was 0.71 (P < 0.001; n = 272; Figure 3). 
+Similarly, the correlation between the RID and digital 
+Brix values of frozen samples was 0.73 (P < 0.001; n = 
+273; Figure 3). In addition, it was found that for both 
+instruments measuring fresh and frozen samples, first-
+lactation heifers had higher correlation coefficients, 
+ranging between 0.77 and 0.83 (P < 0.001; n = 273). 
+Third-lactation or greater animals had the next high-
+est correlation coefficients, ranging between 0.71 and 
+3715
+BRIX REFRACTOMETERS FOR ASSESSMENT OF COLOSTRUM QUALITY
+Journal of Dairy Science Vol. 93 No. 8, 2010
+
+0.73, and the second-lactation animals had correlation 
+coefficient values between 0.68 and 0.71 (P < 0.001; n 
+= 273; Figure 4).
+Correlation between the optical and digital Brix re-
+fractometer instruments for fresh and frozen Brix scores 
+was determined. It was found that Brix scores for fresh 
+and frozen colostrum samples measured by the optical 
+Brix were strongly correlated (r = 0.98; P < 0.001; n = 
+288). Brix scores for fresh and frozen colostrum samples 
+measured by the digital Brix were also highly correlated 
+Journal of Dairy Science Vol. 93 No. 8, 2010
+BIELMANN ET AL.
+3716
+Figure 1. A distribution plot of the radial immunodiffusion assay (RID) IgG concentrations of 273 colostrum samples from 3 Holstein dairy 
+herds.
+Figure 2. A distribution plot of optical and digital Brix refractometer readings (%) for 287 fresh colostrum samples. The optical refractome-
+ter had an upper limit, on the scale, of 32%, resulting in a truncated tail in the distribution.
+
+(r = 0.97; P < 0.001; n = 288). When comparing Brix 
+values for fresh and frozen colostrum samples between 
+the optical and digital Brix refractometer instruments, 
+both were found to have a strong correlation (r = 0.98, 
+P < 0.001 and r = 0.97, P < 0.001, respectively; n = 
+288).
+Diagnostic Test Characteristics  
+for All Colostrum Samples
+Optical and digital Brix refractometer instruments 
+for both fresh and frozen samples were analyzed for 
+test characteristics against the gold standard RID test. 
+A positive sample was defined as containing an Ig con-
+centration above the cut-off of 50 g/L on the RID gold 
+standard laboratory test. For assessment of the Brix 
+instruments, 3 different cut-off levels were used for the 
+Brix scores: 18, 20, and 22%. The calculated sensitivity 
+and specificity of the instruments were used to identify 
+appropriate cut-off points to be used. For the optical 
+Brix measuring fresh samples, the highest values for 
+sensitivity and specificity were found to be at the 22% 
+cut-off level at 90.5 and 85.0%, respectively. Similarly, 
+using a cut-off level of 22% for the digital Brix to mea-
+sure fresh colostrum samples resulted in a sensitivity 
+and specificity of 92.5 and 80.0%, respectively.
+Diagnostic Test Characteristics for Colostrum 
+Samples from Heifers and Cows
+Diagnostic test characteristics were also assessed for 
+fresh colostrum samples taken from first-calf heifers 
+and cows measured by both the optical and digital Brix 
+refractometers against the gold standard RID labora-
+tory test (Table 1). Test characteristics were consid-
+ered for consecutive cut-off levels from 17 to 25% Brix 
+scores for both optical and digital Brix refractometer 
+instruments. Results were also evaluated from first-calf 
+heifers and cows in second lactation or greater. Of the 
+273 colostrum quality results, 3 animals did not have a 
+recorded lactation number; as such, these animals were 
+removed from the analysis.
+For the 79 samples taken from first-calf heifers mea-
+sured by the optical Brix refractometer, the sensitivity 
+and specificity at a 21% Brix cut-off level was 97.2 and 
+62.5%, respectively, with a positive predictive value of 
+3717
+BRIX REFRACTOMETERS FOR ASSESSMENT OF COLOSTRUM QUALITY
+Journal of Dairy Science Vol. 93 No. 8, 2010
+Figure 3. A correlation plot between the optical and digital Brix instrument readings of TS and the laboratory radial immunodiffusion assay 
+(RID) readings of IgG for frozen colostrum samples (n = 273).
+
+95.8% and a negative predictive value of 71.4%. At a 
+cut-off level of 22% Brix, the test characteristics were 
+very similar (Table 1). For these same 79 samples taken 
+from first-calf heifers measured by the digital Brix re-
+fractometer, the highest combined values for sensitivity 
+and specificity were seen at the 21% Brix cut-off level 
+(97.2 and 75.0%, respectively). For the 191 samples 
+taken from cows in second lactation and greater, the 
+diagnostic test characteristics were very similar to the 
+first-calf heifers (Table 1).
+DISCUSSION
+It is worth mentioning that the average Brix values 
+for optical and digital instruments determined in this 
+study, for both first-calf heifers and older cows, are 
+higher than those found in the recent Colorado report 
+(Dinsmore and Skidmore, 2008). The average RID 
+values for the colostrum samples as well as the percent-
+age of samples above 50 g/L are lower in the Colorado 
+report.
+The correlation plots for the optical and digital 
+Brix instruments, for both fresh and frozen colostrum 
+samples, against the RID determinations were not as 
+high as the correlation coefficients between the 2 in-
+struments. In addition, these values are not as high 
+as the findings of a study to evaluate the use of Brix 
+refractometry on equine colostrum (Chavatte et al., 
+1998). In mares, it was found that measurements made 
+with the Brix refractometer were highly correlated 
+Journal of Dairy Science Vol. 93 No. 8, 2010
+BIELMANN ET AL.
+3718
+Figure 4. Scatter plot of the correlation between frozen colostrum samples analyzed by the digital Brix refractometer and the radial im-
+munodiffusion assay (RID) and stratified by parity (n = 273).
+Table 1. Diagnostic test characteristics for the optical and digital refractometers measuring fresh colostrum compared with the gold standard 
+radial immunodiffusion assay assessment1 
+Item
+Cut-off value
+First-lactation heifers
+Cows
+Sensitivity  
+(%)
+Specificity  
+(%)
+PPV  
+(%)
+NPV  
+(%)
+Sensitivity  
+(%)
+Specificity  
+(%)
+PPV  
+(%)
+NPV  
+(%)
+Optical Brix values (%)
+18
+100.0
+0.0
+89.9
+0.0
+ 
+99.4
+33.3
+95.7
+80.0
+20
+97.2
+50.0
+94.5
+66.7
+ 
+96.1
+58.3
+97.2
+50.0
+22
+88.7
+75.0
+96.9
+42.9
+ 
+91.1
+91.7
+99.4
+40.7
+24
+71.8
+75.0
+96.2
+23.1
+ 
+76.0
+100.0
+100.0
+21.8
+Digital Brix values (%)
+18
+100.0
+0.0
+89.9
+0.0
+ 
+99.4
+33.3
+95.7
+80.0
+20
+94.4
+25.0
+91.8
+33.3
+ 
+96.7
+75.0
+96.1
+45.5
+22
+90.1
+37.5
+92.8
+30.0
+ 
+92.2
+83.3
+98.8
+41.7
+24
+69.0
+75.0
+96.1
+21.4
+ 
+79.3
+91.7
+99.3
+22.9
+1PPV = positive predicted value; NPV = negative predicted value.
+
+with Ig concentrations determined by RID (R2 = 0.85). 
+However, the coefficient of determination values found 
+in the current study are similar to those of a previ-
+ously reported study in cows (R2 = 0.56; Dinsmore and 
+Skidmore, 2008). This may be attributable in part to 
+the composition and the volume that is produced by 
+horses and cows. Lavoie et al. (1989) reported that an 
+average volume of 5.1 L (ranging from 3.2 to 7.0 L) 
+of colostrum was produced by mares and the colostral 
+IgG contents averaged 440 g. In another study, the TS 
+and fat content of equine colostrum were reported to be 
+24.25 and 26.28% (Csápo et al., 1995). In comparison, 
+average colostral volume in cows was 11.2 L (ranging 
+from 2.8 to 21.5 L) and contained 93 to 259 g/L of 
+colostral protein and 23 to 125 g/L of fat (Morin et al., 
+2001). Mean percentage for fat, TS, and TP in bovine 
+colostrum were reported to be 6.7, 27.64, and 14.9%, 
+respectively. Thus, perhaps volume and the proportion 
+of colostral protein in the colostrum would have an ef-
+fect on the accuracy of the refractometer. In addition, 
+fat globules and casein micelles in milk may alter the 
+refractive index of milk (Fox and McSweeney, 1998). 
+Dinsmore and Skidmore (2008) reported that the fat 
+level of a sample may result in a wide band of color 
+transition when reading the Brix refractometer. Subse-
+quently, the recorded value may have been affected by 
+fat content of the colostrum. Therefore, it is plausible 
+that differences in the composition of colostrum from 
+different species, especially high levels of fat and TS, 
+could influence results.
+As seen in the current results, there is a high cor-
+relation between the optical and digital Brix readings 
+for both fresh and frozen colostrum samples. This find-
+ing suggests that both instruments are very useful for 
+measuring Ig concentrations in colostrum samples and 
+that freezing and thawing samples does not alter the 
+readings of the 2 instruments. The correlation between 
+fresh and frozen samples for the digital Brix is slightly 
+lower than results for the optical Brix refractometer. 
+This finding may have resulted from 4 outlying points 
+that differ greatly in the 2 measurements. It is possible 
+that these outlier points may be the result of recording 
+errors or instrument malfunction.
+The fact that the optical and digital Brix refractome-
+ters readings are highly correlated suggests that there 
+was little difficulty in the current study in reading the 
+scale on the optical Brix instrument and assigning an 
+appropriate measurement. Future studies involving 
+the use of the optical Brix refractometer should note 
+the occurrence of a wide band formation instead of a 
+definite line across the scale. However, perhaps read-
+ings that are above the 25% level are of little practical 
+relevance because these levels are well above the sug-
+gested cut-off of 22%. As such, these readings are not 
+important in deciding between good quality and poor 
+quality colostrum.
+Diagnostic Test Characteristics
+To ensure that high quality colostrum is fed to calves, 
+appropriate Brix score cut-off levels need to be deter-
+mined that strongly correspond to RID values over 50 
+g/L. For this study, the diagnostic test characteristics 
+were established for both Brix instruments and for co-
+lostrum samples from first-calf heifers and older cows. 
+These calculations provided an opportunity to identify 
+differences in detection of quality colostrum samples 
+for first-calf heifers and older cows that may indicate 
+the need to have different cut-off levels for animals of 
+different parities.
+For first-calf heifers, the optimal cut-off level for 
+the digital Brix refractometer was 21%. Using this 
+cut-point, the sensitivity and specificity were high, in-
+dicating that the instrument can successfully identify 
+colostrum samples with adequate Ig concentrations. 
+For the optical Brix refractometer instrument, there 
+were similar sensitivity and specificity results for the 
+21 and 22% cut-off levels. Because it has been shown 
+that colostrum of heifers is often inferior to that of 
+older cows (Oyeniyi and Hunter, 1978), it would seem 
+logical to have a lower cut-off level for first-calf heifers. 
+Nevertheless, in the current study, the sensitivity and 
+specificity at the 21% cut-off level in samples from heif-
+ers were high, indicating the optical Brix instrument 
+can identify between high and low quality colostrum 
+samples with few false negatives. For cows in second 
+lactation and greater, the optimal cut-off level was 22% 
+for both the optical and the digital Brix instruments.
+The diagnostic test characteristics determined in this 
+study were very similar to those in the report of Din-
+smore and Skidmore (2008), with the exception that 
+these authors found that an appropriate cut-off level 
+for first-lactation heifers was 23%, yielding a sensitivity 
+of 84.6% and a specificity of 56.3%. It is suggested that 
+an appropriate Brix score cut-off level of 22% could be 
+used for both cows and first-lactation heifers for selec-
+tion of good quality colostrum. Similarly, a study by 
+Chigerwe et al. (2008) in which researchers compared 
+2 hydrometers and an electronic refractometer for esti-
+mating colostral Ig concentrations determined that the 
+optimal cut point for a digital refractometer was 22%.
+Association of RID Values with Parity
+It is a common belief that colostrum from first-calf 
+heifers is inferior in its Ig content compared with that 
+of later-lactation cattle. Oyeniyi and Hunter (1978) re-
+ported a gradual increase in colostral Ig concentration 
+3719
+BRIX REFRACTOMETERS FOR ASSESSMENT OF COLOSTRUM QUALITY
+Journal of Dairy Science Vol. 93 No. 8, 2010
+
+in Holsteins with increasing parity. From the current 
+study, it was apparent that Ig concentration increases 
+with parity. First-lactation heifers had the greatest 
+distribution colostrum samples under the 50 g/L RID 
+cut-off level. Second-lactation and then third-lactation 
+or greater animals followed in their distributions of low 
+RID colostrum samples. Yet, the average Brix scores 
+for both the optical and digital instruments were simi-
+lar, or slightly higher, for first-calf heifers compared 
+with older animals. This finding supports a study by 
+Pritchett et al. (1991) in which the Ig concentration 
+of colostrum samples from 919 Holstein cows was ex-
+amined. These authors determined that cows in their 
+first lactation produced colostrum with a mean IgG1 
+concentration equal to that of second lactation. Third-
+lactation or greater cows had samples with the highest 
+IgG1 concentration. These findings were also confirmed 
+by Tyler et al. (1999), who examined colostral Ig levels 
+of Holstein and Guernsey cows. Finally, a recent study 
+from Norway found that IgG concentration was signifi-
+cantly higher in fourth-lactation cows compared with 
+first- or second-lactation cows. Actually, the lowest IgG 
+values were found for second-lactation cows (Gulliksen 
+et al., 2008). From the current study, as well from the 
+other studies cited, it is clear that parity of the dam 
+influences the IgG concentration of colostrum.
+At present, the colostrometer is the tool most com-
+monly used to assess colostrum quality before feeding 
+calves (National Animal Health Monitoring System, 
+2010). However, as described by Mechor et al. (1992), 
+the temperature-sensitive nature of the colostrometer 
+as well as its fragile design make it less than desirable 
+as an on-farm tool. In addition, the test characteristics 
+for the colostrometer leave room for misclassification 
+of samples. The Brix refractometers perform well at 
+any temperature (Bielmann et al., 2008) and have high 
+correlation compared with the RID. These instruments 
+are durable and affordable and the calibration process 
+is a simple. Incorporating the use of a refractometer 
+into the colostrum management protocol on farm would 
+be beneficial, allowing producers to be confident that 
+quality colostrum is fed to calves and influence passive 
+transfer of immunity. These instruments offer a novel 
+and accurate method of assessing colostrum quality 
+before feeding calves.
+CONCLUSIONS
+Brix refractometers, both digital and optical, have 
+acceptable test sensitivities and specificities when com-
+pared with the gold standard RID laboratory test, indi-
+cating that they are capable of differentiating between 
+good and poor quality colostrum. From this study, it 
+is suggested that the appropriate cut-off level is a Brix 
+score equal to or above 22% to ensure colostrum is 
+of good quality and is not dependent on whether the 
+sample is fresh or thawed from a frozen state. Both the 
+optical and digital Brix refractometers show consider-
+able potential for being useful management tools to be 
+included in a colostrum monitoring program to improve 
+neonatal calf health on dairy operations.
+REFERENCES
+Beam, A. L., J. E. Lombard, C. A. Kopral, L. P. Garber, A. L. 
+Winter, J. A. Hicks, and J. L. Schlater. 2009. Prevalence of failure 
+of passive transfer of immunity in newborn heifer calves and 
+associated management practices on US dairy operations.  J. Dairy 
+Sci.  92:3973–3980.
+Bielmann, V., J. Garner, C. Throop, N. Perkins, and K. Leslie. 
+2008. An evaluation of a   Brix refractometer for measurement 
+of colostrum quality and success of passive transfer.  J. Dairy Sci. 
+91(E-Suppl. 1):354.
+Boyd, J. W. 1972. The relationship between serum immune globulin 
+deficiency and disease in calves: A farm survey.  Vet. Rec.  90:645–
+649.
+Chavatte, P., F. Clement, R. Cash, and J. F. Grongnet. 1998. Field 
+determination of colostrum quality by using a novel, practical 
+method. Pages 206–209 in AAEP Proceedings. Vol. 44.
+Chelack, B. J., P. S. Morley, and D. M. Haines. 1993. Evaluation of 
+methods for dehydration of bovine colostrum for total replacement 
+of normal colostrum in calves.  Can. Vet. J.  34:407–412.
+Chigerwe, M., J. W. Tyler, J. R. Middleton, J. N. Spain, J. S. Dill, 
+and B. J. Steevens. 2008. Comparison of four methods to assess 
+colostral IgG concentration in dairy cows.  J. Am. Vet. Med. 
+Assoc.  233: 761–766.
+Csápo, J., J. Stefler, T. G. Martin, S. Makray, and Zs. Csapó-Kiss. 
+1995. Composition of mares’ colostrum and milk. Fat content, fatty 
+acid composition and vitamin content.  Int. Dairy J.  5:393–402.
+Dinsmore, P., and A. Skidmore. 2008. Comparison of Brix (sugar) 
+refractometer and colostrometer for evaluation of colostrum quality 
+in dairy cows.  J. Dairy Sci.  91(E-Suppl. 1):355. (Abstr.)
+Donovan, G. A., L. Badinga, R. J. Collier, C. J. Wilcox, and R. K. 
+Braun. 1986. Factors influencing passive transfer in dairy calves. 
+J. Dairy Sci.  69:754–759.
+Fleenor, W. A., and G. H. Stott. 1980. Hydrometer test for estimation 
+of immunoglobulin concentration in bovine colostrum.  J. Dairy 
+Sci.  63:973–977.
+Fox, P. F., and P. L. H. McSweeney. 1998. Dairy Chemistry and 
+Biochemistry. Chapman and Hall, London, UK.
+Gulliksen, S. M., K. I. Lie, L. Solverold, and O. Ostera. 2008. Risk 
+factors associated with colostrum quality in Norwegian dairy cows. 
+J. Dairy Sci.  91:704–712.
+Lavoie, J. P., M. S. Spensely, B. P. Smith, and J. Mihalyi. 1989. 
+Colostral volume and immunoglobulin G and M determinations in 
+mares.  Am. J. Vet. Res.  50:466–470.
+McEwan, A. D., E. W. Fisher, and I. E. Selman. 1970. Observations on 
+the immune globulin levels of neonatal canes and their relationship 
+to disease.  J. Comp. Pathol.  80:259–265.
+McGuire, T. C., N. E. Pfeiffer, J. M. Weikel, and R. C. Bartsch. 1976. 
+Failure of colostral immunoglobulin transfer in calves dying from 
+infectious disease.  J. Am. Vet. Med. Assoc.  1697:713–718.
+Mechor, G. D., Y. T. Gröhn, L. R. McDowell, and R. J. Van Saun. 
+1992. Specific gravity of bovine colostrum immunoglobulins as 
+affected by temperature and colostrum components.  J. Dairy Sci. 
+75:3131–3135.
+Moore, D. A., J. Taylor, M. L. Hartman, and W. M. Sischo. 2009. 
+Quality assessments of waste milk at a calf ranch.  J. Dairy Sci. 
+92:3503–3509.
+Moore, M., M. Chigerwe, M. E. Dawes, J. W. Tyler, and J. R. 
+Middleton. 2005. Effect of delayed colostrum collection on 
+colostral IgG concentration in dairy cows.  J. Am. Vet. Med. 
+Assoc.  226:1375–1377.
+Journal of Dairy Science Vol. 93 No. 8, 2010
+BIELMANN ET AL.
+3720
+
+Morin, D. E., P. D. Constable, P. Maunsell, and G. C. McCoy. 2001. 
+Factors associated with colostral specific gravity in dairy cows.  J. 
+Dairy Sci.  84:937–943.
+National Animal Health Monitoring System. 2010. Heifer calf health 
+and management practices on US dairy operations, 2007. Animal 
+and Plant Health Inspection Service, Veterinary Services, USDA, 
+Fort Collins, CO.
+Naylor, J. M., and D. S. Kronfeld. 1977. Refractometry as a measure of 
+the immunoglobulin status of the newborn dairy calf: Comparison 
+with zinc sulfate Turbidity test and single radial immunodiffusion. 
+Am. J. Vet. Res.  38:1331–1334.
+Oyeniyi, O. O., and A. G. Hunter. 1978. Colostral constituents 
+including immunoglobulins in the first three milkings postpartum. 
+J. Dairy Sci.  61:44–48.
+Pritchett, L. C., C. C. Gay, T. E. Besser, and D. D. Hancock. 1991. 
+Management and production factors influencing immunoglobulin 
+G1 concentration in Holstein colostrum.  J. Dairy Sci.  74:2336–
+2341.
+Pritchett, L.C., C.C. Gay, D.D. Hancock, and T.E. Besser. 1994. 
+Evaluation of the hydrometer for testing immunoglobulin G1 
+concentrations in Holstein colostrum.  J. Dairy Sci.  77:1761–
+1767.
+Trotz-Williams, L. A., K. E. Leslie, and A. S. Peregrine. 2008. Passive 
+immunity in Ontario dairy calves and investigation of its association 
+with calf management practices . J. Dairy Sci.  91:3840–3849.
+Tyler, J. W., D. D. Hancock, and S. E. Wicksie. 1998. Use of serum 
+total protein concentration to predict mortality in mixed-source 
+dairy replacement heifers.  J. Vet. Intern. Med.  12:79–83.
+Tyler, J. W., B. J. Steevens, and D. E. Hostetler. 1999. Colostral IgG 
+concentrations in Holstein and Guernsey cows.  Am. J. Vet. Res. 
+60:1136–1139.
+Weaver, D. M., J. W. Tyler, D. C. VanMetre, D. E. Hostetler, and G. 
+M. Barrington. 2000. Passive transfer of colostral immunoglobulins 
+in calves.  J. Vet. Intern. Med.  14:569–577.
+3721
+BRIX REFRACTOMETERS FOR ASSESSMENT OF COLOSTRUM QUALITY
+Journal of Dairy Science Vol. 93 No. 8, 2010

@@ -1,0 +1,286 @@
+ 
+ 
+ 
+ 
+1 
+ 
+Estimativas de correlações genéticas entre pesos do nascimento à idade adulta em animais da raça 
+Nelore1 
+ 
+Arione Augusti Boligon2, Lucia Galvão de Albuquerque3,4, Maria Eugênia Zerlotti Mercadante5, 
+Raysildo Barbosa Lôbo6 
+ 
+1 Parte da dissertação de mestrado da primeira autora, financiada pelo CNPq e FAPESP 
+2Discente 
+do 
+Programa 
+de 
+Pós-Graduação 
+em 
+Genética 
+e 
+Melhoramento 
+Animal 
+da 
+FCAV/UNESP. 
+Jaboticabal/SP.arioneb@bol.com.br 
+3Docente da Faculdade de Ciências Agrárias e Veterinárias - FCAV/UNESP. Jaboticabal/SP. lgalb@fcav.unesp.br 
+4Pesquisadora do CNPq 
+5Estação Experimental de Zootecnia de Sertãozinho - IZ/APTA/SAA-SP. Sertãozinho/SP, Brasil. mezmerca@ig.com.br 
+6Pesquisador Associado da Associação Nacional de Criadores e Pesquisadores (ANCP). Ribeirão Preto/SP. raysildo@ancp.org.br 
+ 
+ 
+Resumo: Dados de 19.458 animais da raça Nelore, participantes do Programa de Melhoramento 
+Genético da Raça Nelore (PMGRN), foram utilizados para estimar correlações genéticas entre pesos ao 
+nascimento (PN), à desmama (PD), ao sobreano (PS) e aos 2 (P2A), 3 (P3A) e 5 (P5A) anos de idade. 
+Utilizou-se o método da máxima verossimilhança restrita, em análise multicaracterística, com modelo 
+que incluiu o efeito genético aditivo direto, como aleatório, além dos efeitos fixos de grupo de 
+contemporâneos, idade do animal à pesagem (com exceção do modelo para PN) e idade da mãe ao parto. 
+O efeito aleatório de ambiente permanente materno também foi incluído para PN, PD e PS, e o genético 
+materno somente no modelo do PD. As correlações genéticas estimadas entre os pesos foram positivas e 
+de moderadas a altas, com tendência de diminuição de acordo com o aumento da distância entre as 
+pesagens, indicando que a seleção para peso em qualquer idade deverá promover mudança genética nos 
+pesos nas demais idades, inclusive no peso adulto de fêmeas.  
+ 
+Palavras–chave: bovinos de corte, correlação genética, maturidade, peso corporal 
+ 
+Estimates of genetic correlations between weights from birth to mature in Nelore cattle 
+ 
+Abstract: Records of 19,458 Nellore breed animals, born from 1975 to 2002, from 8 herds participating 
+in the Nellore Cattle Breeding Program (NCBP) were used to estimate genetic correlations between birth 
+weight (BW), weaning weight (WW), and 18 months (W18M), 2 (W2Y), 3 (W3Y) and 5 (W5Y) years of 
+age. The restricted maximum likelihood method, with multivariate analyses, was used. The model 
+included the random additive genetic direct effect (animal) and fixed effects of contemporary group and 
+the covariates, age of calf (except for BW) and age of cow at calving (linear and quadratic effects). For 
+BW, WW and W18M the model included also permanent environmental effects as randon, and for WW 
+the additive maternal effect was added. The genetic correlation estimates between traits were positive 
+and moderate to high, decreasing with the increase in the distance between records. In general, these 
+results indicate that selection for weight at any age will promote changes in weights on every age 
+including female mature weight. 
+ 
+Keywords: beef cattle, body weight, genetic correlation, maturity 
+ 
+Introdução 
+A seleção de animais que apresentam maiores pesos em idades jovens é uma prática comum nos 
+programas de melhoramento de bovinos de corte. Nos últimos anos, a seleção para maiores pesos, ou 
+ganhos em peso, em idades jovens, tem sido questionada com argumento de que este critério pode trazer, 
+como conseqüência, o aumento do peso adulto dos animais. 
+Os registros de peso adulto em um programa de melhoramento genético se constituem em amostra 
+bastante selecionada e estão sujeitos aos efeitos de seleção, já que são obtidos apenas em parte dos 
+animais nascidos, geralmente, nas fêmeas em reprodução. Nesse contexto, análises multicaracterísticas 
+levam em conta o descarte não-aleatório, explorando as correlações genéticas e ambientais entre uma 
+medida tomada antes da seleção dos animais e pesos adultos medidos subseqüentemente (Meyer, 1995) 
+sendo, dessa forma, uma alternativa para avaliação genética do peso adulto (Mercadante et al., 2004). 
+No geral, estudos disponíveis sobre peso adulto de Bos indicus sugerem a existência de 
+variabilidade genética suficiente para o alcance de mudança genética em programas de melhoramento 
+
+ 
+2 
+ 
+(Rosa et al., 2001 e Mercadante et al., 2004), seja com objetivo de diminuir, aumentar, ou mantê-lo 
+constante. Porém, observa-se uma grande lacuna de pesquisas sobre peso adulto de raças zebuínas em 
+condições brasileiras, desde abordagens sobre que pesos devem ser considerados em uma avaliação 
+genética, até a magnitude das correlações com pesos e ganhos em peso obtidos em idades jovens. 
+O objetivo do presente estudo foi estimar correlações genéticas entre pesos do nascimento à idade 
+adulta (peso ao nascer, à desmama, ao sobreano e aos 2, 3 e 5 anos de idade) de animais da raça Nelore. 
+ 
+Material e Métodos 
+ 
+Foram utilizados dados de 19.458 animais da raça Nelore, nascidos entre 1975 e 2002, 
+pertencentes a 8 fazendas participantes do Programa de Melhoramento Genético da Raça Nelore 
+(PMGRN). As características avaliadas foram: peso ao nascimento (PN), à desmama (PD), ao sobreano 
+(PS) e aos 2 (P2A), 3 (P3A) e 5 (P5A) anos de idade. Sempre foram tomadas as pesagens mais próximas 
+e essas idades, num intervalo que variou de 180 a 300 dias para PD (240 dias de idade); 490 a 610 dias 
+para PS (550 dias de idade); 650 a 810 dias para P2A (2 anos de idade); 2,5 a 3,5 anos para P3A (3 anos 
+de idade) e 4,5 a 5,5 anos para P5A (5 anos de idade). Foram excluídos registros de pesos fora dos 
+intervalos dados pela média do grupo de contemporâneos (GC) mais ou menos três desvios-padrão. 
+Como sugerido por Rosa et al. (2001), o peso mais próximo aos 5 anos de idade foi considerado como 
+indicativo do peso adulto. Para as estações de nascimento, foram agrupados os meses de dezembro a 
+fevereiro (estação 1), março a maio (estação 2), junho a agosto (estação 3) e setembro a novembro 
+(estação 4). Os GC foram constituídos por animais nascidos na mesma fazenda, ano e estação e 
+pertencentes ao mesmo sexo. Para P3A e P5A não foi considerado o sexo no GC, uma vez que foram 
+analisadas somente informações de fêmeas. GC com menos de 4 observações foram excluídos. A 
+estrutura geral do arquivo de dados analisado apresenta-se descrita na Tabela 1.  
+ 
+Tabela 1- Descrição dos dados de peso ao nascimento (PN), à desmama (PD), ao sobreano (PS) e aos 2 
+(P2A), 3 (P3A) e 5 (P5A) anos de idade 
+Descrição 
+PN 
+PD 
+PS 
+P2A 
+P3A 
+P5A 
+Observações 
+635 
+18.770 
+14.242 
+5.378 
+1.561 
+1.222 
+Touros 
+27 
+515 
+496 
+373 
+180 
+190 
+Vacas 
+397 
+8.546 
+7.382 
+3.756 
+1.115 
+966 
+ 
+ 
+ 
+As correlações foram estimadas pelo método da máxima verossimilhança restrita (REML) em 
+análise multicaracterística utilizando o programa REMLF90 (Misztal, 2001), que emprega o algoritmo de 
+Maximização da Esperança (EM), com processo de aceleração da convergência. O modelo utilizado 
+incluiu os efeitos genético aditivo direto, genético aditivo materno (somente para PD), de ambiente 
+permanente materno (PN, PD e PS) e residual como aleatórios, além dos efeitos fixos de grupo de 
+contemporâneos e os efeitos linear e quadrático da idade do animal à pesagem (com exceção do PN) e da 
+idade da mãe ao parto. A matriz de parentesco continha informações de 26.924 animais.  
+ 
+Resultados e Discussão 
+O número de observações e as médias de peso nas diferentes idades são apresentados na Figura 1. 
+O menor número de observações, obtidos principalmente a partir do sobreano, se deve ao fato dos 
+animais serem selecionados da desmama ao sobreano e, a partir dessa idade, terem permanecido nos 
+rebanhos somente aqueles usados como reprodutores.  
+ 
+0
+5000
+10000
+15000
+20000
+0
+240
+550
+730
+1095 1825
+Idade (dias)
+Número de animais
+0
+200
+400
+600
+Média de peso (kg)
+ 
+Figura 1- Número de animais (barras), média e desvio-padrão de pesos (linhas), por idade 
+ 
+
+ 
+3 
+ 
+As correlações genéticas e residuais estimadas entre os pesos do nascimento à idade adulta, 
+obtidas na análise multicaracterística, estão apresentadas na Tabela 1. As correlações genéticas estimadas 
+entre o peso ao nascer e pesos até os dois anos de idade foram positivas, de moderadas a altas 
+magnitudes, com tendência de diminuição após esse período. Portanto, a seleção baseada em pesos  
+obtidos em idades jovens pode levar ao aumento do peso ao nascer e ter, como conseqüência, aumento da 
+incidência de partos distócicos a médio prazo. 
+ 
+ 
+Tabela 1- Estimativas das correlações genéticas (acima da diagonal) e residuais (abaixo da diagonal) 
+entre as características de crescimento, obtidas em análise multicaracterística 
+ 
+PN 
+PD 
+PS 
+P2A 
+P3A 
+P5A 
+PN 
+- 
+0,81 
+0,74 
+0,61 
+0,54 
+0,43 
+PD 
+0,27 
+- 
+0,82 
+0,69 
+0,65 
+0,63 
+PS 
+0,26 
+0,41 
+- 
+0,85 
+0,69 
+0,66 
+P2A 
+0,19 
+0,32 
+0,37 
+- 
+0,71 
+0,74 
+P3A 
+0,12 
+0,24 
+0,28 
+0,31 
+- 
+0,88 
+P5A 
+0,10 
+0,19 
+0,17 
+0,26 
+0,39 
+- 
+PN (peso ao nascer); PD (peso ao desmame); PS (peso ao sobreano); P2A (peso aos 2 anos de idade); P3A (peso aos 
+3 anos de idade) e P5A (peso aos 5 anos de idade) 
+ 
+ 
+As correlações genéticas estimadas entre PD, PS e P2A foram altas e positivas, indicando que a 
+grande parte dos genes responsáveis por maiores pesos da desmama aos dois anos de idades são os 
+mesmos. 
+ 
+As correlações genéticas estimadas entre pesos obtidos em idades jovens com peso adulto 
+variaram de moderadas a altas. Para animais da raça Hereford, Meyer et al. (2004) estimaram correlações 
+genéticas entre PN, PD e PS com o peso adulto de 0,62; 0,49 e 0,77, respectivamente. Observa-se que, 
+em geral, as correlações genéticas são maiores entre pesos adjacentes, apresentando redução à medida 
+que as idades vão se distanciando. Os valores de correlações genéticas sugerem que, grande parte dos 
+animais geneticamente superiores em uma determinada idade deverão ser superiores também nas idades 
+posteriores, principalmente, a partir da desmama. 
+ 
+De modo geral, as correlações genéticas estimadas para pesos medidos em idades jovens versus 
+pesos em idades mais avançadas podem ser consideradas de relevante valor prático uma vez que, o peso 
+adulto estaria sendo sujeito a aumentos, como resposta à seleção para maiores pesos em idades mais 
+jovens, o que vem sendo praticado em gado de corte. Esses resultados reforçam a preocupação atual com 
+o tamanho adulto das matrizes para a maioria das raças bovinas de corte, uma vez que, segundo alguns 
+estudos, existe correlação genética baixa, porém desfavorável, entre peso adulto e características 
+reprodutivas (Meyer et al., 2004). Outros estudos são necessários para investigar quais pesos devem ser 
+considerados como critério de seleção quando se tem por objetivo manter constante o peso adulto das 
+matrizes. 
+ 
+Conclusões 
+A seleção com base em características de crescimento em qualquer idade pode promover ganhos 
+genéticos consideráveis no peso corporal de animais da raça Nelore, em todas as idades-padrão, inclusive 
+nos pesos ao nascer e adulto das fêmeas. 
+ 
+Literatura Citada 
+MERCADANTE, M.E.Z.; RAZOOK, A.G.; TROVO, J.B.F. et al. Parâmetros genéticos do peso no 
+início da estação de monta, considerando indicativo do peso adulto de matrizes Nelore. Revista 
+Brasileira de Zootecnia, v.33, n.5, p.1135- 1144, 2004. 
+MEYER, K. Estimates of genetic parameters for mature weight of Australian beef cows and its 
+relationship to early growth and skeletal measures. Livestock Production Science, v.44, p.125-137, 
+1995. 
+MEYER, K., JOHNSTON, D., GRASER, H. Estimates of the complete genetic covariance matrix for 
+traits in multi-trait genetic evaluation of Australian Hereford cattle. Australian Journal of Agricultural 
+Research, v.55, p.195-210, 2004. 
+MISZTAL, 
+I. 
+REMLF90 
+Manual, 
+2001. 
+Disponível 
+em: 
+http://nce.ads.uga.edu/~ignacy/newprograms.html/. Acesso em 06/04/2007. 
+ROSA, A.N.; LÔBO, R.B.; OLIVEIRA, H.N. et al. Peso adulto de matrizes em rebanhos de seleção da 
+raça Nelore no Brasil. Revista Brasileira de Zootecnia, v.30, n.3, p.1027- 1033, 2001. 
+ 

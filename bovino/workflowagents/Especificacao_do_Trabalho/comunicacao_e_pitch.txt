@@ -1,0 +1,294 @@
+Universidade Federal do Ceará 
+Departamento de Estatística e Matemática Aplicada - Centro de Ciências 
+ 
+Professor Rafael Bráz Azevedo Farias 
+Disciplina: CC0290 - Modelos de Regressão I                  Equipe: de 2 (duas) a 4 (quatro) pessoas 
+Prazo para envio da apresentação: até dia12/06/2026    Início das apresentações: a partir do dia 15/06/2026 
+ 
+COMUNICAÇÃO VISUAL E PITCH ORIENTADOS AO PÚBLICO-ALVO 
+ 
+Nesta atividade, a elaboração da Comunicação visual e do Pitch deverá estar fundamentada nos conteúdos 
+desenvolvidos na disciplina de Modelos de Regressão I, com ênfase nos modelos de regressão linear simples e 
+múltipla. Espera-se que as apresentações sejam construídas conforme o público-alvo escolhido. 
+Cada grupo deverá selecionar um dos seguintes públicos-alvo para orientar a construção da apresentação: 
+• 
+Ensino médio: público composto por estudantes em fase inicial de formação, com conhecimento limitado 
+em estatística. A comunicação deve priorizar linguagem simples, exemplos concretos e explicações 
+intuitivas, evitando formalismos e notação técnica excessiva. 
+• 
+Ensino superior - graduação: público com maior familiaridade com conceitos acadêmicos, embora nem 
+sempre especializado na área. A apresentação pode incorporar maior rigor conceitual e terminologia técnica, 
+desde que mantenha clareza e organização. 
+• 
+Setor privado: público voltado à tomada de decisão em contextos empresariais. A comunicação deve 
+enfatizar resultados, implicações práticas e possíveis aplicações, com foco em objetividade e relevância para 
+o negócio. 
+• 
+Administração pública: público relacionado à formulação e implementação de políticas públicas. A 
+apresentação deve destacar impactos sociais, evidências para tomada de decisão e possíveis implicações para 
+a gestão pública, mantendo clareza e responsabilidade na interpretação dos resultados. 
+A escolha do público-alvo deve orientar todas as decisões da apresentação, incluindo linguagem, nível de 
+detalhamento, uso de gráficos e ênfase nos resultados. 
+1. Orientações para a elaboração da comunicação visual 
+A comunicação visual deve ser entendida como a estrutura da mensagem, organizando e destacando os principais 
+elementos da análise. Os slides devem ser construídos de forma a facilitar a compreensão dos resultados e orientar a 
+apresentação oral (pitch), sempre considerando o público-alvo escolhido. 
+1.1 Orientações gerais 
+Função dos slides 
+Os slides devem ser compreendidos como um suporte à comunicação oral, e não como um substituto da fala. Sua 
+principal função é organizar visualmente as ideias, destacando os pontos centrais da análise e auxiliando o público a 
+acompanhar a apresentação. Dessa forma, não se espera que os slides contenham todo o conteúdo que será dito, mas 
+sim que atuem como um guia visual que estrutura a narrativa do apresentador. 
+Organização e estrutura 
+A comunicação visual deve seguir uma sequência lógica que permita ao público compreender o desenvolvimento da 
+análise de forma progressiva. Recomenda-se que os slides sejam organizados contemplando, de maneira clara, os 
+seguintes elementos: contexto ou problema, objetivo da análise, descrição da base de dados, apresentação dos 
+resultados, interpretação e, por fim, conclusão e implicações. Além disso, cada slide deve possuir um objetivo 
+específico, evitando a sobreposição de informações e contribuindo para uma apresentação mais clara e bem 
+estruturada. 
+Uso de texto 
+O uso de texto nos slides deve ser feito de forma sintética, priorizando palavras-chave e frases curtas que destaquem 
+os principais pontos da apresentação. Parágrafos longos devem ser evitados, pois dificultam a leitura e desviam a 
+atenção da fala do apresentador. A comunicação visual deve enfatizar apenas o essencial, permitindo que a explicação 
+
+detalhada seja realizada oralmente. Como regra prática, sempre que um slide se assemelhar a um texto corrido, ele 
+deve ser reformulado para torná-lo mais objetivo e visualmente acessível. 
+Uso de gráficos 
+Os gráficos desempenham um papel central na comunicação, especialmente em análises baseadas em modelos de 
+regressão. Eles devem ser claros, legíveis e conter todas as informações necessárias à sua compreensão, como títulos, 
+identificação dos eixos e unidades de medida. Cada gráfico deve estar associado a uma mensagem específica, 
+contribuindo diretamente para a construção da narrativa da apresentação. Deve-se evitar o uso de gráficos 
+excessivamente carregados de informação, a ausência de explicação visual ou o uso de elementos desnecessários que 
+possam comprometer a clareza. 
+Design e legibilidade 
+O design dos slides deve priorizar a legibilidade e a consistência visual. Recomenda-se o uso de fontes adequadas e 
+em tamanho suficiente para garantir a leitura à distância, bem como a adoção de contrastes apropriados entre fundo 
+e texto. A padronização ao longo dos slides contribui para uma apresentação mais organizada e profissional. O uso 
+de cores deve ser feito de forma moderada e funcional, evitando excessos que possam gerar poluição visual ou desviar 
+a atenção do conteúdo principal. Elementos decorativos irrelevantes devem ser evitados. 
+Coerência com a análise 
+A comunicação visual deve refletir fielmente os resultados obtidos por meio dos modelos de regressão estudados na 
+disciplina. As interpretações apresentadas devem ser consistentes com a análise realizada, respeitando os limites dos 
+dados e dos modelos utilizados. É fundamental evitar conclusões que não sejam sustentadas pelos resultados, 
+garantindo rigor e responsabilidade na comunicação das informações. 
+Adequação ao tempo 
+A quantidade de conteúdo apresentada deve ser compatível com o tempo disponível para a exposição. Slides com 
+excesso de informação dificultam a apresentação e comprometem a compreensão do público. Por outro lado, uma 
+quantidade insuficiente de slides pode indicar falta de desenvolvimento do conteúdo. Assim, é importante buscar um 
+equilíbrio entre profundidade e clareza, distribuindo adequadamente o conteúdo ao longo da apresentação. 
+Comunicado: Especificação de Contribuição Intelectual 
+Para a finalização do projeto, solicita-se um documento único com descrição detalhada da contribuição intelectual 
+de cada um dos membros da equipe na elaboração do trabalho. 
+Ressalta-se que essa descrição não deve ser feita de forma genérica (ex: "ajudei em tudo" ou "participei das 
+reuniões"). Da mesma forma, as atribuições devem refletir as responsabilidades individuais reais; portanto, evitem 
+replicar as mesmas tarefas para todos os membros, uma vez que cada um desempenhou papéis específicos na 
+construção do conhecimento e na execução técnica. 
+Por favor, especifiquem suas atividades focando em pontos como: 
+• 
+Concepção da ideia e delineamento dos objetivos; 
+• 
+Desenvolvimento da metodologia ou análise de dados; 
+• 
+Redação técnica ou revisão crítica de seções específicas; 
+• 
+Pesquisa bibliográfica e fundamentação teórica. 
+A precisão nessas informações é fundamental para garantir a integridade acadêmica do projeto e o reconhecimento 
+justo do esforço de cada um. 
+1.2 Orientações específicas por público-alvo 
+Ensino médio 
+Cenário: estudantes do ensino médio circulam por diferentes estandes, com tempo limitado e atenção voltada para 
+temas que façam sentido em sua realidade. Nesse cenário, a comunicação visual deve ser construída de forma a captar 
+rapidamente o interesse do público, utilizando situações próximas do cotidiano e evitando abordagens abstratas ou 
+excessivamente técnicas. A apresentação deve começar com um elemento que gere curiosidade imediata e conexão 
+com a experiência dos estudantes. 
+
+A construção dos slides deve partir de uma pergunta simples, direta e relevante para esse público. Exemplos de 
+perguntas incluem: “Ficar muito tempo no celular prejudica o desempenho escolar?”, “Estudar mais horas realmente 
+melhora a nota?” ou “Dormir pouco afeta o rendimento nos estudos?”. Essa pergunta deve aparecer logo no início da 
+apresentação e orientar toda a sequência dos slides, funcionando como fio condutor da análise. 
+A partir dessa pergunta, os slides devem mostrar, de forma clara e intuitiva, que é possível utilizar dados para 
+investigar esse tipo de questão. Não se espera uma definição formal de modelo de regressão, mas sim que os alunos 
+consigam comunicar que existe uma forma de analisar relações entre variáveis e que essa ferramenta é utilizada para 
+responder perguntas desse tipo. A ideia central é mostrar que a regressão é um instrumento que permite compreender 
+relações presentes nos dados. 
+A organização dos slides deve seguir uma sequência simples e bem definida. Inicialmente, apresenta-se a pergunta 
+de interesse. Em seguida, deve-se indicar que os dados podem ser utilizados para investigar essa questão. Depois, os 
+dados são apresentados de forma breve e acessível. Na sequência, deve-se incluir um gráfico principal, simples e 
+visual, que mostre a relação analisada, acompanhado de um título explicativo que destaque a principal mensagem. 
+Em seguida, os alunos devem interpretar o que está sendo observado no gráfico, utilizando linguagem clara. Por fim, 
+deve-se apresentar uma conclusão que responda diretamente à pergunta inicial e indicar que esse tipo de análise é 
+realizado por meio de modelos de regressão. 
+Ao longo da apresentação, deve-se evitar iniciar pelos aspectos técnicos, como definições formais ou fórmulas. O 
+foco deve estar na compreensão da ideia central, e não na formalização matemática. Termos técnicos devem ser 
+evitados ou substituídos por expressões mais simples, sempre que possível. Também devem ser evitados slides 
+abstratos ou desconectados da pergunta inicial. 
+O objetivo final é que o estudante compreenda que perguntas do cotidiano podem ser investigadas com dados e que 
+existe uma ferramenta, o modelo de regressão, capaz de ajudar a responder esse tipo de questão. Como critério 
+prático, ao final da apresentação, espera-se que um estudante seja capaz de reconhecer, ainda que de forma intuitiva, 
+que a regressão pode ser utilizada para analisar relações como, por exemplo, o impacto do tempo de estudo ou do 
+uso de celular sobre o desempenho escolar. 
+Ensino superior - graduação 
+Cenário: você foi convidado para ministrar uma palestra em uma Semana do curso, como uma Semana da 
+Tecnologia, Biotecnologia ou áreas afins, o público é composto por estudantes de graduação que já possuem alguma 
+familiaridade com conceitos científicos e interesse em aplicações práticas. Além disso, a apresentação pode contribuir 
+diretamente para a elaboração de trabalhos de conclusão de curso (TCC), servindo como inspiração metodológica ou 
+como exemplo de aplicação de técnicas quantitativas. 
+A construção dos slides deve partir de uma pergunta de pesquisa clara, semelhante àquelas que poderiam orientar um 
+trabalho acadêmico. Exemplos incluem: “Como a temperatura e o pH influenciam a taxa de crescimento 
+microbiano?”, “Qual é o efeito do tempo de reação e da concentração de reagente sobre o rendimento do processo?”, 
+“Como a umidade do solo e a quantidade de fertilizante afetam a produtividade agrícola?” Essa pergunta deve 
+aparecer logo no início da apresentação e funcionar como eixo central da análise, evidenciando que o estudo está 
+orientado por um problema bem definido. 
+A partir dessa pergunta, os slides devem mostrar que é possível utilizar dados para investigar a relação proposta, 
+introduzindo de forma natural a ideia de modelagem estatística. Aqui é possível avançar um pouco mais na 
+explicação, indicando que o modelo de regressão permite quantificar relações entre variáveis e avaliar a influência 
+de diferentes fatores. Ainda assim, o foco deve permanecer na interpretação e na aplicação, e não na formalização 
+matemática detalhada. 
+A organização dos slides deve seguir uma sequência lógica e próxima de uma apresentação acadêmica. Inicialmente, 
+apresenta-se a pergunta de pesquisa. Em seguida, deve-se contextualizar o problema e justificar sua relevância. 
+Depois, descreve-se a base de dados e as variáveis consideradas. Na sequência, apresenta-se o modelo de forma 
+conceitual, seguido dos principais resultados, preferencialmente por meio de gráficos e tabelas simples. Em seguida, 
+os resultados devem ser interpretados, destacando o papel das variáveis e os principais achados. Por fim, deve-se 
+apresentar a conclusão, respondendo à pergunta inicial, e indicar possíveis implicações ou desdobramentos, como 
+sugestões para trabalhos futuros ou aplicações práticas. 
+Ao longo da apresentação, deve-se evitar tanto o excesso de formalismo quanto a superficialidade. O uso de termos 
+técnicos é permitido, desde que acompanhado de explicações claras. Não é necessário apresentar demonstrações 
+
+matemáticas ou derivar fórmulas, mas é importante garantir que a interpretação dos resultados esteja correta e bem 
+fundamentada. Os slides devem manter conexão direta com a pergunta inicial, evitando a apresentação de resultados 
+desconectados do problema proposto. 
+O objetivo final é que o público compreenda que modelos de regressão podem ser utilizados como ferramentas para 
+investigar perguntas relevantes em sua área de formação, servindo como base para a construção de projetos 
+acadêmicos. Como critério prático, espera-se que um estudante seja capaz de reconhecer como estruturar uma 
+pergunta de pesquisa, utilizar dados para investigá-la e interpretar resultados de forma consistente, identificando 
+possibilidades de aplicação em seu próprio contexto de estudo. 
+Setor privado 
+No contexto de uma feira do empreendedorismo, o público é composto por empresários e profissionais de diferentes 
+áreas, como tecnologia, saúde e educação, interessados em soluções práticas que possam impactar seus negócios. 
+Esses participantes circulam por diferentes estandes buscando ideias que tragam ganhos concretos, como aumento 
+de receita, redução de custos ou melhoria de desempenho. Nesse cenário, a comunicação visual deve ser direta, 
+objetiva e orientada à tomada de decisão, destacando resultados e implicações práticas da análise. 
+A construção dos slides deve partir de uma pergunta de negócio clara, na qual as variáveis estejam explicitamente 
+definidas. A pergunta deve deixar evidente o que se deseja melhorar ou prever (variável resposta) e quais fatores 
+podem influenciar esse resultado (variáveis explicativas), como por exemplo: “Qual o efeito do tempo de resposta 
+do suporte e da quantidade de erros no sistema sobre a satisfação do usuário?”, Como o tempo de atendimento e o 
+número de profissionais disponíveis impactam a eficiência do serviço de saúde?”, Qual o efeito do uso de plataformas 
+digitais e da frequência às aulas sobre a nota final?” 
+Essas perguntas devem aparecer logo no início da apresentação e orientar toda a construção dos slides, deixando 
+claro qual é o problema de negócio que está sendo analisado. 
+A partir dessas perguntas, os slides devem mostrar que os dados podem ser utilizados para compreender essas 
+relações, destacando que o modelo de regressão permite quantificar o impacto de cada variável sobre o resultado de 
+interesse. A comunicação deve enfatizar quais fatores têm maior influência e como isso pode ser interpretado no 
+contexto prático. 
+A organização dos slides deve ser simples e orientada à decisão. Inicialmente, apresenta-se a pergunta. Em seguida, 
+contextualiza-se brevemente o problema. Depois, descrevem-se os dados e as variáveis envolvidas. Na sequência, 
+apresentam-se gráficos claros que evidenciem as relações identificadas. Em seguida, os resultados devem ser 
+interpretados de forma direta, destacando os efeitos das variáveis. Por fim, deve-se apresentar uma conclusão objetiva 
+e indicar possíveis implicações práticas. 
+Ao longo da apresentação, deve-se evitar explicações teóricas detalhadas e excesso de termos técnicos. O foco deve 
+estar na interpretação dos resultados e na sua utilidade prática, garantindo que o público compreenda rapidamente 
+como a análise pode apoiar decisões. 
+O objetivo final é que o empresário consiga identificar quais fatores influenciam o resultado analisado e como essa 
+informação pode ser utilizada em seu contexto. Como critério prático, espera-se que, ao final da apresentação, o 
+público compreenda claramente qual variável impacta o resultado e qual ação pode ser tomada a partir disso. 
+Administração pública 
+Cenário: você irá participar da Feira do Conhecimento do Estado do Ceará e irá apresentar um projeto de extensão 
+voltado à administração pública, com potencial de apoiar decisões e intervenções em áreas como tecnologia, 
+educação, saúde ou gestão. A comunicação visual deve ser clara, responsável e orientada ao uso de evidências, 
+destacando como a análise pode contribuir para a compreensão de problemas reais e para a melhoria de indicadores 
+públicos. 
+A construção dos slides deve partir de uma pergunta de interesse público, na qual as variáveis estejam explicitamente 
+definidas. A pergunta deve indicar claramente o indicador ou resultado de interesse (variável resposta) e os fatores 
+que podem influenciá-lo (variáveis explicativas). Exemplos incluem: “Como o acesso a recursos educacionais e a 
+participação em atividades extracurriculares impactam o desempenho escolar?”, Como o acesso a serviços de saúde 
+e a adesão ao tratamento impactam os resultados em saúde?”, “Como o nível de execução orçamentária e o 
+planejamento institucional impactam os indicadores de desempenho?” 
+
+2. Rúbrica de avaliação 
+Critério 
+0 pontos 
+1 ponto 
+2 pontos 
+Estrutura e 
+organização 
+Apresentação 
+desorganizada, sem 
+sequência lógica clara 
+Estrutura parcialmente 
+organizada, com falhas na 
+sequência ou ausência de 
+elementos 
+Estrutura clara e completa 
+(contexto, objetivo, dados, 
+análise, interpretação, 
+conclusão) 
+Clareza e 
+objetividade dos 
+slides 
+Slides confusos, com 
+excesso de texto ou 
+difícil compreensão 
+Alguns slides claros, mas com 
+excesso de texto ou 
+inconsistências 
+Slides claros, objetivos, com 
+uso adequado de palavras-
+chave 
+Uso de gráficos e 
+apresentação dos 
+resultados 
+Ausência de gráficos 
+relevantes ou uso 
+inadequado 
+Gráficos presentes, mas com 
+problemas de legibilidade ou 
+interpretação 
+Gráficos claros, bem 
+rotulados e alinhados à 
+análise 
+Coerência com os 
+modelos de 
+regressão 
+Interpretações incorretas 
+ou não sustentadas pelos 
+dados 
+Interpretações parcialmente 
+corretas, mas superficiais ou 
+com pequenas inconsistências 
+Resultados corretamente 
+apresentados e interpretados 
+conforme os modelos 
+Adequação ao 
+público-alvo 
+Comunicação não 
+adaptada ao  
+público escolhido 
+Comunicação claramente 
+adaptada ao público 
+(linguagem, nível e visual) 
+- 
+Pitch (realização e 
+tempo) 
+Não apresentou 
+Apresentou dentro do tempo 
+(entre 8 e 12 minutos) 
+- 
+ 
+Critérios adicionais individuais 
+Critério 
+- 4 pontos 
+- 2 pontos 
+0 ponto 
+Especificação de 
+Contribuição 
+Intelectual 
+A contribuição é genérica, 
+copiada, puramente 
+administrativa ou não enviou. 
+A contribuição é vaga ou 
+demonstra pouca 
+diferenciação. 
+A contribuição é clara, 
+específica e 
+individualizada. 
+ 

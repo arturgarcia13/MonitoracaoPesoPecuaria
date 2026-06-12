@@ -1,0 +1,538 @@
+5.1 Paradigmas de Estimação no MRLS
+A formulação do Modelo de Regressão Linear Simples (MRLS), discutida anteriormente, descreve a estrutura da
+média condicional de 
+ em função de 
+, isto é,
+O desafio agora é estimar os parâmetros desconhecidos 
+ e 
+ a partir de dados observados 
+.
+Esse processo de estimação pode ser realizado via diferentes métodos, cada um apoiado em princípios e hipóteses
+próprias.
+A estimação pode ser conduzida sob diferentes paradigmas, isto é, diferentes princípios fundamentais que definem
+o que significa “estimar bem” um parâmetro. Esses paradigmas não diferem apenas em técnica, mas em filosofia
+estatística e nas hipóteses assumidas sobre o modelo.
+O Método dos Mínimos Quadrados Ordinários (MQO) é a abordagem clássica no contexto da regressão linear.
+Seu princípio é puramente geométrico e algébrico: escolher 
+ e 
+ de modo a minimizar a soma dos quadrados dos
+resíduos,
+Esse critério não exige, para a obtenção dos estimadores, a especificação de uma distribuição para os erros. A
+minimização conduz a um sistema de equações conhecido como equações normais, que caracteriza a solução de
+mínimos quadrados (Draper; Smith, 1998; Montgomery; Peck; Vining, 2021). A ausência de suposição distributiva
+mostra que o MQO é, antes de tudo, um procedimento de ajuste determinístico baseado na estrutura linear do
+modelo.
+Do ponto de vista estatístico, sob as hipóteses já apresentadas, a saber, linearidade nos parâmetros,
+, homoscedasticidade e ausência de correlação entre erros os estimadores de MQO possuem
+propriedades fundamentais como não viés e variâncias com forma explícita. Essas propriedades não dependem da
+normalidade dos erros; a normalidade é necessária apenas quando se desejam distribuições exatas em amostras
+finitas para testes e intervalos de confiança (Kutner et al., 2005). Assim, o MQO é um método de estimação que se
+apoia primariamente na estrutura do modelo médio e nas condições de regularidade, e não em hipóteses
+distributivas fortes.
+Outro caminho é o Método da Máxima Verossimilhança (MV). Nesse paradigma, parte-se da especificação
+completa da distribuição condicional de 
+, frequentemente assumindo
+o que implica que 
+ também segue distribuição normal com média 
+ e variância 
+. Os
+estimadores são então definidos como aqueles que maximizam a função de verossimilhança, isto é, a probabilidade
+conjunta dos dados observados vista como função dos parâmetros. Quando o modelo probabilístico está
+corretamente especificado, a MV produz estimadores consistentes, assintoticamente normais e eficientes sob
+condições regulares (Casella; Berger, 2002).
+5  Estimação por Mínimos Quadrados no MRLS
+Y
+X
+E(Yi ∣Xi) = β0 + β1Xi.
+β0
+β1
+{(Xi, Yi)}n
+i=1
+^β0
+^β1
+S(β0, β1) =
+n
+∑
+i=1
+[Yi −(β0 + β1Xi)]2.
+E(εi ∣Xi) = 0
+Yi ∣Xi
+εi ∼N (0, σ2),
+Yi ∣Xi
+μi = β0 + β1Xi
+σ2
+Parte II — Modelo de Regressão Linear Simples (MRLS)
+> 5  Estimação por Mínimos Quadrados no MRLS
+
+
+No caso particular do modelo linear com erros normais homoscedásticos e não correlacionados, os estimadores de
+máxima verossimilhança coincidem com os estimadores de mínimos quadrados. Essa coincidência não é acidental: a
+minimização da soma de quadrados é equivalente à maximização da verossimilhança normal. Contudo,
+conceitualmente, os dois métodos partem de princípios distintos, um geométrico/algebraico e outro probabilístico.
+Uma terceira alternativa são os métodos bayesianos, nos quais os parâmetros 
+ e 
+ são tratados como variáveis
+aleatórias. Nesse caso, especifica-se uma distribuição a priori conjunta para 
+ e 
+ e combina-se essa informação
+com a verossimilhança dos dados por meio do Teorema de Bayes, obtendo-se a distribuição a posteriori
+A estimação passa então a ser baseada em características dessa distribuição a posteriori (como média, mediana ou
+moda). Esse paradigma explicita a incerteza sobre os parâmetros e permite incorporar informação prévia de forma
+formal (Casella; Berger, 2002; Gelman et al., 2014).
+Portanto, a estimação no MRLS pode ser conduzida sob diferentes paradigmas: minimização de resíduos (MQO),
+maximização da verossimilhança (MV) ou atualização bayesiana de crenças. Cada abordagem parte de fundamentos
+conceituais distintos, tais quais, geométrico-algébrico, probabilístico ou epistemológico, e conduz a interpretações
+próprias dos parâmetros e da incerteza associada.
+Neste livro, a estimação por mínimos quadrados ordinários (MQO) receberá tratamento mais detalhado e
+sistemático. A razão é dupla: em primeiro lugar, o MQO não exige a especificação de uma distribuição para os erros
+para a obtenção dos estimadores, apoiando-se apenas na estrutura do modelo médio e nas hipóteses clássicas de
+exogeneidade e regularidade; em segundo lugar, ele constitui a base do Teorema de Gauss–Markov e de grande
+parte da teoria dos modelos lineares, servindo como alicerce conceitual para extensões posteriores.
+A máxima verossimilhança (MV) também será contemplada, sobretudo quando discutirmos aspectos inferenciais e
+conexões entre estrutura probabilística e eficiência assintótica. No caso do modelo linear com erros normais,
+veremos inclusive a coincidência formal entre MQO e MV, o que reforça a unidade conceitual entre os métodos sob
+hipóteses adicionais.
+Por outro lado, embora o paradigma bayesiano seja conceitualmente relevante e metodologicamente poderoso,
+sua abordagem completa exigiria o desenvolvimento de ferramentas próprias, como escolha de distribuições a
+priori, análise da posteriori e métodos computacionais, que extrapolam os objetivos centrais deste texto. Assim, ele
+será mencionado para fins de contextualização, mas não será desenvolvido formalmente neste livro.
+5.2 O Critério dos Mínimos Quadrados Ordinários
+O Método dos Mínimos Quadrados Ordinários (MQO) é a abordagem clássica para a estimação em regressão linear.
+Seu objetivo é encontrar a reta que melhor descreve a relação média entre a variável resposta 
+ e a variável
+explicativa 
+. Essa “melhor” reta é definida como aquela que minimiza a soma dos quadrados dos resíduos, isto é,
+das diferenças entre os valores observados e os valores ajustados pelo modelo (Kutner et al., 2005; Montgomery;
+Peck; Vining, 2021).
+Se denotarmos por 
+ o valor ajustado para a observação , temos:
+e o resíduo correspondente é
+β0
+β1
+β0
+β1
+p(β1, β2 ∣y, X) ∝p(y, X ∣β1, β2) p(β1, β2).
+Y
+X
+^Yi
+i
+^Yi = ^β0 + ^β1Xi,
+ei = Yi −^Yi.
+
+O critério de mínimos quadrados escolhe os parâmetros que minimizam a função de perda quadrática
+Do ponto de vista matemático, trata-se de um problema clássico de otimização: encontrar 
+ que minimizam
+ sobre 
+. A condição de primeira ordem leva a um sistema de duas equações lineares nas incógnitas 
+ e
+, conhecido como equações normais. Essas equações caracterizam completamente a solução de mínimos
+quadrados no modelo linear simples (Draper; Smith, 1998).
+Esse procedimento garante que, entre todas as retas possíveis, a escolhida é aquela que deixa os resíduos, em
+conjunto, “o mais curtos possível” no sentido quadrático. A escolha da penalização quadrática não é arbitrária: a
+função objetivo é uma função polinomial de segundo grau nos parâmetros, contínua e diferenciável, e admite solução
+única sempre que os valores de 
+ não forem todos iguais, isto é, sempre que houver variabilidade na variável
+explicativa. Essa condição assegura a existência e a unicidade da reta de mínimos quadrados.
+Além disso, a penalização pelo quadrado dos desvios atribui maior peso a observações mais afastadas, o que explica
+tanto a eficiência do método sob hipóteses clássicas quanto sua sensibilidade a valores discrepantes (Weisberg,
+2005).
+A figura acima ilustra essa lógica. Os pontos azuis representam as observações 
+, a reta vermelha mostra a
+reta ajustada pelo MQO, e as linhas tracejadas cinzas indicam os resíduos associados a cada ponto. Visualmente, o
+MQO busca a reta que minimiza a soma dos quadrados dessas distâncias verticais. Essa interpretação geométrica
+ajuda a compreender que a regressão não elimina o erro, mas organiza o ruído de forma a recuperar a estrutura
+média do fenômeno.
+S(β0, β1) =
+n
+∑
+i=1
+[Yi −(β0 + β1Xi)]2.
+(^β0, ^β1)
+S(β0, β1)
+R2
+β0
+β1
+X
+MQO: reta ajustada e resíduos destacados.
+(Xi, Yi)
+
+Essa formulação admite duas interpretações complementares.
+Geométrica: o MQO pode ser visto como a projeção ortogonal do vetor de respostas 
+ no
+subespaço gerado pelos vetores 
+ e 
+. A condição de minimização implica
+que o vetor de resíduos 
+ é ortogonal ao espaço gerado pelos regressores, isto é,
+Essas duas condições são precisamente as equações normais no caso simples.
+Estatística: a ortogonalidade amostral dos resíduos aos regressores é o análogo empírico da hipótese
+populacional
+Em outras palavras, após o ajuste, não resta componente linear em 
+ capaz de explicar sistematicamente os
+resíduos. A condição populacional de exogeneidade é refletida, no nível amostral, pela ortogonalidade dos resíduos
+estimados (Kutner et al., 2005).
+Um aspecto central é que o MQO não exige, para a obtenção dos estimadores, a especificação de uma distribuição
+para os erros. Sob as hipóteses de média condicional corretamente especificada, homoscedasticidade e ausência de
+correlação entre erros, os estimadores resultantes são não viesados e apresentam variâncias com forma explícita,
+propriedades que independem da normalidade (Montgomery; Peck; Vining, 2021).
+A normalidade é introduzida apenas quando se desejam distribuições exatas em amostras finitas para estatísticas de
+teste e construção de intervalos de confiança. Em contextos práticos com caudas pesadas ou observações
+discrepantes, podem ser considerados métodos robustos ou funções de perda alternativas. Essa generalidade
+explica por que o MQO constitui o ponto de partida natural e o método mais amplamente ensinado e utilizado na
+análise de regressão linear.
+Y = (Y1, … , Yn)′
+1 = (1, … , 1)′
+X = (X1, … , Xn)′
+^ε = Y −^Y
+n
+∑
+i=1
+^εi = 0
+e
+n
+∑
+i=1
+Xi^εi = 0.
+E(εi ∣Xi) = 0.
+X
+
+5.3 Solução Analítica: A Reta de Regressão por MQO
+No modelo de regressão linear simples
+os estimadores de mínimos quadrados ordinários (MQO) de 
+ e 
+ são obtidos como aqueles que minimizam a soma
+dos quadrados dos resíduos. A solução do problema de minimização leva às formas fechadas:
+onde
+A demonstração resulta da minimização da função
+por meio do cálculo das derivadas parciais em relação a 
+ e 
+ e da resolução do sistema de equações normais
+correspondente. A dedução algébrica completa pode ser consultada no Apêndice de Demonstrações {#demo}.
+Esse resultado estabelece a reta de regressão por MQO como a linha que, ao mesmo tempo, minimiza a soma dos
+quadrados dos resíduos e traduz o padrão médio de associação entre 
+ e 
+. A estrutura explícita das soluções
+mostra que a existência e a unicidade dependem apenas de 
+, isto é, da presença de variabilidade em 
+,
+condição necessária para que a informação sobre a inclinação seja identificável (Kutner et al., 2005; Montgomery;
+Peck; Vining, 2021).
+Do ponto de vista matemático, a minimização de 
+ conduz a uma função quadrática estritamente convexa
+nos parâmetros quando 
+, assegurando que a solução encontrada pelas equações normais seja única. A
+demonstração detalhada dessa propriedade pode ser consultada no Apêndice de Demonstrações {#demo}.
+No entanto, conhecer a forma explícita da reta ajustada é apenas o primeiro passo. A expressão fechada dos
+estimadores revela como eles dependem das quantidades amostrais, mas não informa, por si só, se tais estimadores
+são centrados nos verdadeiros parâmetros, quão precisos são ou como se comportam sob repetição amostral. Para
+que possamos confiar nesses estimadores e utilizá-los em inferência estatística, precisamos examinar suas
+propriedades probabilísticas: não viés, variâncias, covariância entre 
+ e 
+ e qualidade das predições
+produzidas. É justamente esse o foco da próxima seção (Kutner et al., 2005).
+O estimador da inclinação pode ser reescrito como
+Teorema — Reta de Regressão por MQO
+Yi = β0 + β1Xi + εi,
+i = 1, 2, … , n,
+β0
+β1
+^β1 = Sxy
+Sxx
+,
+^β0 = ¯Y −^β1 ¯X,
+Sxx =
+n
+∑
+i=1
+(Xi −¯X)2,
+Sxy =
+n
+∑
+i=1
+(Xi −¯X)(Yi −¯Y ).
+S(β0, β1) =
+n
+∑
+i=1
+[Yi −(β0 + β1Xi)]2,
+β0
+β1
+X
+Y
+Sxx > 0
+X
+S(β0, β1)
+Sxx > 0
+^β0
+^β1
+5.3.1 Interpretação dos Estimadores obtidos via MQO
+^β1 =
+∑n
+i=1(Xi −¯X)(Yi −¯Y )
+∑n
+i=1(Xi −¯X)2
+,
+
+o que evidencia que ele corresponde à covariância amostral entre 
+ e 
+ dividida pela variância amostral de 
+.
+Essa forma deixa claro que 
+ mede a variação média de 
+ associada a um aumento unitário em 
+, sendo
+proporcional ao grau de associação linear entre as duas variáveis (Montgomery; Peck; Vining, 2021).
+O estimador do intercepto,
+implica que a reta ajustada satisfaz
+ou seja, a reta de regressão passa necessariamente pelo ponto médio amostral 
+. Essa propriedade
+decorre diretamente das equações normais e da ortogonalidade dos resíduos aos regressores (Kutner et al., 2005).
+5.4 Propriedades Probabilísticas dos Estimadores de MQO
+Nesta seção reunimos as propriedades essenciais dos estimadores de mínimos quadrados no modelo
+sob as hipóteses usuais de exogeneidade fraca e regularidade:
+com
+Essas condições são suficientes para estabelecer as principais propriedades dos estimadores de MQO, sem
+necessidade de assumir normalidade dos erros. Trata-se exatamente do conjunto de hipóteses sob o qual se
+desenvolve a teoria clássica do modelo linear (Kutner et al., 2005; Montgomery; Peck; Vining, 2021).
+Os estimadores de mínimos quadrados ordinários (MQO)
+em que
+possuem propriedades importantes, que garantem sua validade para inferência estatística.
+Ambos os estimadores são não viesados:
+Um estimador é dito não viesado quando sua esperança coincide com o parâmetro verdadeiro. No presente caso,
+os estimadores 
+ e 
+ são centrados em 
+ e 
+, respectivamente. Em termos frequentistas, isso significa que,
+X
+Y
+X
+^β1
+Y
+X
+^β0 = ¯Y −^β1 ¯X,
+^Y ( ¯X) = ¯Y ,
+( ¯X, ¯Y )
+Yi = β0 + β1Xi + εi,
+i = 1, 2, … , n,
+E[εi ∣Xi] = 0,
+V ar(εi ∣Xi) = σ2,
+Cov(εi, εj ∣Xi, Xj) = 0 ∀(i ≠j),
+Sxx =
+n
+∑
+i=1
+(Xi −¯X)2 > 0.
+^β1 = Sxy
+Sxx
+,
+^β0 = ¯Y −^β1 ¯X,
+Sxy =
+n
+∑
+i=1
+(Xi −¯X)(Yi −¯Y ),
+¯Y = 1
+n
+n
+∑
+i=1
+Yi,
+¯X = 1
+n
+n
+∑
+i=1
+Xi,
+5.4.1 Não viés
+E[^β0] = β0
+e
+E[^β1] = β1.
+^β0
+^β1
+β0
+β1
+
+sob repetição hipotética do processo amostral nas mesmas condições, a média das estimativas convergiria para os
+valores verdadeiros.
+A demonstração formal desse resultado baseia-se na linearidade do operador esperança e na hipótese de
+exogeneidade fraca 
+, e pode ser consultada no Apêndice de Demonstrações {#demo}.
+Conceitualmente, o ponto central é que, ao condicionar em 
+, o erro não contém componente sistemática capaz de
+deslocar, em média, os estimadores.
+As variâncias dos estimadores são dadas por
+e a covariância entre eles é
+Essas expressões decorrem diretamente da representação linear dos estimadores em função dos 
+ e das
+hipóteses sobre a estrutura de variância-covariância dos erros. A demonstração detalhada também pode ser vista no
+Apêndice de Demonstrações {#demo}.
+Algumas interpretações conceituais importantes emergem dessas fórmulas:
+1. Influência da dispersão de 
+: quanto maior 
+, menor 
+. Portanto, amostras com maior variabilidade
+em 
+ contêm mais informação sobre a inclinação da reta. Se os valores de 
+ estiverem muito concentrados, a
+estimativa da inclinação torna-se imprecisa.
+2. Dependência do intercepto em relação à origem: a variância de 
+ depende de 
+. Quanto mais distante a
+média de 
+ estiver da origem, maior será a variância do intercepto, refletindo o fato de que 
+ é obtido por
+extrapolação da reta até 
+.
+3. Covariância negativa: quando 
+, a covariância entre 
+ e 
+ é negativa. Isso indica que uma estimativa
+maior da inclinação tende a ser compensada por uma estimativa menor do intercepto, preservando a
+propriedade geométrica de que a reta ajustada passa por 
+.
+Do ponto de vista geométrico, essas propriedades decorrem da ortogonalidade dos resíduos aos regressores, isto
+é,
+Essas condições são equivalentes às equações normais e garantem que a projeção de 
+ sobre o subespaço gerado
+por  e 
+ seja ortogonal ao vetor de resíduos. A conexão entre ortogonalidade e estrutura de variâncias é discutida
+em textos clássicos de regressão linear (Montgomery; Peck; Vining, 2021).
+Definindo a soma dos quadrados dos resíduos como
+E[εi ∣Xi] = 0
+X
+5.4.2 Variâncias e covariância dos estimadores
+V ar(^β0) = ( 1
+n +
+¯X 2
+Sxx
+)σ2,
+V ar(^β1) =
+1
+Sxx
+σ2,
+Cov(^β0, ^β1) = −
+¯X
+Sxx
+σ2.
+Yi
+X
+Sxx
+V ar(^β1)
+X
+X
+^β0
+¯X
+X
+^β0
+X = 0
+¯X > 0
+^β0
+^β1
+( ¯X, ¯Y )
+n
+∑
+i=1
+^εi = 0
+e
+n
+∑
+i=1
+Xi^εi = 0.
+Y
+1
+X
+5.4.3 Estimativa de 
+ (graus de liberdade e não viés)
+σ2
+
+temos que
+A demonstração desse resultado utiliza a decomposição ortogonal do vetor 
+ em componente ajustada e
+componente residual, podendo ser consultada no Apêndice de Demonstrações {#demo}.
+Assim, o estimador
+é não viesado para a variância dos erros:
+Os dois graus de liberdade subtraídos refletem a estimação dos dois parâmetros do modelo 
+. Essa correção
+garante que a variabilidade residual não seja subestimada pelo fato de termos ajustado uma reta aos dados.
+Na prática, substitui-se 
+ por 
+ nas expressões de 
+ e 
+, obtendo-se estimativas dos erros-
+padrão. Observe que até aqui não foi necessária a suposição de normalidade: as propriedades de não viés e as
+fórmulas de variância decorrem apenas das hipóteses de média zero, homoscedasticidade e ausência de correlação
+entre erros (Kutner et al., 2005; Montgomery; Peck; Vining, 2021).
+Portanto, os estimadores de MQO no MRLS apresentam um conjunto de propriedades fundamentais: são não
+viesados, possuem variâncias explicitamente caracterizadas, exibem covariância estrutural negativa entre
+intercepto e inclinação e permitem a construção de um estimador não viesado de 
+ a partir dos resíduos.
+Essas características asseguram a solidez probabilística do método sob hipóteses relativamente gerais e preparam
+o terreno para a próxima questão natural: dentro da classe dos estimadores lineares não viesados, seria possível
+obter variâncias menores? O Teorema de Gauss–Markov responde negativamente a essa pergunta, estabelecendo
+a eficiência relativa do MQO.
+5.5 Teorema de Gauss–Markov
+No modelo de regressão linear simples
+sob as hipóteses
+os estimadores de mínimos quadrados ordinários são lineares em 
+, não viesados e possuem variância mínima
+dentro da classe de todos os estimadores lineares não viesados dos parâmetros 
+ e 
+.
+Em outras palavras, se restringirmos nossa atenção a estimadores que sejam combinações lineares das observações
+ e que sejam não viesados para os parâmetros verdadeiros, então nenhum outro estimador dessa classe terá
+variância menor que a dos estimadores de MQO. Essa é a essência do qualificativo best: não significa “melhor entre
+todos os estimadores possíveis”, mas “melhor dentro da classe dos estimadores lineares não viesados”.
+SQRes =
+n
+∑
+i=1
+(Yi −^Yi)2,
+E[SQRes] = (n −2)σ2.
+Y
+s2 = SQRes
+n −2
+E[s2] = σ2.
+(β0, β1)
+σ2
+s2
+V ar(^β0)
+V ar(^β1)
+σ2
+Teorema (Gauss–Markov)
+Yi = β0 + β1Xi + εi,
+i = 1, 2, … , n,
+E[εi ∣Xi] = 0,
+V ar(εi ∣Xi) = σ2,
+Cov(εi, εj ∣Xi, Xj) = 0 (∀i ≠j),
+Y
+β0
+β1
+Yi
+
+Este teorema organiza três ideias fundamentais:
+1. Linearidade do estimador: o estimador pode ser escrito como combinação linear das respostas observadas.
+2. Não viés: sua esperança coincide com o parâmetro verdadeiro.
+3. Eficiência relativa: entre todos os estimadores que satisfazem (1) e (2), o MQO apresenta a menor variância.
+O resultado não depende da normalidade dos erros. Essa é uma distinção crucial: a normalidade é necessária apenas
+quando se deseja obter distribuições exatas finitas para estatísticas. A propriedade BLUE decorre exclusivamente
+da estrutura de média e variância do modelo linear clássico (Kutner et al., 2005; Montgomery; Peck; Vining, 2021).
+Geometricamente, o teorema está intimamente ligado à interpretação do MQO como projeção ortogonal do vetor 
+no subespaço gerado pelos regressores. A projeção ortogonal é, por construção, o vetor ajustado que minimiza a
+distância quadrática a 
+. A minimização da distância quadrática no espaço amostral se traduz, no plano probabilístico,
+em minimização da variância entre estimadores lineares não viesados. Essa ponte entre geometria e probabilidade é
+um dos aspectos mais profundos do modelo linear.
+É importante enfatizar também o alcance do resultado. O teorema não afirma que o MQO é o estimador de menor
+variância entre todos os estimadores imagináveis. Métodos não lineares ou estimadores viesados podem, em certos
+contextos, apresentar menor erro quadrático médio. O que o Teorema de Gauss–Markov garante é a otimalidade
+dentro da classe linear não viesada, uma classe ampla e natural no contexto da regressão.
+A demonstração formal do teorema, baseada em argumentos de decomposição de variância e ortogonalidade, pode
+ser consultada no Apêndice de Demonstrações {#demo}.
+Em termos práticos, o teorema fornece a base teórica que sustenta o uso do MQO como método padrão de
+estimação em regressão linear. Ele mostra que, sob hipóteses relativamente fracas e sem necessidade de
+normalidade, o procedimento adotado é eficiente dentro de uma classe ampla de estimadores. Essa combinação de
+simplicidade algébrica, interpretação geométrica clara e fundamentação probabilística sólida explica por que o MQO
+ocupa posição central na estatística aplicada e na econometria.
+Y
+Y

@@ -1,0 +1,1813 @@
+2453
+J. Dairy Sci. 99:2453–2467
+http://dx.doi.org/10.3168/jds.2015-10144
+© American Dairy Science Association®, 2016.
+ABSTRACT
+Standard practice in the dairy industry is to separate 
+the calf and dam immediately after birth and raise 
+calves in individual pens during the milk-feeding period. 
+In nature and in extensive beef systems, the young calf 
+lives in a complex social environment. Social isolation 
+during infancy has been associated with negative ef-
+fects, including abnormal behavior and developmental 
+problems, in a range of species. Here, we review empiri-
+cal work on the social development of calves and the ef-
+fects of social isolation in calves and other species; this 
+evidence indicates that calves reared in isolation have 
+deficient social skills, difficulties in coping with novel 
+situations, as well as specific cognitive deficits. We also 
+review the practices associated with group housing of 
+dairy calves, and discuss problems and suggested solu-
+tions, especially related to cross-sucking, competition, 
+aggression, and disease. The studies reviewed indicate 
+that social housing improves solid feed intakes and calf 
+weight gains before and after calves are weaned from 
+milk to solid feed. Evidence regarding the effects of 
+social housing on calf health is mixed, with some stud-
+ies showing increased risk of disease and other studies 
+showing no difference or even improved health outcomes 
+for grouped calves. We conclude that there is strong 
+and consistent evidence of behavioral and developmen-
+tal harm associated with individual housing in dairy 
+calves, that social housing improves intakes and weight 
+gains, and that health risks associated with grouping 
+can be mitigated with appropriate management.
+Key words: social isolation, individual housing, 
+replacement heifers, neonate development
+INTRODUCTION
+Infancy is one of the most important periods of de-
+velopment for mammals, with the environment play-
+ing a crucial role (see review by Bornstein, 1989). The 
+detrimental effects of maternal separation and social 
+isolation during infancy have been studied in a range 
+of social species, including rodents (Heim et al., 2004), 
+primates (Harlow et al., 1965), and humans (Troller-
+Renfree et al., 2015). Negative effects of social depriva-
+tion early in life have been shown in adulthood, which 
+include impaired maternal care (e.g., Lovic et al., 
+2011), increased aggression (e.g., Toth et al., 2011), and 
+impaired social recognition (e.g., Lukas et al., 2011).
+Most farmed mammals (e.g., sheep, pigs, horses, 
+and beef cattle) are housed with their dam during the 
+milk feeding period, and the young normally also have 
+contact with conspecifics of similar age. Dairy cattle 
+production is the exception; standard practice within 
+the industry is to separate calves from the dam soon 
+after birth and raise calves in individual pens during 
+the milk-feeding period (USDA, 2008; Vasseur et al., 
+2010). This limited maternal and social contact is in 
+contrast to what occurs under natural conditions (Re-
+inhardt and Reinhardt, 1981).
+To our knowledge, no attempt has been made to sum-
+marize the available scientific information on the effects 
+of social isolation on calves. This review describes the 
+research to date assessing the role of isolation and so-
+cial housing on calf development. We begin with a brief 
+account of social development in natural settings when 
+cows rear their young. We then review the literature on 
+cattle and other species describing the effects on neo-
+nates of maternal and other types of social deprivation, 
+and where applicable, draw from theories based on the 
+human and laboratory animal literature. Finally, we 
+discuss the group housing literature, describing chal-
+lenges and successful practices associated with social 
+housing of dairy calves. Where possible, we include rec-
+ommendations for future research and considerations 
+for application on farms.
+SOCIAL DEVELOPMENT IN CALVES
+Shortly before parturition, cows tend to separate 
+themselves from the herd and give birth in a secluded 
+area (Lidfors et al., 1994). Once the calf is born, a series 
+of maternal behaviors are observed, including licking 
+Invited review: Effects of group housing of dairy calves 
+on behavior, cognition, performance, and health
+J. H. C. Costa, M. A. G. von Keyserlingk, and D. M. Weary1
+Animal Welfare Program, Faculty of Land and Food Systems, The University of British Columbia, 2357 Mall, Vancouver, BC, Canada, V6T 1Z4
+ 
+Received July 20, 2015.
+Accepted December 29, 2015.
+1 Corresponding author: danweary@mail.ubc.ca
+
+2454
+COSTA ET AL.
+Journal of Dairy Science Vol. 99 No. 4, 2016
+of the calf and specific vocalizations (reviewed by von 
+Keyserlingk and Weary, 2007). The dam normally 
+keeps the young hidden in bushes or tall grass for the 
+first few days while she forages nearby (Langbein and 
+Raasch, 2000). The newborn calf is fully dependent on 
+the milk provided by the dam and will nurse approxi-
+mately 8 to 12 times daily during the first week of life, 
+with each suckling bout lasting approximately 10 min 
+(e.g., Reinhardt and Reinhardt, 1981; Day et al., 1987; 
+Lidfors, 1996).
+After several days, the calf and mother reintegrate 
+into the herd (Bouissou et al., 2001). During the second 
+week of life, the calf starts to increase the distance from 
+the dam, begins interacting with peers, and may form 
+small groups with other calves (Vitale et al., 1986; Sato 
+et al., 1987). These calf groups also interact with older 
+animals, and it has been reported that adolescents 
+and adults without newborn calves will graze close to 
+calf groups (e.g., Sato et al., 1987; Murphey and de 
+Moura Duarte, 1990). This suite of characteristics and 
+behaviors are also observed in other ungulates such as 
+caribou (Rangifer tarandus; Rettie and Messier, 2001) 
+and moose (Alces alces; Bowyer et al., 1999).
+Under natural or semi-natural conditions, grazing ru-
+minants select their diets from a wide variety of plants 
+differing in nutritional composition and availability 
+(Provenza and Balph, 1987; Baumont, 2000). Calves 
+that are reared with their dam and other conspecif-
+ics start grazing and ruminating at approximately 3 
+wk of age and graze regularly with the herd at 3 to 
+6 mo of age (Reinhardt and Reinhardt, 1981; Vitale 
+et al., 1986). The social interactions of young ungu-
+lates are associated with learning to recognize suitable 
+diet and habitat, where selection happens through the 
+mimicking or imitation of social companions (i.e., Key 
+and MacIver, 1980; Mirza and Provenza, 1992, 1994). 
+The progression from maternal care to independence 
+is an important period of learning for young foragers 
+(Provenza and Balph, 1987), making social partners 
+important influences on diet selection for young rumi-
+nants (Nolte et al., 1990; Provenza et al., 2003).
+Social learning allows individuals to learn from the 
+positive or negative effects on another individual (Ban-
+dura, 1977; Conte and Paolucci, 2001); this type of 
+learning is thought to be important in the development 
+of feeding behavior in many farmed species (Keeling 
+and Hurnik, 1996; Launchbaugh and Howery, 2005). 
+Naïve dairy heifers show a more rapid onset of graz-
+ing when introduced to pasture with experienced social 
+companions (Costa et al., 2016). Social learning theory 
+suggests that the most effective social models are the 
+dam and dominant peers (Bandura, 1977). Herbivores 
+that feed in large mixed-generation groups, like cattle, 
+are able to use social learning to transmit information 
+about suitable food items from experienced to inexperi-
+enced foragers (Boyd and Richerson, 1996).
+Food neophobia is well known in ruminants (Chapple 
+and Lynch, 1986) and is defined as avoidance and re-
+luctance to taste unfamiliar foods (Cooke et al., 2006). 
+Food neophobia is known to decrease in the presence 
+of companions in lambs (Nolte et al., 1990) and when 
+dairy calves are raised in complex social groups (Costa 
+et al., 2014). In nature, young ruminants must learn 
+how to select and eat appropriate foods (Freeland and 
+Janzen, 1974); social learning enables an inexperienced 
+animal to avoid the inefficiency and risk of testing each 
+novel feed type, because the “trial-and-error” strategy 
+could lead to the ingestion of toxic feed (Galef and 
+Laland, 2005; Nicol, 2006).
+In summary, young ruminants naturally form social 
+relationships starting with the dam and then with 
+other individuals, even in the first weeks of life. During 
+the milk-feeding period, the calf relies on social cues 
+from the dam and other conspecifics that influence 
+behavioral development. Given that most dairy calves 
+are separated from their mothers at birth and reared 
+individually [e.g., 77% in the United States (USDA, 
+2008); 88% in Canada (Vasseur et al., 2010); 70% in 
+Brazil (Hötzel et al., 2014)], numerous questions arise 
+regarding potential negative effects of social isolation 
+on social and feeding behaviors and other aspects of 
+development. In addition to the effects outlined above, 
+the results from several species suggest that social iso-
+lation may have important effects on cognitive develop-
+ment, as described below.
+EFFECTS OF SOCIAL ISOLATION: EVIDENCE  
+FROM OTHER SPECIES
+There is considerable variation within the literature 
+in what is called “social isolation,” ranging from com-
+plete isolation for extended periods (e.g., Sackett et al., 
+1981) to 2 h daily during the second week of age (Tuch-
+scherer et al., 2006). Social isolation was defined by 
+Gottman (1977) as an absence or low frequency of peer 
+interaction during an extended period. This definition 
+applies to most dairy calves during the milk-feeding 
+period and will be used in this review.
+Bowlby (1969) famously described how events during 
+childhood in humans have profound influences on be-
+havior, even as adults. Individuals who experience social 
+isolation or social deprivation during childhood tend to 
+have psychological and behavioral disorders later in life, 
+such as a greater tendency to develop schizophrenia 
+(Rutter, 1979) and to express violent behavior and 
+abnormal emotional responses (Bowlby, 1969). Some 
+
+Journal of Dairy Science Vol. 99 No. 4, 2016
+INVITED REVIEW: GROUP HOUSING OF DAIRY CALVES
+2455
+of these effects are also found when social isolation 
+occurs in adulthood (as reviewed by Cacioppo et al., 
+2011). There is also evidence for long-term neurologi-
+cal (Heim and Nemeroff, 2001; Shanks and Lightman, 
+2001), neuroendocrine, and immune alterations from 
+negative events during childhood (as reviewed by Neigh 
+et al., 2009). Social isolation can also be an important 
+risk factor for morbidity and mortality; as reviewed by 
+House et al. (1988), social isolation increases the likeli-
+hood of smoking, obesity, sedentary lifestyle, and high 
+blood pressure.
+A variety of studies have shown how maternal sepa-
+ration or social deprivation from conspecifics early in 
+life adversely affects brain and behavior development in 
+nonhuman animals [e.g., primates (Harlow et al., 1965); 
+rats (Heim et al., 2004, Haller et al., 2014); mice (Ker-
+cmar et al., 2014); pigs (Worobec et al., 1999); voles 
+(Shapiro and Insel, 1990)]. Social isolation in rodents 
+is often associated with increased anxiety-like behavior 
+(as reviewed by Hall, 1998; Fone and Porkees, 2008), 
+and 
+enhanced 
+hypothalamic-pituitary-adrenal axis 
+(HPA) responsiveness to stressors (Serra et al., 2007).
+Early social deprivation has been associated with 
+long-term alterations in social behavior of nonhuman 
+animals, such as when adults express impaired maternal 
+care (Lovic et al., 2011), increased aggression (Veenema 
+et al., 2006, 2007; Toth et al., 2011), and impaired so-
+cial recognition (Lukas et al., 2011). Together, these 
+are labeled as “isolation-induced stress syndrome” in 
+rodents (Valzelli, 1973; Holson et al., 1991). Maternal 
+separation, total or partial, has been associated with 
+long-term alteration in behaviors in nonhuman animals 
+and with changes in emotionality (Kraemer et al., 
+1991), cognitive functions, physiological and stress cop-
+ing mechanisms (Fahlke et al., 2000), excessive alcohol 
+consumption (Higley et al., 1991; Fahlke et al., 2000), 
+and associated neuroendocrine and neuronal adapta-
+tions (Poletto et al., 2006a,b). Nursery rearing, an 
+example of maternal deprivation, was shown to have 
+a strong detrimental impact on the development of 
+rhesus macaques and has been shown to cause disrup-
+tions in social behavior, hyperactivity, and increased 
+sensitivity to stressors (Harlow et al., 1965; Suomi et 
+al., 1971; Suomi, 1991). Rhesus macaque infants reared 
+in this manner had increased cortisol responses to so-
+cial situations during adulthood (Fahlke et al., 2000) 
+and showed signs of depression (Kraemer et al., 1991). 
+The conclusion from this body of work is that social 
+experience with the mother and conspecifics is required 
+for normal development in social species (reviewed by 
+Parker and Maestripieri, 2011).
+Relatively little work on social isolation has focused 
+on farm animals, but the limited studies available align 
+with the rodent and primate studies cited above. For 
+example, piglets weaned at younger ages were slower 
+to habituate to their new environment and exhibited 
+more escape behavior, less interaction with neighboring 
+pigs, and less time feeding than pigs weaned at an older 
+age (Worobec et al., 1999; Davis et al., 2006). Social 
+isolation also increases cortisol responses to stress in 
+pigs (Kanitz et al., 2009). Premature separation from 
+mothers has detrimental effects, even in precocial spe-
+cies such as sheep. For instance, artificial rearing of 
+lambs, where animals are fed milk by humans instead of 
+conspecifics, has been associated with negative effects 
+on behavior as well as endocrine and immune levels 
+(i.e., Napolitano et al., 1995, 2002). Lambs separated 
+from the dam showed reduced frequency of vocaliza-
+tion, were slower to initiate movements, and displayed 
+an increased cortisol response during an open-field 
+test compared with animals raised in a complex social 
+environment (Moberg and Wood, 1982; Napolitano et 
+al., 2002; also see review by Napolitano et al., 2008). 
+In summary, research on several different species has 
+shown that social isolation is associated with abnor-
+mal behavior and developmental problems. It would 
+thus seem reasonable to predict similar effects in dairy 
+calves.
+EFFECTS OF SOCIAL ISOLATION  
+ON THE DAIRY CALF
+Dairy calves that have been separated from the dam 
+will begin interacting with other calves, when given 
+the opportunity, as early as 2 d after birth (Duve and 
+Jensen, 2012). Socially housed dairy calves spend, on 
+average, only about 2% of their time engaged in social 
+contact during the first 8 wk of life (Chua et al., 2002), 
+but calves appear to be highly motivated to initiate 
+this contact. For example, calves work harder to gain 
+access to full social contact with a calf than to have 
+limited social contact across a barrier (Holm et al., 
+2002). Young dairy calves housed in groups showed a 
+preference for a known peer in contrast to an unfamiliar 
+calf during a choice test (Færevik et al., 2006; Duve and 
+Jensen, 2011), providing evidence that they form social 
+connections from a young age. Other work has shown 
+that social relationships that were formed early in life 
+were long lasting (Raussi et al., 2010).
+Given that calves are typically provided little or no 
+social contact on dairy farms, and the wealth of in-
+formation on other species showing detrimental effects 
+of isolation, exploring the effects of social isolation in 
+dairy calves would seem to be important. The following 
+section reviews research examining the effects of early 
+social deprivation on behavioral problems, coping with 
+
+2456
+COSTA ET AL.
+Journal of Dairy Science Vol. 99 No. 4, 2016
+novelty, and cognitive development. We also discuss 
+evidence that social support and social buffering may 
+mitigate some of the negative effects of stressful man-
+agement practices on calves.
+Behavior Problems
+A growing body of work has examined the relation-
+ship between the social environment and behavior in 
+calves (summarized in Table 1). This evidence suggests 
+that socially reared calves are less fearful (reviewed 
+by Bøe and Færevik, 2003) and more dominant when 
+mixed in groups later in life (Veissier et al., 1994) com-
+pared with calves that have been reared in isolation. 
+Several factors play a role in social behavior develop-
+ment, such as age of first contact with conspecifics and 
+level of contact. For instance, calves allowed full social 
+contact with another calf, either from birth or from 3 
+wk of age, established a stronger bond compared with 
+calves raised with only visual or auditory contact with 
+other calves (Duve and Jensen, 2011). Calves housed 
+individually or with only limited contact were more 
+fearful than pair-housed calves (Jensen and Larsen, 
+2014). Collectively, this evidence suggests that full so-
+cial contact with peers from an early age is important 
+for the calf.
+Social Support
+Social support is defined as the beneficial effects of 
+the presence of a conspecific, irrespective of whether 
+the individual is being challenged or not (Cohen and 
+Wills, 1985). Social support is known to have beneficial 
+effects on humans (for reviews see Kikusui et al., 2006; 
+Hennessy et al., 2009). Social buffering is the ability of 
+social partners to decrease the effect of stressors during 
+a challenge (Cohen and Wills, 1985) and is the aspect 
+of social support that has been studied in animals. So-
+cial buffering has been demonstrated in humans (Thor-
+steinsson et al., 1998), rats (Kiyokawa et al., 2014a), 
+guinea pigs (Hennessy et al., 2000), pigs (Reimert et 
+al., 2014), and other farm animals (Rault, 2012). For 
+example, the work on rats has shown a decreased re-
+sponse to stressors in the presence of others (Hennessy 
+et al., 2000; Kiyokawa et al., 2014a), especially familiar 
+conspecifics (Kiyokawa et al., 2014b).
+In cattle, the presence of conspecifics is known to 
+reduce behavioral reactions to social separation (Boissy 
+and Le Neindre, 1997; Piller et al., 1999). For example, 
+calves vocalize less in a novel arena when in compan-
+ionship with familiar calves compared with when they 
+are placed with unfamiliar calves (Færevik et al., 2006). 
+There is also some evidence of social buffering in calves 
+in response to a nonsocial stressor; individually housed 
+Table 1. Published research addressing the effects of social housing on the behavior of calves1
+Treatment
+ 
+Animals
+ 
+Parameter
+ 
+Effect of  
+socialization
+ 
+Reference
+Individual; group (3 calves)
+Heifers
+Social rank
++
+Broom and Leaver, 1978
+Individual; complex (≤8 calves + night access to 
+cows)
+Bulls
+Intake of unfamiliar feed type
++
+Costa et al., 2014
+Individual; pairs
+Heifers
+Vocalization after teat removal
++
+de Paula Vieira et al., 2010
+Individual; pairs
+Heifers
+Latency to feed in a novel environment
++
+de Paula Vieira et al., 2010
+Individual; pairs
+Heifers
+Intake of feed after being moved to a new 
+environment
++
+de Paula Vieira et al., 2010
+Individual; pairs; kept with dam2
+Heifers and bulls
+Response to restraint during blood sampling
+−
+Duve et al., 2012
+Individual; pairs; kept with dam2
+Heifers and bulls
+Play behavior
++
+Duve et al., 2012
+Individual; pairs; kept with dam2
+Heifers and bulls
+Competitive success
++
+Duve et al., 2012
+Individual3; pair
+Heifers and bulls
+Latency to touch an unfamiliar calf
++
+Jensen and Larsen, 2014
+Individual; group4
+Heifers
+Avoidance of unfamiliar calf
+−
+Jensen et al., 1997
+Individual; group4
+Heifers
+Fear in open field test
+−
+Jensen et al., 1997
+Individual; pair2
+Heifers and bulls
+Playing behavior
+=
+Jensen et al., 2015
+Individual; group (4 calves)
+Bulls
+Aggression at mixing
+−
+Veissier et al., 1994
+Individual; group (4 calves)
+Bulls
+Social rank
++
+Veissier et al., 1994
+1For each study, we indicate the types of social housing treatment imposed, the class of animal considered, and the parameter(s) studied. We also indicate the direction (negative, 
+−; positive, +; no difference, =) of the reported effect of social housing.
+2Milk allowance was also investigated in this study (enhanced versus standard milk feeding).
+3Individually reared calves were raised with different levels of contact with other calves (auditory, auditory plus visual, and auditory plus visual plus tactile).
+4Space allowance was also investigated in this study (small versus large pens).
+
+Journal of Dairy Science Vol. 99 No. 4, 2016
+INVITED REVIEW: GROUP HOUSING OF DAIRY CALVES
+2457
+calves show a stronger vocal response to weaning from 
+milk compared with paired calves (de Paula Vieira et 
+al., 2010). Further work is needed to assess the effects 
+of social support on responses to other husbandry pro-
+cedures such as castration and dehorning. Also, future 
+research should investigate how the type and strength 
+of social relationships affect the magnitude of any social 
+buffering.
+Coping with Novelty
+Farm animals, including dairy cattle, are often ex-
+posed to novel events, such as changes in diet, changes 
+in pen location, regrouping with new social partners, 
+and new milking procedures. Individually reared calves 
+show greater reactivity to environmental novelty com-
+pared with socially reared animals. Veissier et al. (1997) 
+showed that isolation of calves promoted reactiveness 
+to startling stimuli and development of self-directed 
+oral behaviors. Calves housed individually for the first 
+3 mo of life were more reactive to environmental and 
+social novelty than group-housed animals when tested 
+at 90 d of age (Jensen et al., 1997).
+In contrast, early social contact reduces behavioral 
+and physiological reactivity to environmental novelty. 
+Calves provided social contact showed decreased re-
+sponses to restraint, increased play during the milk 
+feeding phase, and increased competitive success after 
+weaning (Duve et al., 2012), as well as lower adreno-
+cortical reactivity to stress (Creel and Albright, 1988; 
+Raussi et al., 2003). Calves raised in pairs or in small 
+groups of calves showed lower heart rates when placed 
+in a pen with an unfamiliar calf (Jensen et al., 1997) 
+and were less fearful and more willing to approach 
+unfamiliar calves when mixed after weaning (de Paula 
+Vieira et al., 2012a). Socially reared calves were also 
+less neophobic toward a new food item than calves 
+reared individually (Costa et al., 2014).
+Cognition
+Social isolation early in life can impair cognition in 
+rodents and other species (Jones et al., 1991; Fone and 
+Porkess, 2008). Socially isolated rodents showed deficits 
+in reversal learning (Jones et al., 1991), a method often 
+used to assess behavioral flexibility in animals (Fone 
+and Porkess, 2008). A recent study examined reversal 
+learning in pair-housed and individually housed calves 
+and found that individually housed calves made more 
+mistakes during the reversal-learning phase, indicating 
+impaired behavioral flexibility (Gaillard et al., 2014). 
+A follow-up study, using a color discrimination training 
+task, showed that calves housed with social companions 
+from an early age, either in a complex social environ-
+ment (with the presence of their dam and other cows 
+and calves) or simply pair-housed, performed better 
+in reversal learning than did individually raised calves 
+(Meagher et al., 2015). In the latter study, the majority 
+of individually housed calves did not learn the reversal 
+task even when provided twice as many sessions as 
+required by the average socially housed calf. Similar 
+results have been reported in rodents, and these stud-
+ies indicate that the cognitive deficit is associated with 
+decreased brain development and plasticity (e.g., Schri-
+jver and Würbel, 2001; Fowler et al., 2002; Schrijver 
+et al. 2002; Lipkind et al., 2002). In rodents, it is well 
+established that the prefrontal cortex is responsible for 
+behavioral control, decision-making, and inhibition of 
+behavior (Dalley et al., 2004). These controls are es-
+sential for success in reversal learning.
+We conclude that calves raised in isolation exhibit 
+deficient social skills, difficulties in coping with novel 
+situations, and poor learning abilities, all of which may 
+reduce the animal’s ability to adjust to variable envi-
+ronments on the dairy farm. Behavioral flexibility is 
+widely believed to depend on exposure to a variable 
+environment in early life (Sackett, 1970). Future stud-
+ies should investigate the length of the critical periods 
+for social contact that avoid the deleterious effects on 
+cognition and behavioral flexibility. Further work is re-
+quired to test the effects of providing more complex en-
+vironments (e.g., more naturalistic environments such 
+as access to the outdoors, increased human contact, 
+or access to interactive toys), with and without access 
+to social conspecifics. Work is also required to better 
+understand the longer-term effects of social deprivation 
+on cognitive impairment, and whether these effects can 
+be reversed.
+Longer-Term Effects
+Most of the work to date in dairy calves has focused 
+on the effects of social isolation during the milk-feeding 
+period, the weaning period, and the days immediately 
+following weaning. The lack of work on longer-term 
+effects is likely due to the time required and the chal-
+lenges associated with maintaining adequate controls. 
+Work to date suggests that negative effects can persist. 
+For example, studies by Le Neindre (1989a, b) found 
+that calves reared with a foster cow showed more pro-
+nounced maternal behavior and more locomotion and 
+exploration during isolation tests years later. Another 
+study reported that dam-reared calves transitioned 
+better into the lactating herd, suggesting that social 
+housing of calves may enhance social skills that are 
+useful later in life (Wagner et al., 2012). In a comple-
+mentary study, long-term effects of dam rearing were 
+tested using an isolation challenge when cows were 2.5 
+
+2458
+COSTA ET AL.
+Journal of Dairy Science Vol. 99 No. 4, 2016
+yr old. Cows that had experienced 12 wk of contact 
+with the dam showed greater behavioral activity during 
+the isolation test compared with cows that had been 
+individually raised (Wagner et al., 2014). However, 
+these studies should be considered preliminary due to 
+the lack of controls during the growing phase and the 
+small sample sizes (as few as 5 animals per treatment). 
+Further work should assess the longer-term effects of 
+social versus individual rearing on behavioral flexibility 
+as adults, and whether the detrimental effects of social 
+isolation can be reversed through enriched environ-
+ments or other means.
+We conclude that rearing dairy calves individually 
+has negative effects on calf development. Housing sys-
+tems for newborn and milk-fed dairy calves should meet 
+their thermal, physical, psychological, and behavioral 
+needs (Stull and Reynolds, 2008); the common prac-
+tice of individual rearing violates at least two of these 
+criteria (i.e., psychological and behavioral). However, if 
+dairy farms are to rear milk-fed calves in groups, under-
+standing the practical benefits and constraints of social 
+housing is essential. We turn to these more practical 
+issues in the following section.
+GROUP HOUSING OF DAIRY CALVES: 
+CHALLENGES AND SOLUTIONS
+One benefit of housing calves in groups includes re-
+duced labor requirement per head (Broom and Leaver, 
+1978). One recent study reported that “reducing la-
+bor” and “saving time” were among the main reasons 
+that farmers provided for group-housing dairy calves 
+(Hötzel et al., 2014). The development of automated 
+feeding systems for calves has accelerated adoption of 
+group housing of dairy calves, particularly for larger 
+dairy farms (Kung et al., 1997). There is also increased 
+awareness of animal welfare by both dairy producers 
+and the public, and one important welfare concern is 
+the social isolation of calves (Boogaard et al., 2010; 
+Ventura et al., 2013). Furthermore, group housing has 
+been associated with increased ADG in dairy calves 
+(Bernal-Rigoli et al., 2012; Jensen et al., 2015). A grow-
+ing body of work has also examined the relationship 
+between the social environment and other performance 
+measures, as described below. Collectively, these results 
+support the idea that social housing positively influ-
+ences performance of dairy calves.
+Improved Feed Intakes and Weight Gains  
+in Socially Reared Calves
+Group housing of calves is associated with increased 
+BW gains compared with individually housing, likely 
+due to increased DMI, as summarized in Table 2. 
+Contact with the dam or other older animals within 
+the first few weeks of life is known to stimulate young 
+ungulates to start sampling solid feed at a younger age 
+(Key and MacIver, 1980; Nolte et al., 1990) and to eat 
+more, especially in the preweaning phase. Warnick et 
+al. (1977) reported that social housing increased con-
+centrate intake during the preweaning period, resulting 
+in greater weight gains after weaning. Those authors 
+speculated that the benefits were due to social learning 
+by group-housed calves. Also, the stimulus of another 
+animal eating, approaching, and manipulating the feed 
+may increase attention toward the feed without any 
+learning per se (Galef, 1981). This process of “social fa-
+cilitation” was defined by Galef (1988) as “the initiation 
+of a particular response while observing others engaged 
+in that behavior,” and several authors have suggested 
+that social facilitation may be important in cattle (e.g., 
+Ralphs et al., 1994; de Paula Vieira et al., 2012b; Costa 
+et al., 2015). Regardless of the mechanism, both social 
+facilitation and social learning may result in socially 
+housed calves showing higher intakes of solid feed and 
+improved BW gains compared with individually housed 
+calves.
+Further work is required to understand the mecha-
+nism of social influence on the feeding behavior of dairy 
+calves. We suggest the use of a 2-action and control 
+experimental design, where social learning is tested 
+by exposing naïve animals to different demonstrators 
+trained on 1 of 2 feeding patterns and a control with no 
+demonstrator (Whiten and Mesoudi, 2008). This design 
+would help to disentangle social facilitation from social 
+learning. Also, calves housed with the dam or other 
+older animals may have different influences compared 
+with those only provided contact with conspecifics of 
+the same age. Little is known about how the mother and 
+other adults function as social models on early prefer-
+ences for solid feed. The increased solid feed intake in 
+socially reared calves may also occur due to increased 
+attention to the feed given that other animals are also 
+in contact with the feed. Thus, exploring alternative 
+methods that draw attention to the feed may be effec-
+tive at increasing intakes. For example, mechanically 
+shaking or simply changing the feed more frequently 
+may increase attention and ultimately increase intakes. 
+In piglets, it has been shown that a “play feeder” (an 
+open trough with 3 protrusions to stimulate explo-
+ration) can increase creep feed intake (Kuller et al., 
+2010). To our knowledge, this approach has not been 
+applied in calves.
+One study found that grass intake and time spent 
+grazing were greater for grouped calves than for indi-
+vidual calves (Phillips, 2004) and another found that 
+
+Journal of Dairy Science Vol. 99 No. 4, 2016
+INVITED REVIEW: GROUP HOUSING OF DAIRY CALVES
+2459
+raising calves in groups increased concentrate consump-
+tion and the early onset of rumination compared with 
+individual rearing (Babu et al., 2003, 2004). Bernal-
+Rigoli et al. (2012) found that DMI was greater for 
+group housed versus individually housed calves after 41 
+d of age, resulting in greater BW gains for group-housed 
+calves. Similarly, pair housing of dairy calves has been 
+associated with increased solid feed intake (Jensen et 
+al., 2015). One study found that calves paired at birth 
+or at 3 wk of age consumed more solids than did indi-
+vidually housed calves (Tapki, 2007). Most recently, it 
+was shown that pair housing of calves starting in the 
+first week of life increased calf feed intake and weight 
+gains compared with individual housing and pairing 
+calves at 6 wk of age (Costa et al., 2015). Calves that 
+were group housed early in life, in addition to having 
+increased solid feed intakes, also show reduced behav-
+ioral responses to mixing and weaning (Chua et al., 
+2002; de Paula Vieira et al., 2012a,b).
+Calves reared in groups continue to benefit from 
+higher concentrate intakes than calves previously reared 
+individually, even after all calves are mixed in group 
+pens (de Paula Vieira et al., 2010). Such effects that 
+persist beyond the period of individual housing might 
+be due to the better learning abilities of socially housed 
+calves described above, allowing them to learn more 
+rapidly where and how to use new feeders. Duve et al. 
+(2012) found that group-housed calves were faster at 
+locating feed and spent more time eating concentrates 
+in competitive situations than did calves that had been 
+individually housed; these findings are consistent with 
+the interpretation that intake differences persisting 
+beyond the period of individual rearing are due in part 
+to cognitive deficits. In addition, preweaning intake of 
+solid feed helps to improve the transition from milk to 
+solid feed at weaning (reviewed by Weary et al., 2009), 
+such that calves that do not achieve adequate solid feed 
+intakes before weaning experience poor growth and in-
+Table 2. Published research on the effects of social housing on feeding behavior and performance of calves1
+Treatment
+ 
+Animals
+ 
+Parameter
+ 
+Effect of  
+socialization
+ 
+Reference
+Individual; group (3 calves)
+Bulls
+BW
++
+Andrighetto et al., 1999
+Individual; group (6 calves)
+Heifers and bulls
+Solid feed intake
++
+Babu et al., 2004
+Individual; group (6 calves)
+Heifers and bulls
+ADG
++
+Babu et al., 2009
+Individual; group (6 calves)
+Heifers and bulls
+Solid feed intake
+=
+Babu et al., 2009
+Individual; group (3 or 4 calves)2
+Bulls
+DMI
++
+Bernal-Rigoli et al., 2012
+Individual; group (3 or 4 calves)2
+Bulls
+BW
++
+Bernal-Rigoli et al., 2012
+Individual; group (3 or 4 calves)2
+Bulls
+ADG
+=
+Bernal-Rigoli et al., 2012
+Individual; pairs
+Heifers and bulls
+Solid feed intake
+=
+Chua et al., 2002
+Individual; pairs
+Heifers and bulls
+ADG
+=
+Chua et al., 2002
+Individual; pairs
+Bulls
+Solid feed intake
++
+Costa et al., 2015a
+Individual; pairs
+Bulls
+ADG
++
+Costa et al., 2015a
+Individual; pairs
+Heifers
+Concentrate intake
++
+de Paula Vieira et al., 2010
+Individual; pairs
+Heifers
+ADG
+=
+de Paula Vieira et al., 2010
+Individual; pairs3
+Bulls
+ADG
+=
+Hänninen et al., 2005
+Individual; group (4 calves)4
+Bulls
+Solid feed intake
++
+Hepola et al., 2006
+Individual; group (4 calves)4
+Bulls
+ADG
++
+Hepola et al., 2006
+Individual; pairs5
+Heifers and bulls
+Concentrate intake
++
+Jensen et al., 2015
+Individual; pairs5
+Heifers and bulls
+BW
++
+Jensen et al., 2015
+Individual; pairs2
+Heifers
+Solid feed intake
+=
+Pempek et al., 2013
+Individual; pairs2
+Heifers
+ADG
+=
+Pempek et al., 2013
+Individual; group (3 calves)
+Heifers
+Grass intake
++
+Phillips, 2004
+Individual; group (3 calves)
+Heifers
+BW gain
+=
+Phillips, 2004
+Individual; group (3 calves)
+Heifers and bulls
+Final BW
++
+Richard et al., 1988
+Individual; group (3 calves)
+Heifers and bulls
+Concentrate intake
+=
+Richard et al., 1988
+Individual; group (3 calves)
+Heifers and bulls
+Solid feed intake
++
+Tapki, 2007
+Individual; group (3 calves)
+Heifers and bulls
+ADG
++
+Tapki, 2007
+Individual; group (5 calves)
+Bulls
+Solid feed
+=
+Terré et al., 2006
+Individual; group (5 calves)
+Bulls
+BW
+=
+Terré et al., 2006
+Individual; group (6 calves)
+Heifers and bulls
+Solid feed intake
+=
+Warnick et al., 1977
+Individual; group (6 calves)
+Heifers and bulls
+ADG
++
+Warnick et al., 1977
+Individual; group (4 calves)
+Bulls
+BW
++
+Xiccato et al., 2002
+Individual; group (4 calves)
+Bulls
+ADG
++
+Xiccato et al., 2002
+1For each study, we indicate the types of social housing treatment imposed, the class of animal considered, and the parameter(s) studied. We 
+also indicate the direction (positive, +; no difference, =) of the reported effect of social housing.
+2Milk feeding method was also investigated in this study (bottle vs. bucket feeding).
+3Flooring type was also investigated in this study (concrete vs. rubber mat).
+4Enviromental temperature was also investigated in this study (warm vs. cold buildings).
+5Milk allowance was also investigated in this study (enhanced vs. standard milk feeding).
+
+2460
+COSTA ET AL.
+Journal of Dairy Science Vol. 99 No. 4, 2016
+creased distress during weaning (de Paula Vieira et al., 
+2008; de Passillé et al., 2011).
+Bull calves that were reared in groups also gained 
+weight more rapidly than individually housed calves 
+(Andrighetto et al., 1999; Xiccato et al., 2002). Other 
+work has shown the advantages of early gains during 
+the milk-feeding period on the later weight gains of 
+older heifers (Bond et al., 2015). Early gains also have 
+positive effects on the onset of puberty and milk pro-
+duction in the first and later lactations (Moallem et al., 
+2010; Soberon et al., 2012). A similar line of research 
+has shown that Holstein bull calves reach puberty 
+earlier and have larger testicular mass when offered a 
+high plane of nutrition early in life (Dance et al., 2015). 
+Thus, early growth achieved in the first weeks of life 
+can have profound effects on production and reproduc-
+tion later in life.
+The social environment can have profound influences 
+on total food intake, diet, and persistence of solid feed 
+intake of calves. As illustrated in Table 2, provision 
+of social companions increased the intake of solids, 
+increased performance (BW or ADG), or both, in 8 of 
+11 of trials. The other 3 trials failed to detect differ-
+ences between individually housed and group-housed 
+calves. No study has reported decreased performance 
+in group housing. However, several concerns hinder the 
+adoption of group housing on dairy farms, including 
+cross-sucking, aggression, and transmission of disease 
+(Quigley, 1997; Pempek et al., 2013; Hötzel et al., 2014). 
+These concerns, and methods of addressing them, are 
+reviewed below.
+Cross-Sucking
+Cross-sucking is defined as the suckling of one calf 
+directed to the body of another (Jensen, 2003); it is 
+considered a management problem and potentially as-
+sociated with udder deformations, mastitis, and milk 
+loss (Lidfors and Isberg, 2003). Some studies have 
+reported high levels of cross-sucking in group-housed 
+calves (e.g., Lidfors and Isberg, 2003), but other studies 
+have reported little or none (e.g., Chua et al., 2002; 
+Mattiello et al., 2002), suggesting that the problem can 
+be managed.
+One important aspect is the ability to engage in 
+natural suckling behavior. When calves are raised 
+naturally with the dam (Margerison et al., 2003) or 
+with a nurse cow (Krohn et al., 1999), cross-sucking is 
+rare. Several experiments (see review by Jensen, 2003) 
+have demonstrated that feeding milk through a teat 
+instead of a bucket, allowing calves to access milk for 
+many hours of the day instead of just 1 or 2 feedings, 
+and providing a dry teat for calves to suck upon can 
+reduce cross-sucking (Veissier et al., 2002; Lidfors and 
+Isberg, 2003). Calves are highly motivated to suck but 
+motivation for this behavior is closely associated with 
+motivation to drink milk (de Passillé, 2001). Teat feed-
+ers and enhanced milk-feeding programs minimize the 
+incidence of cross-sucking by allowing calves to express 
+their natural behavior (de Passillé et al., 2010). Recent 
+studies on calves fed milk via automatic feeders have 
+reported some cross-sucking, especially around wean-
+ing (e.g., Nielsen et al., 2008; de Passillé et al., 2011). 
+More gradual weaning procedures reduce cross-sucking 
+in calves (Nielsen et al., 2008), and calves better es-
+tablished on solid feed and with better access to high 
+quality feed are less likely to engage in cross-sucking 
+(Keil and Langhans, 2001).
+Although individual housing prevents cross-sucking, 
+individually housed calves engage in other forms of 
+abnormal oral behaviors, including excessive licking 
+of their own bodies and walls and fixtures of the en-
+vironment (Bokkers and Koene, 2001). Those authors 
+and others (Veissier et al., 1997; Jensen, 2003) have 
+argued that expression of abnormal oral behaviors is 
+likely caused by poor milk-feeding practices (e.g., low 
+milk allowance, bucket feeding, abrupt weaning). When 
+these practices are corrected, abnormal oral behaviors 
+will be rare.
+Competition and Aggression
+Competition and aggression can be prevented by so-
+cial isolation. In early life, competition and aggression 
+are normally associated with feeding (Herrmann and 
+Knierim, 1999). For calves reared in groups fed from a 
+single automatic milk feeder, 89% of aggressive events 
+happened around the feeder (Herrmann and Knierim, 
+1999). Not surprisingly, aggression was intensified when 
+calves were fed restricted milk allowances; higher com-
+petition at the milk teat can also reduce feeding time 
+and milk intake (von Keyserlingk et al., 2004).
+Some management strategies to mitigate competi-
+tion during milk feeding have been studied. Providing 
+more teats (ideally at least one teat per calf) reduces 
+competition (von Keyserlingk et al., 2004). Automated 
+feeders often use much higher ratios of calves to teats, 
+but reducing the ratio helps to reduce competition. For 
+example, one study found that calves in groups of 24 
+animals with one teat had increased levels of distur-
+bance when feeding compared with groups of 12 calves 
+(Jensen, 2004). The placement of barriers between the 
+teats also reduces competition, especially when long 
+barriers separate calves’ heads and shoulders (Jensen 
+et al., 2008). Offering milk in fewer and larger por-
+tions can lower competition for access to teats (Jensen, 
+
+Journal of Dairy Science Vol. 99 No. 4, 2016
+INVITED REVIEW: GROUP HOUSING OF DAIRY CALVES
+2461
+2004), likely because the larger meals are more effective 
+at satiating the calves and thus reduce nonnutritive 
+sucking at the teat (de Paula Vieira et al., 2008). Fewer, 
+larger meals are especially appropriate for older calves, 
+as calves will naturally consume larger and fewer meals 
+per day (Jensen, 2009).
+Aggressive behavior also can be reduced by main-
+taining stable groups. Calves kept in stable groups 
+have fewer aggressive interactions during feeding than 
+regrouped animals (Mounier et al., 2006). Given that 
+it can be difficult to maintain stable groups after 
+weaning, limiting regrouping to the mixing of 2 previ-
+ously stable groups results in fewer aggressive and more 
+positive social interactions of weaned dairy calves com-
+pared with other mixing options (Færevik et al., 2007). 
+Homogenizing groups of calves by age also decreases 
+competition and increases performance (Færevik et al., 
+2010). In summary, these results suggest that competi-
+tion can be mitigated by providing enough milk and 
+enough feeding stations, by designing and placing these 
+stations effectively, and by maintaining stable social 
+groups where possible.
+Health
+Calf morbidity and mortality are important indica-
+tors of herd health status (Ortiz-Pelaez et al., 2008). 
+Calf mortality rates are often high: a study of large 
+farms in Korea reported a mortality rate of 10.7% dur-
+ing the first year of life (Hur et al., 2013), a UK survey 
+reported a mortality rate of 14.5% from birth to first 
+calving (Brickell et al., 2009), and in France mortality 
+rates averaged 4.4 and 3.2% for 3-d- to 1-mo-old calves 
+and 1- to 6-mo-old calves, respectively (Raboisson et 
+al., 2013). Yearly mortality of heifers in the United 
+States has been reported to be 6.9 and 7.8% on calf 
+ranches (Walker et al., 2012) and dairy farms (USDA, 
+2008), respectively .
+Enteric and respiratory diseases can be spread 
+through horizontal calf–calf transmission, especially 
+fecal–oral and nose–nose contact, behaviors that can 
+be minimized by individual housing (Steenkamer, 1982; 
+Maatje et al., 1993; McGuirk, 2008). Individual pens 
+may also facilitate monitoring, and thus result in better 
+treatment of disease (Kung et al., 1997). Despite these 
+mechanisms, there is little evidence of a consistent re-
+lationship between individual housing and calf health. 
+Some studies (e.g., Webster et al., 1985; Gulliksen et 
+al., 2009) have indeed reported more health problems 
+in group-reared calves, but other empirical studies have 
+found no advantage of individual housing compared 
+with small groups (e.g., Waltner-Toews et al., 1986a,b; 
+Perez et al., 1990; Johnson et al., 2011). As reviewed 
+below, different factors including the amount of milk 
+fed, bedding management, and group size can affect 
+disease risk and should be considered in any compari-
+son between systems.
+Early work (Warnick et al., 1977) found that rais-
+ing calves in groups resulted in higher treatment rates 
+compared with individually housed calves. Another 
+early study reported that chronic and acute respira-
+tory diseases and diarrhea occurred more frequently in 
+group-housed veal calves (Maatje et al., 1993) but this 
+comparison was confounded by differences in milk-feed-
+ing methods between grouped (computer-controlled) 
+and individual (bucket feeding twice per day) calves.
+Group size can play a role in the health of group-
+housed calves. One study on commercial farms in Swe-
+den reported that calves housed in pens of 8 to 12 calves 
+had a higher incidence of respiratory illness than calves 
+housed in smaller groups, but no differences in diarrhea 
+were observed between these treatments (Svensson and 
+Liberg, 2006). Another study found that severe cases 
+of diarrhea were more common in large groups (Svens-
+son et al., 2003). A US study (Losinger and Heinrichs, 
+1997) found that raising calves in groups with more 
+than 7 calves was associated with a higher mortality, 
+but found no differences between farms with individu-
+ally housed calves or groups of 6 or fewer. Another 
+study found no difference in disease incidence when 
+comparing groups of 2, 4, and 8 calves (Abdelfattah 
+et al., 2013). Higher morbidity and mortality in large 
+groups of calves may be due to difficulty in detecting, 
+examining, and treating sick calves, resulting in delayed 
+treatments (Steenkamer, 1982; van Putten, 1982).
+Another factor that influences disease risk in group-
+housed calves is the method of grouping. Pedersen et al. 
+(2009) reported that groups in which new calves were 
+continuously introduced and removed (i.e., dynamic 
+groups) had lower daily gains and a higher incidence 
+of disease than did stable groups (e.g., using all-in-all-
+out management). The aim of all-in-all-out systems is 
+to prevent the spread of infections between groups of 
+animals raised in the same unit, allowing for cleaning 
+and disinfection between groups of animals. In fatten-
+ing pigs and broilers, all-in-all-out systems reduce the 
+occurrence of infectious disease (i.e., Wierup, 2000).
+Some studies found no difference in the incidence 
+of respiratory disorders (Hanekamp et al., 1994) and 
+other health issues between individually reared calves 
+and calves reared in groups (Hänninen et al., 2003). 
+Work on veal calves has shown that contagious diseases 
+including Escherichia coli O157 (Rugbjerg et al., 2003), 
+Salmonella (Losinger et al., 1995), and Cryptosporidium 
+parvum (Mohammed et al., 1999) were not associated 
+with group housing.
+
+2462
+COSTA ET AL.
+Journal of Dairy Science Vol. 99 No. 4, 2016
+Some work has also reported improved health in 
+grouped calves. For example, Hänninen et al. (2003) 
+found that the incidence of diarrhea was lower in 
+group-housed calves compared with individually housed 
+calves. Babu et al. (2009) also found that diarrhea and 
+respiratory disease were less common in socially housed 
+calves compared with those individually raised.
+In summary, diarrhea and respiratory illness, the most 
+common diseases in young calves, are not consistently 
+associated with group housing. Disease transmission is 
+complex and many other management practices influ-
+ence the risk of these diseases, including methods of 
+milk feeding, hygiene, ventilation, colostrum practices, 
+diet, and health monitoring. We suggest that controlling 
+these variables is a more effective method of minimiz-
+ing health problems in dairy calves. The results above 
+indicate that calves can be grouped in good health if 
+housing is properly managed, but more research is re-
+quired on factors that improve the health of grouped 
+calves. In particular, we urge long-term studies that 
+focus on factors including ventilation, age of contact, 
+feeding program, and preventive measures. Addition-
+ally, the effect of group housing on the future health 
+status of adult animals is worthy of investigation.
+CONCLUSIONS
+The detrimental effects of social isolation are now rec-
+ognized in a range of species, and newer work on dairy 
+calves has shown that animals reared in isolation show 
+deficient social skills, difficulties in coping with novel 
+situations, and poorer learning abilities. Social housing 
+for calves also improves solid feed intakes preweaning 
+and helps improve weight gains before and after calves 
+are weaned from milk to solid feed. We encourage future 
+work on the persistence of the negative effects of social 
+isolation on cognition and behavioral flexibility, and on 
+the critical periods during which these effects may be 
+reversed. We also urge new studies on the longer-term 
+effects of social rearing on heifer and cow behavior, 
+health and production. Together, this will lead to a 
+better understanding of housing and management con-
+ditions required for group housing to succeed.
+ACKNOWLEDGMENTS
+We thank the two anonymous reviewers, Heather 
+W. Neave (UBC Animal Welfare Program), Jennifer 
+L. Black (UBC Food Nutrition and Health Program), 
+Andréia de Paula Vieira (Federal University of the Pa-
+rana, Curitiba Brazil), and Maria José Hötzel (Federal 
+University of Santa Catarina, Florionopolis, Brazil) for 
+their input and comments on previous drafts of this 
+manuscript. Joao H. C. Costa received a scholarship 
+from CNPq (The Brazilian National Council for Sci-
+entific and Technological Development). Much of our 
+research on this topic was funded by a Discovery Grant 
+to D. M. Weary from Canada’s Natural Sciences and 
+Engineering Research Council (NSERC; Ottawa, ON, 
+Canada). Our research group is funded by NSERC’s 
+Industrial Research Chair program, with industry 
+contributions from the Dairy Farmers of Canada 
+(Ottawa, ON, Canada), British Columbia Dairy As-
+sociation (Burnaby, BC Canada), Westgen Endowment 
+Fund (Milner, BC, Canada), Intervet Canada Corpo-
+ration (Kirkland, QC, Canada), Novus International 
+Inc. (Oakville, ON, Canada), Zoetis (Kirkland, QC, 
+Canada), BC Cattle Industry Development Fund (Ka-
+mloops, BC, Canada), Alberta Milk (Edmonton, AB, 
+Canada), Valacta (St. Anne-de-Bellevue, QC, Canada), 
+and CanWest DHI (Guelph, ON, Canada).
+REFERENCES
+Abdelfattah, E. M., M. M. Schutz, D. C. Lay, J. N. Marchant-Forde, 
+and S. D. Eicher. 2013. Effect of group size on behavior, health, 
+production, and welfare of veal calves. J. Anim. Sci. 91:5455–5465.
+Andrighetto, I., F. Gottardo, D. Andreoli, and G. Cozzi. 1999. Effect 
+of type of housing on veal calf growth performance, behaviour and 
+meat quality. Livest. Prod. Sci. 57:137–145.
+Babu, L. K., H. N. Pandey, R. C. Patra, and A. Sahoo. 2009. Hemato-
+biochemical changes, disease incidence and live weight gain in in-
+dividual versus group reared calves fed on different levels of milk 
+and skim milk. Anim. Sci. J. 80:149–156.
+Babu, L. K., H. N. Pandey, and A. Sahoo. 2003. Effect of individual ver-
+sus group rearing and feeding of different levels of milk and skim 
+milk on nutrient utilization in crossbred calves. Asian-australas. J. 
+Anim. Sci. 16:1455–1459.
+Babu, L. K., H. N. Pandey, and A. Sahoo. 2004. Effect of individual 
+versus group rearing on ethological and physiological response of 
+cross-bred calves. Appl. Anim. Behav. Sci. 87:177–191.
+Bandura, A. 1977. Self-efficacy: Toward a unifying theory of behav-
+ioral change. Psychol. Rev. 84:191–215.
+Baumont, R. 2000. How forage characteristics influence behaviour and 
+intake in small ruminants: A review. Livest. Prod. Sci. 64:15–28.
+Bernal-Rigoli, J. C., J. D. Allen, J. A. Marchello, S. P. Cuneo, S. R. 
+Garcia, G. Xie, L. W. Hall, C. D. Burrows, and G. C. Duff. 2012. 
+Effects of housing and feeding systems on performance of neonatal 
+Holstein bull calves. J. Anim. Sci. 90:2818–2825.
+Bøe, K. E., and G. Færevik. 2003. Grouping and social preferences in 
+calves, heifers and cows. Appl. Anim. Behav. Sci. 80:175–190.
+Boissy, A., and P. Le Neindre. 1997. Behavioral, cardiac and cortisol 
+responses to brief peer separation and reunion in cattle. Physiol. 
+Behav. 61:693–699.
+Bokkers, E. A. M., and P. Koene. 2001. Activity, oral behaviour and 
+slaughter data as welfare indicators in veal calves: A comparison of 
+three housing systems. Appl. Anim. Behav. Sci. 75:1–15.
+Bond, G. B., M. A. G. von Keyserlingk, N. Chapinal, E. A. Pajor, and 
+D. M. Weary. 2015. Among farm variation in heifer BW gains. 
+Animal 9:1884–1887.
+Boogaard, B. K., B. B. Bock, S. J. Oosting, and E. Krogh. 2010. Vis-
+iting a farm: An exploratory study of the social construction of 
+animal farming in Norway and the Netherlands based on sensory 
+perception. Int. J. Sociol. Agric. Food 17:24–50.
+Bornstein, R. F. 1989. Exposure and affect: Overview and meta-analy-
+sis of research, 1968–1987. Psychol. Bull. 106:265–289.
+
+Journal of Dairy Science Vol. 99 No. 4, 2016
+INVITED REVIEW: GROUP HOUSING OF DAIRY CALVES
+2463
+Bouissou, M. F., A. Boissy, P. Neindre, and I. Veissier. 2001. The 
+social behaviour of cattle. Pages 113–135 in Social Behaviour in 
+Farm Animals. L. J. Keeling and H. W. Gonyou, ed. CABI Pub-
+lishing, Wallingford, UK.
+Bowlby, J. 1969. Attachment and Loss. Vol, 1. Hogarth, London, UK.
+Bowyer, R. T., V. Van Ballenberghe, J. G. Kie, and J. A. K. Maier. 
+1999. Birth-site selection by Alaskan moose: maternal strategies 
+for coping with a risky environment. J. Mammal. 80:1070–1083.
+Boyd, R., and P. J. Richerson. 1996. Why culture is common, but cul-
+tural evolution is rare. Page 77–94 in Proc. British Acad. Symp., 
+Oxford Univ., Oxford, UK.
+Brickell, J. S., M. M. McGowan, D. U. Pfeiffer, and D. C. Wathes. 
+2009. Mortality in Holstein-Friesian calves and replacement heif-
+ers, in relation to body weight and IGF-I concentration, on 19 
+farms in England. Animal 3:1175–1182.
+Broom, D. M., and J. D. Leaver. 1978. Effects of group rearing or 
+partial isolation on later social behaviour of calves. Anim. Behav. 
+26:1255–1263.
+Cacioppo, J. T., L. C. Hawkley, G. J. Norman, and G. G. Berntson. 
+2011. Social isolation. Ann. N. Y. Acad. Sci. 1231:17–22.
+Chapple, R. S., and J. J. Lynch. 1986. Behavioural factors modify-
+ing acceptance of supplementary foods by sheep. Res. Dev. Agric. 
+3:113–120.
+Chua, B., E. Coenen, J. Van Delen, and D. M. Weary. 2002. Effects of 
+pair versus individual housing on the behavior and performance of 
+dairy calves. J. Dairy Sci. 85:360–364.
+Cohen, S., and T. A. Wills. 1985. Stress, social support, and the buff-
+ering hypothesis. Psychol. Bull. 98:310–357.
+Conte, R., and M. Paolucci. 2001. Intelligent social learning. J. Artif. 
+Soc. Soc. Simul. 4:U61–U82.
+Cooke, L., S. Carnell, and J. Wardle. 2006. Food neophobia and meal-
+time food consumption in 4–5 year old children. Int. J. Behav. 
+Nutr. Phys. Act. 3:14.
+Costa, J. H. C., W. G. Costa, D. M. Weary, L. C. P. Machado Filho, 
+and M. A. G. von Keyserlingk. 2016. Dairy heifers benefit from the 
+presence of an experienced companion when learning how to graze. 
+J. Dairy Sci. 99:562–568. http://dx.doi.org/10.3168/jds.2015-9387.
+Costa, J. H. C., R. R. Daros, M. A. G. von Keyserlingk, and D. M. 
+Weary. 2014. Complex social housing reduces food neophobia in 
+dairy calves. J. Dairy Sci. 97:7804–7810.
+Costa, J. H. C., R. K. Meagher, M. A. G. von Keyserlingk, and D. 
+M. Weary. 2015. Early pair housing increases solid feed intake and 
+weight gains in dairy calves. J. Dairy Sci. 98:6381–6386.
+Creel, S. R., and J. L. Albright. 1988. The effects of neonatal so-
+cial isolation on the behavior and endocrine function of Holstein 
+calves. Appl. Anim. Behav. Sci. 21:293–306.
+Dalley, J. W., D. E. Theobald, P. Bouger, Y. Chudasama, R. N. Car-
+dinal, and T. W. Robbins. 2004. Cortical cholinergic function and 
+deficits in visual attentional performance in rats following 192 
+IgG-saporin-induced lesions of the medial prefrontal cortex. Cereb. 
+Cortex 14:922–932.
+Dance, A., J. Thundathil, R. Wilde, P. Blondin, and J. Kastelic. 2015. 
+Enhanced early-life nutrition promotes hormone production and 
+reproductive development in Holstein bulls. J. Dairy Sci. 98:987–
+998.
+Davis, M. E., S. C. Sears, J. K. Apple, C. V. Maxwell, and Z. B. John-
+son. 2006. Effect of weaning age and commingling after the nursery 
+phase of pigs in a wean-to-finish facility on growth, humoral and 
+behavioral indicators of well-being. J. Anim. Sci. 84:743–756.
+Day, M. L., K. Imakawa, A. C. Clutter, P. L. Wolfe, D. D. Zalesky, 
+M. K. Nielsen, and J. E. Kinder. 1987. Suckling behavior of calves 
+with dams varying in milk production. J. Anim. Sci. 65:1207–1212.
+de Passillé, A. M. 2001. Sucking motivation and related problems in 
+calves. Appl. Anim. Behav. Sci. 72:175–187.
+de Passillé, A. M., T. F. Borderas, and J. Rushen. 2011. Weaning age 
+of calves fed a high milk allowance by automated feeders: Effects 
+on feed, water, and energy intake, behavioral signs of hunger, and 
+weight gains. J. Dairy Sci. 94:1401–1408.
+de Passillé, A. M., B. C. Sweeney, and J. Rushen. 2010. Cross-suck-
+ing and gradual weaning of dairy calves. Appl. Anim. Behav. Sci. 
+124:11–15.
+de Paula Vieira, A., A. M. de Passilé, and D. M. Weary. 2012a. Effects 
+of the early social environment on the behavioural responses of 
+dairy calves to novel events. J. Dairy Sci. 95:5149–5155.
+de Paula Vieira, A., V. Guesdon, A. M. de Passillé, M. A. G. von Key-
+serlingk, and D. M. Weary. 2008. Behavioural indicators of hunger 
+in dairy calves. Appl. Anim. Behav. Sci. 109:180–189.
+de Paula Vieira, A., M. A. G. von Keyserlingk, and D. M. Weary. 2010. 
+Effects of pair versus single housing on performance and behavior 
+of dairy calves before and after weaning from milk. J. Dairy Sci. 
+93:3079–3085.
+de Paula Vieira, A., M. A. G. von Keyserlingk, and D. M. Weary. 
+2012b. Presence of an older weaned companion influences feeding 
+behavior and improves performance of dairy calves before and af-
+ter weaning from milk. J. Dairy Sci. 95:3218–3224.
+Duve, L. R., and M. B. Jensen. 2011. The level of social contact affects 
+social behaviour in pre-weaned dairy calves. Appl. Anim. Behav. 
+Sci. 135:34–43.
+Duve, L. R., and M. B. Jensen. 2012. Social behavior of young dairy 
+calves housed with limited or full social contact with a peer. J. 
+Dairy Sci. 95:5936–5945.
+Duve, L. R., D. M. Weary, U. Halekoh, and M. B. Jensen. 2012. The 
+effects of social contact and milk allowance on responses to han-
+dling, play, and social behavior in young dairy calves. J. Dairy Sci. 
+95:6571–6581.
+Færevik, G., I. L. Andersen, M. B. Jensen, and K. E. Bøe. 2007. In-
+creased group size reduces conflicts and strengthens the preference 
+for familiar group mates in dairy calves (Bos taurus). Appl. Anim. 
+Behav. Sci. 108:215–228.
+Færevik, G., M. B. Jensen, and K. E. Bøe. 2006. Dairy calves social 
+preferences and the significance of a companion animal during 
+separation from the group. Appl. Anim. Behav. Sci. 99:205–221.
+Færevik, G., M. B. Jensen, and K. E. Bøe. 2010. The effect of group 
+composition and age on social behavior and competition in groups 
+of weaned dairy calves. J. Dairy Sci. 93:4274–4279.
+Fahlke, C., J. G. Lorenz, J. Long, M. Champoux, S. J. Suomi, and J. 
+D. Higley. 2000. Rearing experiences and stress-induced plasma 
+coritsol as early risk factors for excessive alcohol consumption in 
+nonhuman primates. Alcohol. Clin. Exp. Res. 24:644–650.
+Fone, K. C., and M. V. Porkess. 2008. Behavioural and neurochemical 
+effects of post-weaning social isolation in rodents-relevance to de-
+velopmental neuropsychiatric disorders. Neurosci. Biobehav. Rev. 
+32:1087–1102.
+Fowler, C. D., Y. Liu, C. Ouimet, and Z. Wang. 2002. The effects 
+of social environment on adult neurogenesis in the female prairie 
+vole. J. Neurobiol. 51:115–128.
+Freeland, J. W., and D. H. Janzen. 1974. Strategies in herbivory by 
+mammals: The role of plant secondary compounds. Am. Nat. 
+108:269–289.
+Gaillard, C., R. K. Meagher, M. A. G. von Keyserlingk, and D. M. 
+Weary. 2014. Social housing improves dairy calves' performance in 
+two cognitive tests. PLoS ONE 9:e90205.
+Galef, B. G. 1981. Development of olfactory control of feeding-site 
+selection in rat pups. J. Comp. Physiol. Psychol. 95:615–622.
+Galef, B. G., and K. N. Laland. 2005. Social learning in animals: 
+Empirical studies and theoretical models. Bioscience 55:489–499.
+Galef, B. J. 1988. Communication of information concerning distant 
+diets in a social, central-place foraging species: Rattus norvegicus. 
+Pages 119–139 in Social Learning: Psychological and Biological 
+Perspectives. Erlbaum ed., Hillsdale, NJ.
+Gottman, J. M. 1977. Toward a definition of social isolation in chil-
+dren. Child Dev. 48:513–517.
+Gulliksen, S. M., K. Lie, T. Loken, and O. Osteras. 2009. Calf mortal-
+ity in Norwegian dairy herds. J. Dairy Sci. 92:2782–2795.
+Hall, F. S. 1998. Social deprivation of neonatal, adolescent, and adult 
+rats has distinct neurochemical and behavioral consequences. Crit. 
+Rev. Neurobiol. 12:129–162.
+Haller, J., G. Harold, C. Sandi, and I. D. Neumann. 2014. Effects of 
+adverse early-life events on aggression and anti-social behaviours 
+in animals and humans. J. Neuroendocrinol. 26:724–738.
+
+2464
+COSTA ET AL.
+Journal of Dairy Science Vol. 99 No. 4, 2016
+Hanekamp, W. J. A., A. C. Smits, and H. K. Wierenga. 1994. Open 
+versus closed barn and individual versus group-housing for bull 
+calves destined for beef production. Livest. Prod. Sci. 37:261–270.
+Hänninen, L., A. M. De Passillé, and J. Rushen. 2005. The effect of 
+flooring type and social grouping on the rest and growth of dairy 
+calves. Appl. Anim. Behav. Sci. 91:193–204.
+Hänninen, L., H. Hepola, J. Rushen, A. M. de Passillé, P. Pursiainen, 
+V. M. Tuure, L. Syrjälä-Qvist, M. Pyykkönen, and H. Saloniemi. 
+2003. Resting behaviour, growth and diarrhoea incidence rate of 
+young dairy calves housed individually or in groups in warm or 
+cold buildings. Acta Agric. Scand. A Anim. Sci. 53:21–28.
+Harlow, H. F., R. O. Dodsworth, and M. K. Harlow. 1965. Total social 
+isolation in monkeys. Proc. Natl. Acad. Sci. USA 54:90–97.
+Heim, C., and C. B. Nemeroff. 2001. The role of childhood trauma in 
+the neurobiology of mood and anxiety disorders: preclinical and 
+clinical studies. Biol. Psychiatry 49:1023–1039.
+Heim, C., P. M. Plotsky, and C. B. Nemeroff. 2004. Importance of 
+studying the contributions of early adverse experience to neurobio-
+logical findings in depression. Neuropsychopharmacology 29:641–
+648.
+Hennessy, M. B., S. Kaiser, and N. Sachser. 2009. Social buffering of 
+the stress response: diversity, mechanisms, and functions. Front. 
+Neuroendocrinol. 30:470–482.
+Hennessy, M. B., D. S. Maken, and F. C. Graves. 2000. Consequences 
+of the presence of the mother or unfamiliar adult female on cor-
+tisol, ACTH, testosterone and behavioral responses of periadoles-
+cent guinea pigs during exposure to novelty. Psychoneuroendocri-
+nology 25:619–632.
+Hepola, H., L. Hänninen, P. Pursiainen, V. M. Tuure, L. Syrjälä-Qvist, 
+M. Pyykkönen, and H. Saloniemi. 2006. Feed intake and oral be-
+haviour of dairy calves housed individually or in groups in warm 
+or cold buildings. Livest. Sci. 105:94–104.
+Herrmann, J., and U. Knierim. 1999. Auswirkungen der Tränketech-
+nik auf das Sozialverhalten zwei bis acht Wochen alter Mastkäl-
+ber in Gruppenhaltung (Effects of different feeding techniques on 
+the social behaviour from two to eight weeks old veal calves in 
+group housing). Aktuelle Arbeiten zur artgemässen Tierhaltung 
+382:130–136.
+Higley, J. D., M. F. Hasert, S. J. Suomi, and M. Linnoila. 1991. Non-
+human primate model of alcohol abuse: Effects of early experience, 
+personality, and stress on alcohol consumption. Proc. Natl. Acad. 
+Sci. USA 88:7261–7265.
+Holm, L., M. B. Jensen, and L. L. Jeppesen. 2002. Calves’ motivation 
+for access to two different types of social contact measured by op-
+erant conditioning. Appl. Anim. Behav. Sci. 79:175–194.
+Holson, R. R., A. C. Scallet, S. F. Ali, and B. B. Turner. 1991. Iso-
+lation stress revisited: Isolation-rearing effects depend on animal 
+care methods. Physiol. Behav. 49:1107–1118.
+Hötzel, M. J., C. Longo, L. F. Balcão, C. S. Cardoso, and J. H. C. 
+Costa. 2014. A survey of management practices that influence per-
+formance and welfare of dairy calves reared in Southern Brazil. 
+PLoS ONE 9:e114995.
+House, J. S., K. R. Landis, and D. Umberson. 1988. Social relation-
+ships and health. Science 241:540–545.
+Hur, T. Y., Y. H. Jung, C. Y. Choe, Y. I. Cho, S. J. Kang, H. J. Lee, 
+K. S. Ki, K. S. Baek, and G. H. Suh. 2013. The dairy calf mortal-
+ity: The causes of calf death during ten years at a large dairy farm 
+in Korea. Korean J. Vet. Res. 53:103–108.
+Jensen, M. B. 2003. The effects of feeding method, milk allowance and 
+social factors on milk feeding behaviour and cross-sucking in group 
+housed dairy calves. Appl. Anim. Behav. Sci. 80:191–206.
+Jensen, M. B. 2004. Computer-controlled milk feeding of dairy calves: 
+The effects of number of calves per feeder and number of milk por-
+tions on use of feeder and social behavior. J. Dairy Sci. 87:3428–
+3438.
+Jensen, M. B. 2009. Short communication: Milk meal pattern of dairy 
+calves is affected by computer-controlled milk feeder set-up. J. 
+Dairy Sci. 92:2906–2910.
+Jensen, M. B., A. M. de Passillé, M. A. G. von Keyserlingk, and J. 
+Rushen. 2008. A barrier can reduce competition over teats in pair-
+housed milk-fed calves. J. Dairy Sci. 91:1607–1613.
+Jensen, M. B., L. R. Duve, and D. M. Weary. 2015. Pair housing and 
+enhanced milk allowance increase play behavior and improve per-
+formance in dairy calves. J. Dairy Sci. 98:2568–2575.
+Jensen, M. B., and L. E. Larsen. 2014. Effects of level of social contact 
+on dairy calf behavior and health. J. Dairy Sci. 97:5035–5044.
+Jensen, M. B., K. S. Vestergaard, C. C. Krohn, and L. Munksgaard. 
+1997. Effect of single versus group housing and space allowance 
+on responses of calves during open-field tests. Appl. Anim. Behav. 
+Sci. 54:109–121.
+Johnson, K., C. C. Burn, and D. C. Wathes. 2011. Rates and risk fac-
+tors for contagious disease and mortality in young dairy heifers. 
+Anim. Sci. Rev. 205:101–113.
+Jones, G. H., C. A. Marsden, and T. W. Robbins. 1991. Behavioural 
+rigidity and rule-learning deficits following isolation-rearing in the 
+rat: Neurochemical correlates. Behav. Brain Res. 43:35–50.
+Kanitz, E., B. Puppe, M. Tuchscherer, M. Heberer, T. Viergutz, and 
+A. Tuchscherer. 2009. A single exposure to social isolation in do-
+mestic piglets activates behavioural arousal, neuroendocrine stress 
+hormones, and stress-related gene expression in the brain. Physiol. 
+Behav. 98:176–185.
+Keeling, L. J., and J. F. Hurnik. 1996. Social facilitation and synchro-
+nization of eating between familiar and unfamiliar newly weaned 
+piglets. Acta Agric. Scand. A Anim. Sci. 46:54–60.
+Keil, N. M., and W. Langhans. 2001. The development of intersucking 
+in dairy calves around weaning. Appl. Anim. Behav. Sci. 72:295–
+308.
+Kercmar, J., S. A. Tobet, and G. Majdic. 2014. Social isolation dur-
+ing puberty affects female sexual behavior in mice. Front. Behav. 
+Neurosci. 8:337.
+Key, C., and R. M. MacIver. 1980. The effects of maternal influences 
+on sheep: Breed differences in grazing, resting and courtship be-
+haviour. Appl. Anim. Behav. Sci. 6:33–48.
+Kikusui, T., J. T. Winslow, and Y. Mori. 2006. Social buffering: relief 
+from stress and anxiety. Philos. Trans. R. Soc. Lond. B Biol. Sci. 
+361:2215–2228.
+Kiyokawa, Y., S. Hiroshima, Y. Takeuchi, and Y. Mori. 2014a. Social 
+buffering reduces male rats' behavioral and corticosterone respons-
+es to a conditioned stimulus. Horm. Behav. 65:114–118.
+Kiyokawa, Y., A. Honda, Y. Takeuchi, and Y. Mori. 2014b. A famil-
+iar conspecific is more effective than an unfamiliar conspecific for 
+social buffering of conditioned fear responses in male rats. Behav. 
+Brain Res. 267:189–193.
+Kraemer, G. W., M. H. Ebert, D. E. Schmidt, and W. T. McKin-
+ney. 1991. Strangers in a strange land: A psychobiological study 
+of mother-infant separation in rhesus monkeys. Child Dev. 62:548–
+566.
+Krohn, C. C., J. Foldager, and L. Mogensen. 1999. Long-term effect 
+of colostrum feeding methods on behaviour in female dairy calves. 
+Acta Agric. Scand. A Anim. Sci. 49:57–64.
+Kuller, W. I., T. J. Tobias, and A. van Nes. 2010. Creep feed intake 
+in unweaned piglets is increased by exploration stimulating feeder. 
+Livest. Prod. Sci. 129:228–231.
+Kung, L., S. Demarco, L. N. Siebenson, E. Joyner, G. F. W. Haenlein, 
+and R. M. Morris. 1997. An evaluation of two management systems 
+for rearing calves fed milk replacer. J. Dairy Sci. 80:2529–2533.
+Langbein, J., and M. L. Raasch. 2000. Investigations on the hiding 
+behaviour of calves at pasture. Arch. Anim. Breed. 43:203–210.
+Launchbaugh, K. L., and L. D. Howery. 2005. Understanding land-
+scape use patterns of livestock as a consequence of foraging behav-
+ior. Rangeland Ecol. Manag. 58:99–108.
+Le Neindre, P. 1989a. Influence of cattle rearing conditions and breed 
+on social relationships of mother and young. Appl. Anim. Behav. 
+Sci. 23:117–127.
+Le Neindre, P. 1989b. Influence of rearing conditions and breed on 
+social behavior and activity of cattle in novel environments. Appl. 
+Anim. Behav. Sci. 23:129–140.
+Lidfors, L., and L. Isberg. 2003. Intersucking in dairy cattle—Review 
+and questionnaire. Appl. Anim. Behav. Sci. 80:207–231.
+Lidfors, L., P. Jensen, and B. Algers. 1994. Suckling in free-ranging 
+beef cattle: Temporal patterns of suckling bouts and effects of age 
+and sex. Ethology 98:321–332.
+
+Journal of Dairy Science Vol. 99 No. 4, 2016
+INVITED REVIEW: GROUP HOUSING OF DAIRY CALVES
+2465
+Lidfors, L. M. 1996. Behavioural effects of separating the dairy calf 
+immediately or 4 days post-partum. Appl. Anim. Behav. Sci. 
+49:269–283.
+Lipkind, D., R. Nottebohm, R. Rado, and A. Barnea. 2002. Social 
+change affects the survival of new neurons in the forebrain of adult 
+songbirds. Behav. Brain Res. 133:31–43.
+Losinger, W. C., and A. Heinrichs. 1997. Management practices as-
+sociated with high mortality among preweaned dairy heifers. J. 
+Dairy Res. 64:1–11.
+Losinger, W. C., S. J. Wells, L. P. Garber, and H. S. Hurd. 1995. Man-
+agement factors related to salmonella shedding by dairy heifers. J. 
+Dairy Sci. 78:2464–2472.
+Lovic, V., D. J. Palombo, and A. S. Fleming. 2011. Impulsive rats are 
+less maternal. Dev. Psychobiol. 53:13–22.
+Lukas, M., R. Bredewold, R. Landgraf, I. D. Neumann, and A. H. 
+Veenema. 2011. Early life stress impairs social recognition due to a 
+blunted response of vasopressin release within the septum of adult 
+male rats. Psychoneuroendocrinology 36:843–853.
+Maatje, K., J. Verhoeff, W. D. J. Kremer, A. L. M. Cruijsen, and 
+T. S. G. A. M. van den Ingh. 1993. Automated feeding of milk 
+replacer and health control of group-housed veal calves. Vet. Rec. 
+133:266–270.
+Margerison, J. K., T. R. Preston, N. Berry, and C. J. C. Phillips. 2003. 
+Cross-sucking and other oral behaviours in calves, and their rela-
+tion to cow suckling and food provision. Appl. Anim. Behav. Sci. 
+80:277–286.
+Mattiello, S., E. Canali, V. Ferrante, M. Caniatti, F. Gottardo, G. 
+Cozzi, I. Andrighetto, and M. Verga. 2002. The provision of solid 
+feeds to veal calves: II. Behavior, physiology, and abomasal dam-
+age. J. Anim. Sci. 80:367–375.
+McGuirk, S. M. 2008. Disease management of dairy calves and heifers. 
+Vet. Clin. North Am. Food Anim. Pract. 24:139–153.
+Meagher, R. K., R. R. Daros, J. H. C. Costa, M. A. G. von Keyser-
+lingk, M. Hötzel, and D. M. Weary. 2015. Individual housing im-
+pairs reversal learning and increases fear of novel objects in dairy 
+calves. PLoS ONE 10:e0132828.
+Mirza, S. N., and F. D. Provenza. 1992. Effects of age and conditions 
+of exposure on maternally mediated food selection in lambs. Appl. 
+Anim. Behav. Sci. 33:3542–3550.
+Mirza, S. N., and F. D. Provenza. 1994. Socially induced food avoid-
+ance in lambs: Direct or indirect maternal influence? J. Anim. Sci. 
+72:899–902.
+Moallem, U., D. Werner, H. Lehrer, M. Zachut, L. Livshitz, S. Yakoby, 
+and A. Shamay. 2010. Long-term effects of ad libitum whole milk 
+prior to weaning and prepubertal protein supplementation on skel-
+etal growth rate and first-lactation milk production. J. Dairy Sci. 
+93:2639–2650.
+Moberg, G. P., and V. A. Wood. 1982. Effect of differential rearing on 
+the behavioural and adrenocortical response of lambs to a novel 
+environment. Appl. Anim. Ethol. 8:269–279.
+Mohammed, H. O., S. E. Wade, and S. Schaaf. 1999. Risk factors as-
+sociated with Cryptosporidium parvum infection in dairy cattle in 
+southeastern New York State. Vet. Parasitol. 83:1–13.
+Mounier, L., H. Dubroeucq, S. Andanson, and I. Veissier. 2006. Varia-
+tions in meat pH of beef bulls in relation to conditions of transfer 
+to slaughter and previous history of the animals. J. Anim. Sci. 
+84:1567–1576.
+Murphey, R. M., and F. A. de Moura Duarte. 1990. Social aggrega-
+tions in cattle. II. Contributions of familiarity and genetic similar-
+ity. Behav. Genet. 20:355–368.
+Napolitano, F., G. F. Cifuni, C. Pacelli, A. M. Riviezzi, and A. Gi-
+rolami. 2002. Effect of artificial rearing on lamb welfare and meat 
+quality. Meat Sci. 60:307–315.
+Napolitano, F., G. De Rosa, and A. Sevi. 2008. Welfare implications of 
+artificial rearing and early weaning in sheep. Appl. Anim. Behav. 
+Sci. 110:58–72.
+Napolitano, F., V. Marino, G. De Rosa, R. Capparelli, and A. Bordi. 
+1995. Influence of artificial rearing on behavioural and immune 
+response of lambs. Appl. Anim. Behav. Sci. 45:245–253.
+Neigh, G. N., C. F. Gillespie, and C. B. Nemeroff. 2009. The neuro-
+biological toll of child abuse and neglect. Trauma Violence Abuse 
+10:389–410.
+Nicol, C. 2006. How animals learn from each other. Appl. Anim. Be-
+hav. Sci. 100:58–63.
+Nielsen, P. P., M. B. Jensen, and L. Lidfors. 2008. Milk allowance 
+and weaning method affect the use of a computer controlled milk 
+feeder and the development of cross-sucking in dairy calves. Appl. 
+Anim. Behav. Sci. 109:223–237.
+Nolte, D. L., F. D. Provenza, and D. F. Balph. 1990. The establish-
+ment and persistence of food preferences in lambs exposed to se-
+lected foods. J. Anim. Sci. 68:998–1002.
+Ortiz-Pelaez, A., D. G. Pritchard, D. U. Pfeiffer, E. Jones, P. Honey-
+man, and J. J. Mawdsley. 2008. Calf mortality as a welfare indica-
+tor on British cattle farms. Vet. J. 176:177–181.
+Parker, K. J., and D. Maestripieri. 2011. Identifying key features of 
+early stressful experiences that produce stress vulnerability and 
+resilience in primates. Neurosci. Biobehav. Rev. 35:1466–1483.
+Pedersen, R. E., J. T. Sørensen, F. Skjøth, J. Hindhede, and T. Rous-
+ing Nielsen. 2009. How milk-fed dairy calves perform in stable 
+versus dynamic groups. Livest. Sci. 121:215–218.
+Pempek, J. A., M. L. Eastridge, N. A. Botheras, C. C. Croney, and W. 
+S. Bowen Yoho. 2013. Effects of alternative housing and feeding 
+systems on the behavior and performance of dairy heifer calves. 
+Prof. Anim. Sci. 29:278–288.
+Perez, E., J. P. T. M. Noordhuizen, L. A. Van Wuijkhuise, and E. N. 
+Stassen. 1990. Management factors related to calf morbidity and 
+mortality rates. Livest. Prod. Sci. 25:79–93.
+Phillips, C. J. C. 2004. The effects of forage provision and group size 
+on the behavior of calves. J. Dairy Sci. 87:1380–1388.
+Piller, C. A. K., J. M. Stookey, and J. M. Watts. 1999. Effects of 
+mirror-image exposure on heart rate and movement of isolated 
+heifers. Appl. Anim. Behav. Sci. 63:93–102.
+Poletto, R., J. M. Siegford, J. P. Steibel, P. M. Coussens, and A. J. 
+Zanella. 2006a. Investigation of changes in global gene expression 
+in the frontal cortex of early-weaned and socially isolated piglets 
+using microarray and quantitative real-time RT-PCR. Brain Res. 
+1068:7–15.
+Poletto, R., J. P. Steibel, J. M. Siegford, and A. J. Zanella. 2006b. Ef-
+fects of early weaning and social isolation on the expression of glu-
+cocorticoid and mineralocorticoid receptor and 11β-hydroxysteroid 
+dehydrogenase 1 and 2 mRNAs in the frontal cortex and hippo-
+campus of piglets. Brain Res. 1067:36–42.
+Provenza, F. D., and D. F. Balph. 1987. Diet learning by domestic ru-
+minants: Theory, evidence and practical implications. Appl. Anim. 
+Behav. Sci. 18:211–232.
+Provenza, F. D., J. J. Villalba, L. E. Dziba, S. B. Atwood, and R. 
+E. Banner. 2003. Linking herbivore experience, varied diets, and 
+plant biochemical diversity. Small Rumin. Res. 49:257–274.
+Quigley, J. D. 1997. Raising replacement heifers from birth to weaning. 
+Pages 21–27 in Proc. 1997 Western Canadian Dairy Seminar, Red 
+Deer, Alberta. University of Alberta, Edmonton, Canada.
+Raboisson, D., F. Delor, E. Cahuzac, C. Gendre, P. Sans, and G. 
+Allaire. 2013. Perinatal, neonatal, and rearing period mortality 
+of dairy calves and replacement heifers in France. J. Dairy Sci. 
+96:2913–2924.
+Ralphs, M. H., D. Graham, and L. F. James. 1994. Social facilitation 
+influences cattle to graze locoweed. J. Range Manage. 1994:123–
+126.
+Rault, J. L. 2012. Friends with benefits: Social support and its rel-
+evance for farm animal welfare. Appl. Anim. Behav. Sci. 136:1–14.
+Raussi, S., S. Nivskanen, J. Siivonen, L. Hänninen, H. Hepola, L. 
+Jauhiainen, and I. Veissier. 2010. The formation of preferential 
+relationships at early age in cattle. Behav. Processes 84:726–731.
+Raussi, S., B. J. Lensink, A. Boissy, M. Pyykkönent, and I. Veis-
+sier. 2003. The effect of contact with conspecifics and humans on 
+calves’ behaviour and stress responses. Anim. Welf. 12:191–202.
+Reimert, I., J. E. Bolhuis, B. Kemp, and T. B. Rodenburg. 2014. 
+Social support in pigs with different coping styles. Physiol. Behav. 
+129:221–229.
+
+2466
+COSTA ET AL.
+Journal of Dairy Science Vol. 99 No. 4, 2016
+Reinhardt, V., and A. Reinhardt. 1981. Natural sucking performance 
+and age of weaning in zebu cattle (Bos indicus). J. Agric. Sci. 
+96:309–312.
+Rettie, W. J., and F. Messier. 2001. Range use and movement rates of 
+woodland caribou in Saskatchewan. Can. J. Zool. 79:1933–1940.
+Richard, A. L., L. D. Muller, and A. J. Heinrichs. 1988. Feeding acidi-
+fied milk replacer ad libitum to calves housed in group versus 
+individual pens. J. Dairy Sci. 71:2203–2209.
+Rugbjerg, H., E. M. Nielsen, and J. S. Andersen. 2003. Risk factors 
+associated with faecal shedding of verocytotoxin-producing Esch-
+erichia coli O157 in eight known-infected Danish dairy herds. Prev. 
+Vet. Med. 58:101–113.
+Rutter, D. R. 1979. The reconstruction of schizophrenic speech. Br. J. 
+Psychiatry 134:356–359.
+Sackett, G. P. 1970. Unlearned responses, differential rearing experi-
+ences, and the development of social attachments by rhesus mon-
+keys. Pages 111–140 in Primate Behavior: Developments in Field 
+and Laboratory Research. L. A. Rosenblum ed. Academic Press, 
+New York, NY.
+Sackett, G. P., G. C. Ruppenthal, C. E. Fahrenbruch, R. A. Holm, and 
+W. T. Greenough. 1981. Social isolation rearing effects in monkeys 
+vary with genotype. Dev. Psychol. 17:313–318.
+Sato, S., D. G. M. Wood-Gush, and G. Wetherill. 1987. Observations 
+on creche behaviour in suckler calves. Behav. Processes 15:333–343.
+Schrijver, N. C., N. I. Bahr, I. C. Weiss, and H. Würbel. 2002. Dis-
+sociable effects of isolation rearing and environmental enrichment 
+on exploration, spatial learning and HPA activity in adult rats. 
+Pharmacol. Biochem. Behav. 73:209–224.
+Schrijver, N. C., and H. Würbel. 2001. Early social deprivation dis-
+rupts attentional, but not affective, shifts in rats. Behav. Neurosci. 
+115:437–442.
+Serra, M., E. Sanna, M. C. Mostallino, and G. Biggio. 2007. Social 
+isolation stress and neuroactive steroids. Eur. Neuropsychophar-
+macol. 17:1–11.
+Shanks, N., and S. L. Lightman. 2001. The maternal-neonatal neuro-
+immune interface: Are there long-term implications for inflamma-
+tory or stress-related disease? J. Clin. Invest. 108:1567–1573.
+Shapiro, L. E., and T. R. Insel. 1990. Infant’s response to social sepa-
+ration reflects adult differences in affiliative behavior: A compara-
+tive developmental study in prairie and montane voles. Dev. Psy-
+chobiol. 23:375–393.
+Soberon, F., E. Raffrenato, R. W. Everett, and M. E. Van Amburgh. 
+2012. Preweaning milk replacer intake and effects on long-term 
+productivity of dairy calves. J. Dairy Sci. 95:783–793.
+Steenkamer, N. 1982. Alternative housing systems for veal calves, their 
+effect on welfare and performance and their economic feasibility. 
+Pages 226–234 in Welfare and Husbandry of Calves: Current Top-
+ics in Veterinary Medicine and Animal Science. J. P. Signoret, ed. 
+Springer, Hingham, MA.
+Stull, C., and J. Reynolds. 2008. Calf welfare. Vet. Clin. North Am. 
+Food Anim. Pract. 24:191–203.
+Suomi, S. J. 1991. Early stress and adult emotional reactivity in rhesus 
+monkeys. Ciba Found. Symp. 156:171–183.
+Suomi, S. J., H. F. Harlow, and S. D. Kimball. 1971. Behavioral effects 
+of prolonged partial social isolation in the rhesus monkey. Psychol. 
+Rep. 29:1171–1177.
+Svensson, C., and P. Liberg. 2006. The effect of group size on health 
+and growth rate of Swedish dairy calves housed in pens with auto-
+matic milk-feeders. Prev. Vet. Med. 73:43–53.
+Svensson, C., K. Lundborg, U. Emanuelson, and S. Olsson. 2003. Mor-
+bidity in Swedish dairy calves from birth to 90 days of age and 
+individual calf-level risk factors for infectious diseases. Prev. Vet. 
+Med. 58:179–197.
+Tapki, I. 2007. Effects of individual or combined housing systems on 
+behavioural and growth responses of dairy calves. Acta Agric. 
+Scand. A Anim. Sci. 57:55–60.
+Terré, M., A. Bach, and M. Devant. 2006. Performance and behaviour 
+of calves reared in groups or individually following an enhanced-
+growth feeding programme. J. Dairy Res. 73:480–486.
+Thorsteinsson, E. B., J. E. James, and M. E. Gregg. 1998. Effects of 
+video-relayed social support on hemodynamic reactivity and sali-
+vary cortisol during laboratory-based behavioral challenge. Health 
+Psychol. 17:436–444.
+Toth, M., E. Mikics, A. Tulogdi, M. Aliczki, and J. Haller. 2011. Post-
+weaning social isolation induces abnormal forms of aggression in 
+conjunction with increased glucocorticoid and autonomic stress 
+responses. Horm. Behav. 60:28–36.
+Troller-Renfree, S., J. M. McDermott, C. A. Nelson, C. H. Zeanah, 
+and N. A. Fox. 2015. The effects of early foster care intervention 
+on attention biases in previously institutionalized children in Ro-
+mania. Dev. Sci. 18:713–722.
+Tuchscherer, M., E. Kanitz, B. Puppe, and A. Tuchscherer. 2006. Ear-
+ly social isolation alters behavioral and physiological responses to 
+an endotoxin challenge in piglets. Horm. Behav. 50:753–761.
+USDA. 2008. Dairy 2007, Part III: Reference of Dairy Cattle Health 
+and Management Practices in the United States. USDA, National 
+Animal Health Monitoring System, Fort Collins, CO.
+Valzelli, L. 1973. The “isolation syndrome” in mice. Psychopharmaco-
+logia 31:305–320.
+Van Putten, G. 1982. Welfare in veal calf units. Vet. Rec. 111:437–440.
+Vasseur, E., F. Borderas, R. I. Cue, D. Lefebvre, D. Pellerin, J. Rush-
+en, K. M. Wade, and A. M. de Passillé. 2010. A survey of dairy 
+calf management practices in Canada that affect animal welfare. 
+J. Dairy Sci. 93:1307–1315.
+Veenema, A. H., A. Blume, D. Niederle, B. Buwalda, and I. D. Neu-
+mann. 2006. Effects of early life stress on adult male aggression 
+and hypothalamic vasopressin and serotonin. Eur. J. Neurosci. 
+24:1711–1720.
+Veenema, A. H., R. Bredewold, and I. D. Neumann. 2007. Opposite ef-
+fects of maternal separation on intermale and maternal aggression 
+in C57BL/6 mice: Link to hypothalamic vasopressin and oxytocin 
+immunoreactivity. Psychoneuroendocrinology 32:437–450.
+Veissier, I., P. Chazal, P. Pradel, and P. Le Neindre. 1997. Providing 
+social contacts and objects for nibbling moderates reactivity and 
+oral behaviors in veal calves. J. Anim. Sci. 75:356–365.
+Veissier, I., A. M. De Passille, G. Després, J. Rushen, I. Charpentier, 
+A. R. Ramirez De La Fe, and P. Pradel. 2002. Does nutritive and 
+non-nutritive sucking reduce other oral behaviors and stimulate 
+rest in calves? J. Anim. Sci. 80:2574–2587.
+Veissier, I., V. Gesmier, P. Le Neindre, J. Y. Gautier, and G. Bertrand. 
+1994. The effects of rearing in individual crates on subsequent so-
+cial behaviour of veal calves. Appl. Anim. Behav. Sci. 41:199–210.
+Ventura, B. A., M. A. G. von Keyserlingk, C. A. Schuppli, and D. M. 
+Weary. 2013. Views on contentious practices in dairy farming: The 
+case of early cow-calf separation. J. Dairy Sci. 96:6105–6116.
+Vitale, A. F., M. Tennucci, M. Papini, and S. Lovari. 1986. Social be-
+haviour of the calves of semi-wild aremma cattle, Bos primigenius 
+taurus. Appl. Anim. Behav. Sci. 16:217–231.
+von Keyserlingk, M. A. G., L. Brusius, and D. M. Weary. 2004. Com-
+petition for teats and feeding behavior by group-housed dairy 
+calves. J. Dairy Sci. 87:4190–4194.
+von Keyserlingk, M. A. G., and D. M. Weary. 2007. Maternal behavior 
+in cattle. Horm. Behav. 52:106–113.
+Wagner, K., D. Seitner, K. Barth, R. Palme, A. Futschik, and S. Waib-
+linger. 2012. Integration into the dairy cow herd: Long-term effects 
+of mother contact during the first twelve weeks of life. Appl. Anim. 
+Behav. Sci. 141:117–129.
+Wagner, K., D. Seitner, K. Barth, R. Palme, A. Futschik, and S. Waib-
+linger. 2014. Effects of mother versus artificial rearing during the 
+first 12 weeks of life on challenge responses of dairy cows. Appl. 
+Anim. Behav. Sci. 164:1–11.
+Walker, W. L., W. B. Epperson, T. E. Wittum, L. K. Lord, P. J. 
+Rajala-Schultz, and J. Lakritz. 2012. Characteristics of dairy calf 
+ranches: Morbidity, mortality, antibiotic use practices, and bios-
+ecurity and biocontainment practices. J. Dairy Sci. 95:2204–2214.
+Waltner-Toews, D., S. W. Martin, and A. H. Meek. 1986a. Dairy calf 
+management morbidity and mortality in Ontario Holstein herds. I: 
+The data. Prev. Vet. Med. 4:103–124.
+
+Journal of Dairy Science Vol. 99 No. 4, 2016
+INVITED REVIEW: GROUP HOUSING OF DAIRY CALVES
+2467
+Waltner-Toews, D., S. W. Martin, and A. H. Meek. 1986b. Dairy calf 
+management, morbidity and mortality in Ontario Holstein herds. 
+III. Association of management with morbidity. Prev. Vet. Med. 
+4:137–158.
+Warnick, V. D., C. W. Arave, and C. H. Mickelsen. 1977. Effects of 
+group, individual, and isolated rearing of calves on weight gain and 
+behavior. J. Dairy Sci. 60:947–953.
+Weary, D. M., J. M. Huzzey, and M. A. G. von Keyserlingk. 2009. 
+Board-invited review: Using behavior to predict and identify ill 
+health in animals. J. Anim. Sci. 87:770–777.
+Webster, A. J. F., C. Saville, B. M. Church, A. Gnanasakthy, and R. 
+Moss. 1985. Some effects of different rearing systems on health, 
+cleanliness and injury in calves. Br. Vet. J. 141:472–483.
+Whiten, A., and A. Mesoudi. 2008. Establishing an experimental sci-
+ence of culture: Animal social diffusion experiments. Phil. Trans. 
+R. Soc. Lond. B Biol. Sci. 363:3477–3488.
+Wierup, M. 2000. The control of microbial diseases in animals: Al-
+ternatives to the use of antibiotics. Int. J. Antimicrob. Agents 
+14:315–319.
+Worobec, E. K., I. J. H. Duncan, and T. M. Widowski. 1999. The ef-
+fects of weaning at 7, 14 and 28 days on piglet behaviour. Appl. 
+Anim. Behav. Sci. 62:173–182.
+Xiccato, G., A. Trocino, P. I. Queaque, A. Sartori, and A. Carazzolo. 
+2002. Rearing veal calves with respect to animal welfare: Effects 
+of group housing and solid feed supplementation on growth perfor-
+mance and meat quality. Livest. Prod. Sci. 75:269–280.

@@ -1,0 +1,1168 @@
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+Análise Genético-Quantitativa de Pesos aos 8, 12, 18 e 24 Meses de Idade em um
+Rebanho da Raça Guzerá1
+Talita Buttarello Mucari2, João Ademir de Oliveira3
+RESUMO - O objetivo deste trabalho foi obter estimativas de herdabilidades, correlações genéticas, tendências genéticas e correlações
+de “rank” dos touros, para os pesos aos 8, 12, 18 e 24 meses de idade, no rebanho Guzerá do Campus da UNESP, Ilha Solteira, SP. As
+herdabilidades e os valores genéticos dos animais foram estimados por modelo animal, usando o programa computacional MTDFREML.
+As correlações genéticas (Pearson) e de “rank” dos touros (Spearman) foram obtidas pelo procedimento CORR do SAS, utilizando os
+valores genéticos dos animais, enquanto as tendências genéticas foram calculadas pelo procedimento REG do SAS, utilizando a média
+anual dos referidos valores genéticos. O modelo estatístico para a análise genética incluiu os efeitos fixos de grupo contemporâneo e a
+covariável idade da vaca ao parto (efeitos linear e quadrático), e os efeitos aleatórios genético aditivo direto, genético aditivo materno,
+de ambiente permanente da vaca e residual. As estimativas obtidas para a herdabilidade direta foram 0,14; 0,08; 0,08 e 0,13 e para
+materna, 0,01; 0,02; 0,02 e 0,05, respectivamente, para os pesos aos 8, 12, 18 e 24 meses de idade. As estimativas dos coeficientes de
+correlação genética foram positivas e de alta magnitude entre todos os pesos estudados. As tendências genéticas anuais foram baixas e
+significativas apenas para os pesos aos 8 e 18 meses de idade. As correlações de “rank” dos touros foram moderadas e significativas,
+implicando em razoável manutenção de posição de classificação dos touros, quando se comparam, dois a dois, os pesos estudados.
+Palavras-chave: correlação de “rank”, correlação genética, guzerá, herdabilidade, peso, tendência genética
+Quantitative and Genetic Analysis of Weights at 8, 12, 18 and 24 Months of Age in a
+Guzerat Breed Herd
+ABSTRACT - The objective of this study was to estimate heritabilities, genetic correlations, genetic trends and rank correlations
+of the bulls, for weights at 8, 12, 18 and 24 months of age, in the Guzerat herd from UNESP Campus, Ilha Solteira, SP. The heritabilities
+and the breeding values were estimated by animal model, using the MTDFREML computational program. The genetic correlations
+(Pearson) and the rank correlations (Spearman) were obtained by SAS CORR procedure, using the animal breeding values, while the
+genetic trends were calculated by SAS’ REG procedure, using the annual average of the referred breeding values. The statistic model
+for genetic analysis included fixed effects of contemporary groups and age of cow at calving as covariable (linear and quadratic effects)
+and random effects: direct additive genetic, maternal genetic, permanent environmental of the cow and residual. The heritabilities for
+the direct genetic effects were .14, .08, .08 and .13, and for maternal effects were: .01, .02, .02 and .05, respectively, for weights at
+8, 12, 18 and 24 months of age. The estimates of the genetic correlation coefficients were positive and of high magnitude, among all
+studied weights. The annual genetic trends were low and significant  only for the weights at 8 and 18 months of age. The rank correlations
+of the bulls were moderate and significant , indicating reasonable maintenance of rank position of the bulls, when the studied weights
+were, two by two, compared.
+Key Words: genetic correlation, genetic trend, guzerat, heritability, rank correlation, weight
+1 Parte da dissertação de mestrado da primeira autora, apresentada à FCAV-UNESP/Jaboticabal.
+2 Doutoranda em Genética e Evolução pela Universidade Federal de São Carlos. R. Barão do Rio Branco, 337. Itápolis, SP.
+E.mail: tmucari@yahoo.com.br
+3 Professor Titular do Departamento de Ciências Exatas da FCAV- UNESP/Jaboticabal. Via de Acesso Prof. Paulo Donato Castellane
+s/n. Jaboticabal, SP. E.mail: jaoliv@fcav.unesp.br
+Introdução
+A produção animal pode ser aumentada, além
+de via outras formas, alterando-se a constituição
+genética dos animais por meio de seleção genética.
+Para se promover o melhoramento genético de bovinos
+existem algumas alternativas clássicas: (l) seleção dos
+indivíduos que serão utilizados como pais da próxima
+geração, (2) escolha do sistema de acasalamento e (3)
+introdução de novo material genético (variação
+genética). Estas alternativas têm por objetivo aumen-
+tar a freqüência dos genes desejáveis e obter combi-
+nações gênicas favoráveis.
+Do ponto de vista da seleção, o melhoramento
+genético depende do uso adequado da variação gené-
+tica da característica selecionada. Desse modo, o
+
+1605
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+MUCARI & OLIVEIRA
+conhecimento das herdabilidades das características
+de interesse e das correlações genéticas entre elas é
+necessário, para que a variação genética seja eficien-
+temente utilizada em um programa de seleção, pois
+esses parâmetros genéticos permitem a predição das
+respostas direta e correlacionada à seleção e a
+definição do método de seleção mais apropriado.
+O principal aspecto do coeficiente de
+herdabilidade é seu caráter preditivo, ou seja, expressa
+o grau de confiança do valor fenotípico como indicador
+do valor genético. Em outras palavras, o coeficiente
+de herdabilidade mede o grau de correspondência
+entre fenótipo e valor genético, que é, em última
+instância, o que influencia a próxima geração
+(Euclides Filho, 1999).
+O conhecimento da correlação genética entre
+características de crescimento em bovinos é básico
+para se entender o grau em que caracteres desejáveis
+podem ser combinados no mesmo animal. É interes-
+sante 
+que 
+estes 
+sejam 
+favoravelmente
+correlacionados, de modo que o melhoramento de um
+deles seja acompanhado por melhoramento nos ou-
+tros (Futuyma, 1993).
+Freqüentemente, programas de seleção de bovi-
+nos de corte são delineados visando lucro para o
+produtor. Por isso estimativas de parâmetros genéti-
+cos de características economicamente expressivas
+são de fundamental importância. Assim, caracterís-
+ticas de crescimento, medidas por pesos e ganhos em
+peso, estão intimamente relacionadas com tal renta-
+bilidade, tendo sido fartamente estudadas por pesqui-
+sadores brasileiros.
+A pecuária de corte no Brasil está atravessando
+uma fase de crescimento, modernização e de grande
+interesse na aplicação de tecnologias que possam
+aumentar a produtividade e o rendimento dos reba-
+nhos. Com isto, há constante busca por animais com
+maiores pesos e precocidade (mais jovens ao abate).
+Segundo Josahkian (2000), o impacto econômico
+positivo do material genético zebuíno para a pecuária
+brasileira é consideravelmente superior ao do mate-
+rial genético de raças européias, pelo fato de que ele
+proporcionou a instalação no país de uma pecuária
+auto-sustentável, não dependente de fatores exter-
+nos e nem da modificação constante do meio-ambi-
+ente natural de que dispomos.
+A raça Guzerá é tida como a menos exigente das
+raças zebuínas. Por ser considerada o material
+genético mais apropriado para regiões brasileiras,
+onde as adversidades ecológicas são maiores, esta
+raça tem sido selecionada desde 1977 no Campus da
+UNESP em Ilha Solteira, SP, que encampou o desafio
+de promover o seu melhoramento genético.
+Para que dados de pesos sejam úteis em um
+programa de melhoramento, faz-se necessário a dis-
+ponibilidade de estimativas de seus parâmetros gené-
+ticos de forma acurada.  Além disso, há necessidade
+de se aumentar a acurácia em identificar o mérito
+genético dos animais, juntamente com seu subse-
+qüente uso no programa de seleção, de modo a
+acelerar, na direção desejada, a alteração das carac-
+terísticas selecionadas. A implementação dos novos
+procedimentos teóricos aliados ao avanço tecnológico
+tem tornado isso possível.
+Desse modo, o objetivo do presente trabalho foi a
+obtenção de estimativas de herdabilidade, correlação
+genética, tendência genética e correlação de "rank"
+dos touros, por meio dos pesos aos 8 (desmama),
+12, 18 e 24 meses de idade no rebanho Guzerá do
+Campus da UNESP de Ilha Solteira, SP, usando-se
+o modelo animal e o método da máxima verossimi-
+lhança restrita.
+Material e Métodos
+O conjunto de dados analisado neste estudo foi
+proveniente de um rebanho da raça Guzerá criado na
+Fazenda de Ensino e Pesquisa do Campus de Ilha
+Solteira, UNESP, localizada no município de Selvíria,
+Mato Grosso do Sul. O sistema de criação do rebanho
+era o extensivo, ou seja, os animais eram alimentados
+basicamente em pastagens, formadas predominante-
+mente por capins do gênero Brachiaria.
+A inseminação artificial e a monta natural contro-
+lada foram utilizadas no manejo reprodutivo. Vacas
+com problemas de reprodução ou que falhavam por
+dois anos consecutivos eram descartadas. A seleção
+dos machos que entravam em reprodução no rebanho
+era baseada no desenvolvimento ponderal e nas ca-
+racterísticas raciais.
+Os bezerros permaneciam com as mães até a
+desmama (em torno de 8 meses de idade), sendo
+pesados ao nascer e, posteriormente, a cada três
+meses.  Os machos eram pesados até a idade de 36
+meses e as fêmeas até atingirem o peso requerido
+para a reprodução (320 kg de peso vivo).
+As características estudadas, com seus símbolos
+entre parênteses, foram as seguintes: peso aos 8 (P8),
+12 (Pl2), 18 (P 18) e 24 (P24) meses de idade.
+Na ausência dos pesos às idades padrão, em
+
+Análise Genético-Quantitativa de Pesos aos 8, 12, 18 e 24 Meses de Idade em um Rebanho da Raça Guzerá
+1606
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+função do critério de pesagens adotado na fazenda,
+os referidos dados foram obtidos pelo método de
+interpolação linear,  utilizando-se a fórmula:
+ 
+
+
+
+
+
+
+−
++
+=
+ap
+a
+p
+ai
+a
+i
+d
+P
+P
+d
+P
+P
+em que: Pi = peso à idade padrão (kg); Pp = peso
+posterior à idade padrão (kg); Pa = peso anterior à
+idade padrão (kg); dap = nº de dias compreendidos
+entre a pesagem anterior e a pesagem posterior à
+idade padrão; dai = nº de dias compreendidos entre a
+pesagem anterior e a idade padrão.
+Como o arquivo da fazenda não apresentava
+informações sobre manejo do rebanho, não foi possí-
+vel a inclusão de grupos de manejo na formação dos
+grupos contemporâneos. Assim, esses grupos foram
+formados pela concatenação de animais do mesmo
+sexo, nascidos no mesmo ano e na mesma estação.
+Os animais considerados neste estudo nasceram
+entre os anos de 1978 e 1997. Foram definidas duas
+estações de nascimento: abril - setembro (estação
+seca) e outubro - março (estação das águas). Foram
+eliminados do arquivo animais pertencentes a grupos
+contemporâneos com menos de cinco indivíduos.
+O arquivo geral da fazenda constava de 3286
+informações de animais. Após a edição dos dados, as
+análises para P8, P12, P18 e P24 foram realizadas,
+respectivamente, com base em 2382, 2339, 2147 e
+1918 informações. As respectivas matrizes de paren-
+tesco apresentavam 2679, 2622, 2437 e 2203 animais.
+Análise dos dados
+Os dados foram previamente analisados para se
+verificar a significância dos efeitos fixos de grupo
+contemporâneo e idade da vaca ao parto (linear e
+quadrático) sobre as características estudadas (P8,
+P12, P18 e P24). As análises foram conduzidas pelo
+método dos quadrados mínimos, usando-se o proce-
+dimento GLM (General Linear Models) do pacote
+estatístico SAS (Statistical Analysis System, 1998),
+segundo o seguinte modelo:
+Yijk = µ + GCj + b1 ( IDVk - IDV ) + b2 ( IDVk -
+IDV )2 + eijk
+em que: Yijk = valor observado do iésimo bezerro,
+pertencente ao jésimo grupo contemporâneo e à késima
+idade da vaca ao parto; µ  = média geral da população
+para cada característica estudada; GCj = efeito fixo
+do jésimo grupo contemporâneo; IDVk = efeito fixo da
+késima idade da vaca ao parto, em anos; IDV = média
+de idade das vacas ao parto, em anos; b1= coeficiente
+de regressão linear para a idade da vaca ao parto;
+b2= coeficiente de regressão quadrática para a idade
+da vaca ao parto; eijk = erro aleatório associado a
+cada observação.
+Os dados foram analisados por modelo misto,
+utilizando-se o programa computacional MTDFREML
+("multiple trait derivative-free restricted maximum
+likelihood"), descrito por Boldman et al. (1993). O
+modelo para análise genética no MTDFREML incluiu
+os efeitos fixos de grupo contemporâneo e idade da
+vaca ao parto como covariável, com efeitos linear e
+quadrático, bem como os efeitos aleatórios genético
+aditivo direto, genético materno, de ambiente perma-
+nente da vaca e residual. Assim, o modelo geral
+adotado, representado na forma matricial, foi:
+Y = Xb + Za + Mm + Wp + e
+sendo: Y = vetor das variáveis dependentes;
+b = vetor de efeitos fixos; a = vetor de efeitos
+genéticos aditivos dos animais; m = vetor de efeitos
+genéticos aditivos maternos; p = vetor de efeito de
+ambiente permanente materno; e = vetor de efeitos
+residuais;  X, Z, M e W são as respectivas matrizes
+de incidência para cada efeito.
+O efeito materno foi incluído no modelo, uma vez
+que realizado o teste de Razão de Verossimilhança
+(Likelihood Ratio Test), descrito por Freund & Walpole
+(1980), para analisar o resultado da inclusão deste
+efeito no modelo genético, verificou-se ser o mesmo
+altamente significativo para todas as idades estudadas.
+Segundo Falconer & Mackay (1996), correlação
+genética é a correlação existente entre valores gené-
+ticos de diferentes características. Deste modo, as
+estimativas das correlações genéticas foram obtidas
+pelo procedimento CORR (Pearson) do SAS (1998),
+utilizando-se os valores genéticos diretos das carac-
+terísticas estudadas (P8, P12, P18 e P24), que foram
+previamente estimados através do programa
+computacional MTDFREML (Boldman et al., 1993),
+uma vez que não houve convergência da análise
+bicaracterística realizada com o uso deste programa.
+As tendências genéticas para os pesos aos 8, 12,
+18 e 24 meses de idade, foram estimadas pelos
+coeficientes de regressão linear das médias dos valo-
+res genéticos, segundo os anos de nascimento dos
+animais, obtidos pelo procedimento REG do SAS
+(1998). Para cada característica estudada, também
+foram estimadas a mudança genética anual, expressa
+como porcentagem da média (G %), e a mudança
+genética acumulada nos anos de seleção 
+)
+G
+(∆
+. Para
+isto foram utilizadas as fórmulas:
+
+1607
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+MUCARI & OLIVEIRA
+100
+X
+G
+G
+×
+=
+%
+        e   
+A
+G
+G
+×
+=
+∆
+em que: G = tendência genética anual;  = média geral
+estimada para cada característica;  A = intervalo de
+anos de seleção.
+Os touros, com base nos seus valores genéticos,
+foram ordenados de maneira decrescente, para cada
+característica em estudo (P8, P12, P18 e P24), pelo
+procedimento SORT do SAS (1998). Os animais que
+apresentavam menos de três filhos não foram consi-
+derados. Para fins de comparação da classificação
+dos touros, em relação às referidas características,
+foi efetuada uma análise de correlação de classifica-
+ção ou "rank", utilizando-se a correlação de Spearman
+do PROC CORR do SAS (1998).
+Além disso, utilizando-se os valores genéticos dos
+touros dispostos em ordem decrescente, foi verificada
+a freqüência de coincidência dos animais classifica-
+dos entre os 20% melhores e os 20% piores touros,
+para os pesos analisados, comparando-os dois a dois,
+tendo sempre como referência o peso à menor idade.
+Resultados e Discussão
+Medidas descritivas
+Na Tabela 1, são apresentados os números de
+observações, as médias e os desvios-padrão dos
+dados de pesos aos 8, 12, 18 e 24 meses de idade, por
+sexo, do rebanho  Guzerá de Ilha Solteira, analisados
+neste trabalho.
+De modo geral, as médias de peso observadas
+neste estudo, para o rebanho Guzerá de Ilha Solteira,
+foram inferiores às médias relatadas na literatura
+consultada (Oliveira et al., 1994; Oliveira et al., 1995;
+Martins Filho et al., 1997; Oliveira et al., 1998;
+Oliveira et al., 1999; Santoro et al., 2000; Sarmento et
+al., 2000; Silva, 2000), para rebanhos da referida raça.
+Análise prévia
+Pelos resultados da análise de variância, realizada
+para fins de se examinar a influência dos efeitos fixos
+incluídos nos modelos estatísticos utilizados neste es-
+tudo, constatou-se que o efeito de grupo contemporâ-
+neo foi significativo (P<0,0001) para todos os pesos
+estudados (P8, P12, P18 e P24). Os efeitos linear e
+quadrático da idade da vaca ao parto não se mostraram
+significativos sobre os referidos pesos.
+Os efeitos linear e quadrático de idade da vaca ao
+parto, embora não tenham sido significativos, foram
+incluídos no modelo usado na análise genética, pois tal
+procedimento acarretou pequeno aumento dos coefi-
+cientes de determinação (r2), que é uma medida da
+qualidade do ajustamento obtido. Outra justificativa
+da inclusão destes efeitos no modelo é a intensa
+referência que se faz deles em trabalhos, sobre o
+mesmo assunto, encontrados na literatura, como em
+Oliveira (1979) para pesos do nascimento até 24
+meses de idade; Figueiredo et al. (1980) e Marques et
+al. (1983) para peso à desmama; Souza et al. (2000)
+para pesos à desmama e aos 12 meses de idade.
+Tabela 1 - Medidas descritivas de pesos aos 8 (P8), 12 (P12), 18 (P18) e 24 (P24) meses de idade, por sexo, nos bovinos
+Guzerá
+Table 1  -
+Descriptive measures of weights at 8 (W8), 12 (W12), 18 (W18) and 24 (W24) months of age, by sex, in the Guzerat bovines
+Características
+Sexo1
+Nº de observações
+Média (kg)
+Desvio-padrão (kg)
+Traits
+Sex
+N. of observations
+Mean (kg)
+Standard error (kg)
+P8 (W8)
+M
+1160
+155,10
+29,63
+P8 (W8)
+F
+1222
+145,81
+27,51
+P8 (W8)
+M+F
+2382
+150,34
+28,93
+P12 (W12)
+M
+1132
+191,92
+34,06
+P12(W12)
+F
+1207
+175,42
+30,49
+P12 (W12)
+M+F
+2339
+183,40
+33,30
+P18 (W18)
+M
+1031
+249,68
+43,94
+P18  (W18)
+F
+1116
+224,69
+34,76
+P18 (W18)
+M+F
+2147
+236,69
+41,35
+P24 (W24)
+M
+893
+306,78
+50,63
+P24 (W24)
+F
+1025
+272,18
+37,56
+P24 (W24)
+M+F
+1918
+288,29
+47,37
+1 M = machos (males); F = fêmeas (females).
+
+Análise Genético-Quantitativa de Pesos aos 8, 12, 18 e 24 Meses de Idade em um Rebanho da Raça Guzerá
+1608
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+Estimativas dos componentes de variância,
+herdabilidades, correlações genéticas e
+fenotípicas, tendências genéticas e correlações
+de "rank" dos touros
+Os componentes de variância genético aditivo
+direto, genético aditivo materno, de ambiente perma-
+nente, residual (ambiente temporário) e fenotípico e
+o componente de covariância entre o efeito genético
+aditivo direto e o materno, para os pesos às idades
+padrões de 8 (P8), 12 (P12), 18 (P18) e 24 (P24)
+meses, no rebanho Guzerá da UNESP de Ilha Soltei-
+ra, são apresentados na Tabela 2.
+Na Tabela 3, pode m-se observar as estimativas
+dos coeficientes de herdabilidades direta, materna
+e total, além das correlações entre os efeitos gené-
+ticos diretos e maternos e das frações de variâncias
+atribuídas ao ambiente permanente e ao ambiente
+temporário, estimados para os referidos pesos.
+Como pode ser observado na Tabela 3, os coefi-
+cientes de herdabilidade estimados foram de baixa
+magnitude, sendo, no geral, inferiores àqueles encon-
+trados na literatura científica, ou seja, coeficientes
+médios para características de crescimento. Assim,
+os valores de herdabilidades diretas (0,14; 0,08;
+0,08 e 0,13, respectivamente, para P8, P12, P18 e
+P24), encontrados neste trabalho, foram bastante
+inferiores às médias calculadas  por Mascioli (1995),
+utilizando estimativas obtidas em diversos trabalhos
+com zebuínos, ou seja , de: 0,24; 0,26; 0,37 e 0,36
+para  pesos à desmama, aos 12, 18 e 24 meses de
+idade, respectivame nte.
+Os coeficientes de herdabilidade direta aqui esti-
+mados para P8 e P12 foram, também, muito inferiores
+aos coeficientes médios encontrados por Koots et al.
+(1994a) e Mohiuddin (1993) para pesos à desmama e
+à idade de um ano, em amplas revisões da literatura
+científica para bovinos de corte. Estes autores obti-
+veram, nestas revisões, coeficientes médios de
+herdabilidade materna (0,13) para peso à desmama
+superiores aos encontrados para o rebanho de Ilha
+Solteira (0,01). A média para herdabilidade materna
+de peso aos 12 meses de idade (0,11), calculada por
+Mohiuddin (1993) a partir de referências de 23 traba-
+lhos, também foi superior à estimativa encontrada
+neste estudo (0,02).
+Em relação aos coeficientes de herdabilidade direta
+Tabela 2 - Estimativas dos componentes de (co)variância1 para os pesos aos 8 (P8), 12 (P12), 18 (P18) e 24 (P24)
+meses de idade
+Table 2  -
+(Co)variance components1 estimates for the weights at 8 (W8), 12 (W12), 18 (W18) and 24 (W24) months of age
+Características
+σ2a
+σ2m
+σam
+σ2p
+σ2E
+σ2F
+Traits
+P8 (W8)
+94,59
+8,68
+-4,66
+64,30
+498,79
+661,70
+P12 (W12)
+72,23
+14,09
+16,86
+63,14
+738,47
+904,79
+P18 (W18)
+105,20
+28,62
+53,03
+32,20
+1039,20
+1258,25
+P24 (W24)
+204,11
+87,06
+54,53
+3,37
+1281,09
+1630,16
+1 σ2
+a = Componente de variância de efeito genético aditivo direto (Variance component of direct additive genetic effect), σ2
+m = Componente de
+variância de efeito genético materno (Variance component of maternal genetic effect), σam = Componente de covariância entre o efeito genético
+aditivo direto e o materno (Covariance component between direct additive genetic effect and maternal effect), σ2
+p = Componente de variância do
+efeito de ambiente permanente (Variance component of permanent environmental effects), σ2
+E = Componente de variância do efeito residual
+(Variance component of residual effect), σ2
+F = Componente de variância de efeito fenotípico (Variance component of phenotipic effect).
+Tabela 3  - Estimativas de herdabilidade direta (h2
+d), materna (h2
+m) e total (h2
+t), das correlações entre efeitos genéticos
+diretos e maternos (rdm), das frações de variâncias atribuídas ao ambiente permanente (c2) e ao ambiente
+temporário (e2), para os pesos aos 8 (P8), 12 (P12), 18 (P18) e 24 (P24) meses de idade
+Table 3  -
+Estimates of direct (h2
+d), maternal (h2
+m) and total heritabilities (h2
+t), of correlations between direct genetic and maternal
+effects (rdm),of permanent environmental variance fractions (c2) and temporary environmental variance fractions (e2), for
+the weights at 8 (W8), 12 (W12), 18 (W18) and 24 (W24) months of age
+Características
+h2d
+h2m
+h2t
+rdm
+c2
+e2
+Traits
+P8 (W8)
+0,14
+0,01
+0,14
+-0,16
+0,10
+0,75
+P12 (W12)
+0,08
+0,02
+0,12
+0,53
+0,07
+0,82
+P18 (W18)
+0,08
+0,02
+0,16
+0,97
+0,03
+0,83
+P24 (W24)
+0,13
+0,05
+0,20
+0,41
+0,02
+0,79
+
+1609
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+MUCARI & OLIVEIRA
+e materna para o peso aos 12 meses de idade, Eler et
+al. (1995) em animais da raça Nelore, encontraram
+valores superiores aos estimados neste estudo. Para o
+peso ao sobreano (P18), Eler et al. (1996), ainda na
+raça Nelore, obtiveram estimativas de herdabilidade
+direta e materna superiores às estimadas nesta pesquisa.
+Comparando-se os resultados obtidos neste estu-
+do para os pesos aos 12 e 18 meses de idade, com as
+estimativas relatadas por Sarmento et al. (2000)
+também na raça Guzerá, verificou-se a superioridade
+das estimativas encontradas por esses autores, no
+que se refere à herdabilidade direta e materna.
+A herdabilidade direta calculada para o peso aos
+18 meses (0,08) foi de menor magnitude do que
+aquelas estimativas relatadas em alguns trabalhos
+com rebanhos Guzerá (Oliveira & Lobo, 1992; Oli-
+veira et al., 1994; Martins Filho et al., 1997). A
+literatura é escassa em relação às estimativas de
+coeficientes de herdabilidade materna para peso aos
+18 e 24 meses de idade em bovinos de corte.
+As baixas estimativas de herdabilidade direta
+verificadas neste estudo se devem, em parte, à
+inclusão dos efeitos maternos no modelo de análise,
+o que levou à diminuição das variâncias genéticas
+aditivas e, conseqüentemente, da herdabilidade dos
+efeitos diretos aditivos.
+Como as estimativas de herdabilidade encontra-
+das neste estudo para todos os pesos foram de baixa
+magnitude, pode-se inferir que trabalhos de seleção
+massal, para tais características nesta população,
+apresentam pequena perspectiva de sucesso.  Suge-
+re-se ainda que a utilização do teste de progênie seria
+importante como auxílio à seleção.
+As correlações genéticas entre os efeitos aditivos
+direto e materno (rdm) foram positivas e de alta
+magnitude para P12, P18 e P24 e negativa apenas
+para P8. Estes resultados positivos são incoerentes
+com as correlações negativas entre estes efeitos,
+normalmente observadas na literatura científica para
+características de crescimento (Eler et al., 1995; Eler
+et al., 1996; Garnero et al., 1998). As correlações
+positivas são indicativas de que as vacas com melho-
+res habilidades maternas têm filhos com maiores
+pesos nas idades padrões estudadas.
+Na Tabela 3, também são apresentadas as fra-
+ções da variância fenotípica que são atribuídas aos
+efeitos de ambiente permanente e de ambiente tem-
+porário (residual). O efeito de ambiente permanente,
+em gado de corte, é atribuído à vaca, provavelmente
+devido à capacidade uterina, nível alimentar na última
+fase de gestação e comportamento materno. Aciden-
+tes envolvendo o úbere, assim como seqüelas de
+doenças, como por exemplo, a febre aftosa, também
+podem provocar diferenças permanentes entre as
+vacas (Eler et al., 1996). As contribuições das
+variâncias atribuídas ao ambiente permanente foram
+respectivamente, para os pesos aos 8, 12, 18 e 24
+meses de idade, de 10, 7, 3 e 2%, sendo, portanto,
+mais expressivas em animais mais jovens. Provavel-
+mente, este resultado se deve ao fato de os animais
+sofrerem maior influência da vaca até a desmama,
+período em que permanecem com as mães, sendo que
+no período pós-desmama parte destas influências
+exercidas pela mãe tendem a desaparecer.
+As contribuições da variância residual (ambiente
+temporário) foram de 75% para peso à desmama,
+82% para peso ao ano, 83% para peso ao sobreano e
+79% para peso aos 24 meses de idade. Estes altos
+valores são indicativos de que é necessário melhorar
+o ambiente de criação e as práticas de manejo do
+rebanho.
+As estimativas dos coeficientes das correlações
+genéticas e fenotípicas entre os pesos aos 8, 12, 18 e
+24 meses de idade, no rebanho estudado, são apre-
+sentadas na Tabela 4.
+Observa-se que, em geral, as correlações (tanto
+genéticas, quanto fenotípicas) foram maiores quando
+os pesos eram adjacentes, tendendo a uma redução
+conforme as idades iam se distanciando. As estima-
+tivas de correlações genéticas entre os pesos estuda-
+dos, foram altas. Este resultado é coerente com os
+coeficientes médios citados, em revisão de literatura
+sobre bovinos de corte no Brasil, bem como com as
+estimativas obtidas por Mascioli (1995) com animais
+da raça Canchim.
+Tabela 4 - Estimativas de correlações genéticas
+(abaixo da diagonal) e correlações
+fenotípicas (acima da diagonal) entre os
+pesos aos 8 (P8),  12 (P12), 18 (P18) e 24
+(P24) meses de idade
+Table 4  -
+Estimates of genetic correlations (below of
+diagonal) and of phenotypic correlations (above of
+diagonal) among the weights at 8 (W8), 12 (W12),
+18 (W18) and 24 (W24) months of age
+Características
+P8
+P12
+P18
+P24
+Traits
+W8
+W12
+W18
+W24
+P8 (W8)
+1,00
+0,76
+0,65
+0,50
+P12 (W12)
+0,73
+1,00
+0,75
+0,69
+P18 (W18)
+0,67
+0,62
+1,00
+0,77
+P24 (W24)
+0,57
+0,67
+0,77
+1,00 
+
+Análise Genético-Quantitativa de Pesos aos 8, 12, 18 e 24 Meses de Idade em um Rebanho da Raça Guzerá
+1610
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+Koots et al. (1994b), analisando estimativas
+publicadas para gado de corte, também encontraram
+altas correlações genéticas entre pesos à desmama e
+aos 12 meses de idade. Com relação à correlação
+genética entre os pesos aos 18 e 24 meses de idade,
+a estimativa obtida no presente estudo foi coerente
+com aquela relatada por Oliveira et al. (1994), em
+fêmeas do rebanho Guzerá de Ilha Solteira.
+Os altos valores de correlações genéticas entre
+os referidos pesos, são indicativos de que grande
+parte dos genes que influencia o peso a uma determi-
+nada idade também influencia o peso nas outras
+idades. Na Tabela 4, ainda observa-se que as corre-
+lações fenotípicas entre os pesos estudados foram
+também de alta magnitude, sugerindo-se que a supe-
+rioridade dos animais em uma determinada idade será
+mantida nas idades posteriores. Assim, os resultados
+aqui encontrados para as correlações genéticas indi-
+cam que a seleção, para qualquer um destes pesos
+(P8, P12, P18 ou P24), devem resultar no melhora-
+mento genético do outro.
+As tendências genéticas aditivas diretas anuais,
+estimadas para os pesos aos 8 (P8), 12 (P12), 18
+(P18) e 24 (P24) meses de idade no rebanho Guzerá
+de Ilha Solteira, foram, respectivamente: 0,1554;
+0,0428; 0,3450 e 0,1946 kg (Tabela 5), as  quais foram
+significativas (P<0,01) apenas para os pesos à des-
+mama (P8) e ao sobreano (P18). Por outro lado, a
+variação dos valores genéticos aditivos diretos com o
+ano de nascimento do animal, para os pesos estuda-
+dos, foi essencialmente linear (P<0,01), uma vez que
+os componentes quadráticos das equações de regres-
+são não foram significativos.
+Os valores das tendências genéticas para P8 e
+P18 indicam que houve ganho genético no rebanho,
+embora muito pequeno, para essas características de
+crescimento. Estes ganhos corresponderam a 0,1034
+e 0,1458% das médias de P8 e P18, respectivamente.
+Os ganhos totais em 19 anos de seleção, para estes
+pesos, na mesma ordem, foram de 2,9526 e 6,550 kg.
+Para os pesos aos 12 e 24 meses de idade, os ganhos
+genéticos naquele período de seleção, como pode ser
+observado na Tabela 5, apresentaram magnitude
+menor ainda que a dos pesos anteriores,
+correspondendo a 0,0233 e 0,0675% das médias de
+P12 e P24, respectivamente. Esses ganhos genéticos
+foram bastante baixos, talvez em decorrência da
+pouca intensidade de seleção aplicada no rebanho.
+Estes resultados estão de acordo com parte da
+literatura científica, que relata respostas genéticas
+relativamente baixas para características de cresci-
+mento em animais de raças zebuínas (Euclides Filho
+et al., 1997a, 1997b; Silva et al., 1997a, 1997b).
+Os ganhos estimados neste estudo para peso à
+desmama e ao ano foram inferiores aos relatados por
+Mello et al. (2000) na raça Canchim, que obtiveram
+tendências anuais bastante superiores às estimadas nesta
+pesquisa. O ganho para P12 (não significativo) foi coe-
+rente com o estimado por Nobre et al. (1987) para as
+raças Gir, Indubrasil e Guzerá, e diferiu dos resultados
+significativos encontrados por estes mesmos autores e
+por Cyrillo et al. (2001), que estimaram tendências de
+alta magnitude para este peso, para a raça Nelore.
+Para P18, Nobre et al. (1987) também não encontra-
+ram ganhos significativos para estas três raças, ao
+contrário dos resultados obtidos nesta pesquisa.
+Tabela 5 - Tendências genéticas anuais (G) dos pesos
+aos 8 (P8), 12 (P12), 18(P18) e  (P24) meses
+de idade
+Table  5  -
+Annual genetic trends (G) of the weights at 8 (W8),
+12 (W12), 18 (W18) and 24 (W24) months of age
+Características
+G (kg)
+G (%)1
+G
+∆
+ (kg)2
+Traits
+P8 (W8)
+0,1554 **
+0,1034
+2,9526
+P12 (W12)
+0,0428
+0,0233
+0,8132
+P18 (W18)
+0,3450 **
+0,1458
+6,5550
+P24 (W24)
+0,1946
+0,0675
+3,6974
+1 G (%) - Mudança genética anual expressa como porcentagem
+da média (annual genetic change expressed as percentage of the mean).
+2
+G
+∆
+- Mudança genética acumulada nos 19 anos de seleção
+(Genetic change accumulated in 19 years of selection).
+** P< 0,01.
+Tabela 6 - Estimativas de correlações de “rank” (abaixo
+da diagonal) para os pesos às idades de 8
+(P8), 12 (P12), 18 (P18) e 24 (P24) meses de
+idade
+Table 6  -
+Estimates of rank correlations (below of diagonal)
+for the weights at 8 (W8), 12 (W12), 18 (W18) and
+24 (W24) months of age
+Características
+P8
+P12
+P18
+P24
+Traits
+W8
+W12
+W18
+W24
+P8 (W8)
+1,00
+P12 (W12)
+0,56**
+1,00
+P18 (W18)
+0,70**
+0,48**
+1,00
+P24 (W24)
+0,44**
+0,52**
+0,65**
+1,00 
+** P<0,001.
+
+1611
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+MUCARI & OLIVEIRA
+Os baixos ganhos genéticos estimados neste traba-
+lho para os pesos estudados eram esperados, devido à
+baixa variabilidade genética aditiva observada no reba-
+nho. Entretanto, tais ganhos também podem estar rela-
+cionados com uma possível desorganização do progra-
+ma de melhoramento e do manejo do rebanho, pois no
+arquivo da fazenda não se podia identificar grupos de
+manejo dos animais, o que dificultou a análise.
+Na Tabela 6, constam as estimativas dos coefici-
+entes de correlações de "rank" (Spearman) entre os
+valores genéticos dos touros para os pesos às idades
+padrão estudadas (P8, P12, P18 e P24).
+Observa-se, na Tabela 6, que as correlações de
+"rank" dos touros (classificados pelos valores gené-
+ticos dentro de cada característica estudada) foram
+Tabela 7 - Freqüência de coincidência na classificação dos melhores e piores touros Guzerá de Ilha Solteira, avaliados
+pelos pesos aos 8 (P8), 12 (P12), 18 (P18) e 24 (P24) meses de idade
+Table 7 -
+Coincidence frequency in the classification of the best and worst Guzerat bulls of Ilha Solteira, evaluated by the weights
+at 8 (W8), 12 (W12), 18 (W18) and 24 (W24) months of age
+Características
+20% melhores
+20% piores
+Traits
+Best
+Worst
+P8 e P12 (W8 and W12)
+No total (total number)
+11
+11
+No Coincidentes (N. of coincident)
+6
+3
+% Coincidentes (% of coincident)
+54,55 
+27,27
+P8 e P18 (W8 and W18)
+ 
+ 
+No total (total number)
+11
+11
+No Coincidentes (N. of coincident)
+6
+5
+% Coincidentes (% of coincident)
+54,55
+45,45
+P8 e P24 (W8 and W24)
+ 
+ 
+No total (total number)
+11
+11
+No Coincidentes (N. of coincident)
+4
+4
+% Coincidentes (% of coincident)
+36,36
+36,36
+P12 e P18 (W12 and W18)
+ 
+ 
+No total (total number)
+11
+11
+No Coincidentes (N. of coincident)
+5
+6
+% Coincidentes (% of coincident)
+45,45
+54,55
+P12 e P24 (W12 and W24)
+ 
+ 
+No total (total number)
+11
+11
+No Coincidentes (N. of coincident)
+6
+6
+% Coincidentes (% of coincident)
+54,55
+54,55
+P18 e P24 (W18 and W24)
+ 
+ 
+No total (total number)
+11
+11
+No Coincidentes (N. of coincident)
+6
+6
+% Coincidentes (% of coincident)
+54,55
+54,55
+moderadas e estatisticamente significativas. Este
+resultado sugere razoável associação linear entre
+"ranks" de touros para os diversos pesos, o que
+implica em razoável manutenção de posição de clas-
+sificação dos touros, quando se comparam, dois a
+dois, os pesos estudados.
+Na Tabela 7, verifica-se a freqüência de coinci-
+dência na classificação dos touros Guzerá do reba-
+nho de Ilha Solteira, nos dois primeiros decis (20%
+melhores) e nos dois últimos (20% piores), avaliados
+pelos pesos aos 8 (P8), 12 (P12), 18 (P18) e 24(P24)
+meses de idade.
+Ao observar os valores da Tabela 7, verifica-se
+que para escolha de reprodutores (melhores touros),
+mais de 50% deles foram coincidentes ao se com-
+
+Análise Genético-Quantitativa de Pesos aos 8, 12, 18 e 24 Meses de Idade em um Rebanho da Raça Guzerá
+1612
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+parar P8 e P12, P8 e P18, P12 e P24 e P18 e P24,
+o que indica que 50% ou mais dos touros que seriam
+superiores em relação à determinada característica
+de sua progênie, a ser utilizada como critério de
+seleção, também o seriam em relação à outra. Já
+para o descarte de animais (piores touros), a coinci-
+dência foi superior a 50% apenas entre P12 e P18,
+P12 e P24 e P18 e P24.
+Conclusões
+Trabalhos de seleção massal apresentam pe-
+quena perspectiva de sucesso neste rebanho, devido
+aos baixos coeficientes de herdabilidade encontra-
+dos. Todavia, os altos coeficientes de correlação
+genética indicam que, ao se selecionar para um dos
+pesos estudados, automaticamente seleciona-se
+para os outros.
+O peso aos 18 meses de idade poderia ser adotado
+como critério de seleção deste rebanho, tendo em
+vista o pequeno progresso genético e as correlações
+genéticas e de "rank" com os demais pesos, e também
+por corresponder a uma época marcante para o
+descarte de animais, atentando, no entanto, para a
+baixa variabilidade genética aditiva observada.
+Agradecimento
+À UNESP, Campus de Ilha Solteira, pela cessão
+dos dados para o desenvolvimento deste trabalho.
+Literatura Citada
+BOLDMAN, K.G.; KRIESE, L.A.; Van VLECK, L.D. et al.
+A manual for use of MTDFREML. USDA-ARS. Clay
+Center, NE, 1993. 120p.
+CYRILLO, J.N.S.G; RAZOOK, A.G., FIGUEIREDO, L.A.
+et al.  Estimativas de tendências e parâmetros genéticos do
+peso padronizado aos 378 dias de idade, medidas corporais
+e perímetro escrotal de machos Nelore de Sertãozinho, SP.
+Revista Brasileira de Zootecnia, v.30, n.1, p.56-65, 2001.
+ELER, J.P.; FERRAZ, J.B.S.; SILVA, P.R. Parâmetros genéticos
+para peso, avaliação visual e circunferência escrotal na raça
+Nelore, estimados por modelo animal. Arquivo Brasileiro
+de Medicina Veterinária e Zootecnia, v.48, n.2, p.203-
+213, 1996.
+ELER, J.P.; Van VLECK, L.D.; FERRAZ, J.B.S. et al. Estimation
+of variances due to direct and maternal effects for growth
+traits of Nelore cattle. Journal of Animal Science, v.75,
+p.3253-3258, 1995.
+EUCLIDES FILHO, K. Melhoramento genético animal no
+Brasil: fundamentos, história e importância. Campo Grande:
+Embrapa Gado de Corte. 1999. 63p. (Documentos, 75)
+EUCLIDES FILHO, K.; SILVA, L.O.C.; ALVES, R.G.O. Ten-
+dências genéticas na raça Indubrasil. In: REUNIÃO ANUAL
+DA SOCIEDADE BRASILEIRA DE ZOOTECNIA, 34.,
+1997, Juiz de Fora. Anais...Juiz de Fora: Sociedade Brasileira
+de Zootecnia, 1997a. p.171-172.
+EUCLIDES FILHO, K.; SILVA, L.O.C.; FIGUEIREDO, G.R.
+Tendências genéticas na raça Guzerá. In: REUNIÃO ANU-
+AL DA SOCIEDADE BRASILEIRA DE ZOOTECNIA,
+34., 1997, Juiz de Fora. Anais... Juiz de Fora: Sociedade
+Brasileira de Zootecnia, 1997b. p.173-174.
+FALCONER, D.S.; MACKAY, T.F.C. Introduction to
+quantitative genetics. 4.ed. Longman, 1996. 463p.
+FIGUEIREDO, E.A.P.; MILAGRES, J.C.; SILVA, M.A. et al.
+Estudo de fatores genéticos na fase de cria de gado de corte
+no Estado do Rio Grande do Sul. Revista da Sociedade
+Brasileira de Zootecnia, v.9, n.3, p.453-367, 1980.
+FREUND, J.F.; WALPOLE, R.E. Mathematical statistics.
+3.ed. New Jersey: Prentice-Hall, 1980. 547p.
+FUTUYMA, D.J. Biologia evolutiva. 2.ed. Ribeirão Preto:
+SBG/CNPq, 1993. 631p.
+GARNERO, A.V.; LÔBO, R.B.; BORJAS, A.R. et al. Estima-
+tivas de parâmetros genéticos para características incluídas
+em critérios de seleção em gado de corte. In: REUNIÃO
+ANUAL 
+DA 
+SOCIEDADE 
+BRASILEIRA 
+DE
+ZOOTECNIA, 35., 1998, Botucatu. Anais... Botucatu:
+Sociedade Brasileira de Zootecnia, 1998. p.434-436.
+JOSAHKIAN, L.A. Programa de melhoramento genético das
+raças zebuínas. In: SIMPÓSIO NACIONAL DA SO-
+CIEDADE BRASILEIRA DE MELHORAMENTO ANI-
+MAL, 3., 2000, Belo Horizonte. Anais… Belo Horizonte:
+Sociedade Brasileira de Melhoramento Animal, 2000. p.76-93.
+KOOTS, K.R.; GIBSON, J.P.; SMITH, C. et al. Analyses of
+published genetic parameter estimates for beef production
+traits. 1. Heritability. Animal Breeding Abstract, v.62, n.5,
+p.309-338, 1994a.
+KOOTS, K.R.; GIBSON, J.P.; WILTON, J.W. Analyses of
+published genetic parameter estimates for beef production
+traits. 2. Phenotypic and genetic correlations. Animal
+Breeding Abstract, v.62, n.11, p.825-853, 1994b.
+MARQUES, L.F.A.; MILAGRES, J.C.; CASTRO, A.C.G. et
+al. Fatores de meio que influenciam o crescimento de gado
+Guzerá em regiões do Espírito Santo e Minas Gerais.
+Revista da Sociedade Brasileira de Zootecnia, v.12, n.2,
+p.369-388, 1983.
+MARTINS FILHO, R.;  LOBO, R.N.B.; LIMA, F.A.M. et al.
+Parâmetros genéticos e fenotípicos de pesos e ganhos em
+pesos de bovinos zebus no estado do Ceará. In: REUNIÃO
+ANUAL 
+DA 
+SOCIEDADE 
+BRASILEIRA 
+DE
+ZOOTECNIA, 34., 1997, Juiz de Fora. Anais... Juiz de Fora:
+Sociedade Brasileira de Zootecnia, 1997. p.248-250.
+MASCIOLI, A.S. Estimativas de parâmetros genéticos e
+proposição de critérios de seleção para pesos em bovinos
+da raça Canchim. Jaboticabal: Universidade Estadual
+Paulista, 1995. 95p. Dissertação (Mestrado em Zootecnia) -
+Universidade Estadual Paulista, 1995.
+MELLO, S.P.; ALENCAR, M.M.; SILVA, L.C.O. Estimativas
+de (co)variância e tendências genéticas para pesos em um
+rebanho Canchim. Revista Brasileira de Zootecnia, v.31,
+n.4, p.1707-1714, 2002.
+MOHIUDDIN, G. Estimates of genetic and phenotypic
+parameters of some performance traits en beef cattle.
+Animal Breeding Abstract, v.61, n.8, p.496-522, 1993.
+
+1613
+R. Bras. Zootec., v.32, n.6, p.1604-1613, 2003 (Supl. 1)
+MUCARI & OLIVEIRA
+NOBRE, P.R.C.; ROSA, A.N.; EUCLIDES FILHO, K. Tendên-
+cias genéticas de características de desenvolvimento ponderal
+de raças zebuínas em Minas Gerais. In: REUNIÃO ANUAL
+DA SOCIEDADE BRASILEIRA DE ZOOTECNIA, 24.,
+1987, Brasília. Anais... Brasília: Sociedade Brasileira de
+Zootecnia, 1987. p.290.
+OLIVEIRA, J.A. Estudo genético-quantitativo do desenvol-
+vimento ponderal do gado Canchim. Ribeirão Preto:
+Universidade de São Paulo, 1979. 146 p. Tese (Doutorado em
+Ciências) - Universidade de São Paulo, 1979.
+OLIVEIRA, J.A.; BASTOS, J.F.P.; TONHATI, H. Endogamia
+em um rebanho da raça Guzerá. Revista Brasileira de
+Zootecnia, v.28, n.4, p.721-728, 1999.
+OLIVEIRA, J.A.; BEZERRA, L.A.F.; BASTOS, J.F.P. Corre-
+lações genéticas e fenotípicas entre pesos e produção de leite
+na primeira lactação em fêmeas da raça Guzerá. Boletim da
+Indústria Animal, v.51, n.1, p.7-11, 1994.
+OLIVEIRA, J.A.; LÔBO, R.B. Fatores ambientes e genéticos
+relacionados com o peso aos dezoito meses e ganho diário em
+bovinos Guzerá. Revista da Sociedade Brasileira de
+Zootecnia, v.21, n.4, p.629-636, 1992.
+OLIVEIRA, J.A.; LÔBO, R.B.; OLIVEIRA, H.N. Tendência
+genética em pesos e ganhos em peso de bovinos da raça
+Guzerá. Pesquisa Agropecuária Brasileira, v.30, n.11,
+p.1355-1360, 1995.
+OLIVEIRA, N.A.; BARBOSA, S.B.P.; MARTINS FILHO, R.
+et al. Avaliação de características de crescimento em um
+rebanho Guzerá. In: REUNIÃO ANUAL DA SOCIEDADE
+BRASILEIRA DE ZOOTECNIA, 35., 1998, Botucatu.
+Anais...Botucatu: Sociedade Brasileira de Zootecnia, 1998.
+p.449-451.
+SANTORO, K.R.; BARBOSA, S.B.P.; OLIVEIRA, J.C.V.
+Influência de efeitos fixos sobre características de crescimen-
+to de bovinos Guzerá, no estado de Pernambuco. In: REU-
+NIÃO ANUAL DA SOCIEDADE BRASILEIRA DE
+ZOOTECNIA, 37., 2000, Viçosa, MG. Anais eletrônicos...
+Viçosa, MG: Sociedade Brasileira de Zootecnia, 2000.
+Disponível em: <http://www.sbz.org.br/scripts/anais2000/
+fichatrab.asp?Id=130. Acesso em 30/05/2001.
+Recebido em: 12/08/02
+Aceito em: 08/04/03
+SARMENTO, J.L.R.; PIMENTA FILHO, E.C.; RIBEIRO, M.
+N. et al. Estudo genético quantitativo do peso pós-desmama
+de bovinos Nelore e Guzerá no estado da Paraíba. In: REU-
+NIÃO ANUAL DA SOCIEDADE BRASILEIRA DE
+ZOOTECNIA, 37., 2000, Viçosa. Anais eletrônicos... Vi-
+çosa, MG: Sociedade Brasileira de Zootecnia, 2000. Dispo-
+nível em: <http://www.sbz.org.br/scripts/anais2000/
+fichatrab.asp?Id=102. Acesso em 30/05/2001.
+STATISTICAL ANALYSIS SYSTEM  - SAS. SAS/STAT User’s
+Guide. version 6.12. 4.ed, v.2, Cary: 1998. 842p.
+SILVA, A.M.R.S. Estudo da forma da curva de crescimento e das
+características genéticas e de ambiente e de seus parâmetros
+em bovinos da raça Guzerá. Ilha Solteira: Universidade
+Estadual Paulista, 2000. 52p. Dissertação (Mestrado em
+Zootecnia) - Universidade Estadual Paulista, 2000.
+SILVA, L.O.C.; EUCLIDES FILHO, K.; FIGUEIREDO, G.R.
+et al. Tendências genéticas na raça Tabapuã no Brasil. In:
+REUNIÃO ANUAL DA SOCIEDADE BRASILEIRA DE
+ZOOTECNIA, 34., 1997, Juiz de Fora. Anais... Juiz de Fora:
+Sociedade Brasileira de Zootecnia, 1997b. p.177-178.
+SILVA, L.O.C.; EUCLIDES FILHO, K.; NOBRE, P.R.C. et al.
+Tendências genéticas na raça Nelore no Brasil. In: REUNIÃO
+ANUAL 
+DA 
+SOCIEDADE 
+BRASILEIRA 
+DE
+ZOOTECNIA, 34., 1997, Juiz de Fora. Anais... Juiz de Fora:
+Sociedade Brasileira de Zootecnia, 1997a. p.175-176.
+SOUZA, J.C.; SILVA, L.O.C.; MALHADO, C.H.M. et al.
+Influência da idade da vaca e correlação genética para pesos
+de bezerros da raça Guzerá, criados nos estados de Minas
+Gerais e Goiás. In: REUNIÃO ANUAL DA SOCIEDADE
+BRASILEIRA DE ZOOTECNIA,37., 2000, Viçosa. Anais
+eletrônicos... Viçosa, MG: Sociedade Brasileira de Zootecnia,
+2000. Disponível em: <http://www.sbz.org.br/scripts/
+anais2000/fichatrab.asp?Id=58. Acesso em 30/05/2001.

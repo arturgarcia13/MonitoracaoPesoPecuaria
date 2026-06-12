@@ -1,0 +1,1242 @@
+783
+J. Dairy Sci.  95 :783–793
+doi: 10.3168/jds.2011-4391 
+© American Dairy Science Association®,  2012 .
+ ABSTRACT 
+ The preweaning management of dairy calves over 
+the last 30 yr has focused on mortality, early weaning, 
+and rumen development. Recent studies suggest that 
+nutrient intake from milk or milk replacer during the 
+preweaning period alters the phenotypic expression for 
+milk yield. The objective of this study was to investi-
+gate the relationship between nutrient intake from milk 
+replacer and pre- and postweaning growth rate with 
+lactation performance in the Cornell dairy herd and 
+a commercial dairy farm. The analysis was conducted 
+using traditional 305-d first-lactation milk yield and 
+residual lactation yield estimates from a test-day model 
+(TDM) to analyze the lactation records over multiple 
+lactations. The overall objective of the calf nutrition 
+program in both herds was to double the birth weight 
+of calves by weaning through increased milk replacer 
+and starter intake. First-lactation 305-d milk yield and 
+residuals from the TDM were generated from 1,244 and 
+624 heifers from the Cornell herd and from the commer-
+cial farm, respectively. The TDM was used to generate 
+lactation residuals after accounting for the effects of test 
+day, calving season, days in milk, days pregnant, lacta-
+tion number, and year. In addition, lactation residuals 
+were generated for cattle with multiple lactations to 
+determine if the effect of preweaning nutrition could 
+be associated with lifetime milk yield. Factors such as 
+preweaning average daily gain (ADG), energy intake 
+from milk replacer as a multiple of maintenance, and 
+other growth outcomes and management variables were 
+regressed on TDM milk yield data. In the Cornell herd, 
+preweaning ADG, ranged from 0.10 to 1.58 kg, and 
+was significantly correlated with first-lactation yield; 
+for every 1 kg of preweaning ADG, heifers, on average, 
+produced 850 kg more milk during their first lactation 
+and 235 kg more milk for every Mcal of metabolizable 
+energy intake above maintenance. In the commercial 
+herd, for every 1 kg of preweaning ADG, milk yield 
+increased by 1,113 kg in the first lactation and further, 
+every 1 kg of prepubertal ADG was associated with a 
+3,281 kg increase in first-lactation milk yield. Among 
+the 2 herds, preweaning ADG accounted for 22% of the 
+variation in first-lactation milk yield as analyzed with 
+the TDM. These results indicate that increased growth 
+rate before weaning results in some form of epigenetic 
+programming that is yet to be understood, but has 
+positive effects on lactation milk yield. This analysis 
+identifies nutrition and management of the preweaned 
+calf as major environmental factors influencing the ex-
+pression of the genetic capacity of the animal for milk 
+yield. 
+ Key words:   calf nutrition ,  milk production ,  test-day 
+model ,  epigenetics 
+ INTRODUCTION 
+ Calf management programs have traditionally fo-
+cused on strategies that restrict the amount of milk 
+or milk replacer offered to the calf, to encourage grain 
+intake in an effort to accelerate weaning, reduce the 
+potential for scours and other illness, and reduce the 
+cost of feeding and management (Kertz et al., 1979; 
+Otterby and Linn, 1981; Anderson et al., 1987). How-
+ever, evaluation of calf management data suggest that 
+strategies that decrease liquid feed intake to enhance 
+starter intake and promote rumen development have 
+not significantly reduced any of those variables (Davis 
+and Drackley, 1998; NAHMS, 2002, 2007). 
+ More recent studies comparing the effects of suckling, 
+controlled intakes, and ad libitum feeding of calves from 
+birth up to 56 d of life have found that increasing the 
+nutrient intake before 56 d of life from milk resulted in 
+increased milk yield during the first lactation, ranging 
+from 450 to 1,300 kg compared with the milk yield of 
+restricted-fed calves during the same period (Foldager 
+and Krohn, 1994; Bar-Peled et al., 1997; Shamay et al., 
+2005; Terré et al., 2009; Moallem et al., 2010). Two oth-
+er studies that used milk replacer showed no significant 
+effect of level of nutrient intake preweaning on first-lac-
+tation milk yield (Morrison et al., 2009; Raeth-Knight 
+et al., 2009). However, the study of Raeth-Knight et 
+al. (2009) potentially lacks sensitivity in determining 
+ Preweaning milk replacer intake and effects on long-term 
+productivity of dairy calves 
+ F.  Soberon ,  E.  Raffrenato ,  R. W.  Everett ,1 and  M. E.  Van Amburgh 2
+ Department of Animal Science, Cornell University, Ithaca, NY 14853 
+ 
+ Received March 24, 2011.
+ Accepted October 5, 2011.
+  1  Deceased. 
+  2 Corresponding author:  mev1@cornell.edu 
+Open access under CC BY-NC-ND license.
+
+784
+SOBERON ET AL.
+Journal of Dairy Science Vol. 95 No. 2, 2012
+milk yield differences because it is difficult to separate 
+effects of herd, season, DIM, days pregnant, and other 
+environmental factors among farms, given that calves 
+were returned to several farms for measurement of milk 
+yield differences. Overall, the sum of this data suggests 
+epigenetic events occur during the preweaning period 
+that alter the milk yield potential of the calf and these 
+events are associated with enhanced nutrient intake 
+from milk or milk replacer before weaning.
+The concept of a lactocrine hypothesis has been re-
+cently introduced and describes the effect of milk-borne 
+factors, including colostrum in this definition, on the 
+epigenetic development of specific tissues or physiologi-
+cal functions (Bartol et al., 2008). Conceptually this 
+topic is not new but the terminology is useful and the 
+ability of several groups to make a direct connection 
+from a milk-borne factor to a developmental function 
+at the tissue or organ level is significant (Nusser and 
+Frawley, 1997; Bagnell et al., 2005). Data relating to 
+this topic has been described and discussed by oth-
+ers in neonatal pigs (Donovan and Odle, 1994; Burrin 
+et al., 1997) and calves (Baumrucker and Blum, 1993; 
+Blum and Hammon, 2000; Rauprich et al., 2000). The 
+implication of this hypothesis and these observations 
+are that the neonate can be programmed maternally 
+and postnatally to alter development of a particular 
+process and, based on the observations in calves, it is 
+not well understood if the lactation response is a func-
+tion of total nutrient intake or if factors in whole milk 
+are responsible for the enhanced milk yield. In a recent 
+study (Moallem et al., 2010), the effects of preweaning 
+nutrition on first-lactation milk yield were associated 
+with the type and quality of nutrients fed. Moallem 
+et al. (2010) observed 10.3% higher milk yields during 
+first lactation from heifers fed whole milk ad libitum 
+compared with heifers fed milk replacer ad libitum dur-
+ing the same period and suggested that milk replacer 
+did not contain the same biologically active factors as 
+milk and, thus, did not impart any lactocrine effects 
+on the calves. Because a large percentage of calves 
+in the United States are fed milk replacer (NAHMS, 
+2007), the question remains whether enhancing growth 
+through increased intake of milk replacer can also sup-
+port changes in lactation milk yield. If so, then factors 
+like protein and energy intake are more important for 
+the neonate than growth factors or peptides found in 
+whole milk (Grosvenor et al., 1993; Meisel, 2005).
+The analysis of first lactation and subsequent lacta-
+tion performance of large numbers of calves and heifers 
+in prospective studies starting in early life is difficult 
+and few studies have been able to capture enough data 
+to make reasonable conclusions (Reid et al., 1964; Van 
+Amburgh et al., 1998). Further, analyses of herd level 
+data over time and among herds to evaluate early life 
+nutrition and management effects might require more 
+rigorous mathematical approaches similar to those used 
+to generate heritability and predicted transmitting 
+ability of genetic traits. An approach using a test-day 
+model (TDM; Everett, 1994) has been used to evalu-
+ate extended lactations (Van Amburgh et al., 1997), 
+first-lactation milk response to prepubertal ADG (Van 
+Amburgh et al., 1998), and bST responses in com-
+mercial herds (Bauman et al., 1999). Extending this 
+approach to the effects of calf growth and management 
+on lactation milk yield seems logical. This approach 
+should result in the least biased evaluation of the data, 
+as variation in performance over time could obscure the 
+changes in lactation yield due to early life management 
+for the same reasons that unadjusted mixed model 
+analyses of 305-d milk yield over time does not generate 
+accurate predicted transmitting ability and heritability 
+values for traits.
+The objective of this study was to investigate the 
+relationship between preweaning nutrient intake from 
+milk replacer and future milk yield using standard 
+305-d milk yields and with a mathematical approach 
+used to conduct genetic evaluations within and among 
+herds. Another objective was to determine what fac-
+tors during the early rearing period have an effect on 
+lifetime performance of dairy calves.
+MATERIALS AND METHODS
+Calf growth, nutrition, and management data were 
+collected from the records of 2 New York dairy farms, 
+the Cornell Teaching and Research dairy herd and a 
+family-owned commercial dairy farm near Watertown, 
+NY. Both herds used similar milk replacers and due 
+to the management strategies on each farm, have use-
+ful, but different growth measurements for calves and 
+heifers that allowed us to partition the effects of nutri-
+tion, management, and stage of growth on milk yield 
+differently. In this study, all calves on both farms were 
+managed in a similar manner without a traditional 
+control and treatment. Accordingly, the mathematical 
+approach for generating data to evaluate milk yield ef-
+fects was similar to that used to estimate heritability 
+and predicted transmitting ability, where generally, no 
+controls and treatments exist, but rather within-herd 
+comparisons of production among contemporaries and 
+the variability among individuals within the herd ob-
+served.
+The preweaning growth objective in the Cornell herd 
+was to double the birth weight by 60 d of age and to 
+achieve that, milk replacer solids were fed at 1.5% of 
+birth weight for the first 7 d of life and then 2 to 2.5% 
+of birth weight from d 8 to 42 on a DM basis, diluted 
+to 15% DM for feeding. Within the Cornell herd, birth 
+
+Journal of Dairy Science Vol. 95 No. 2, 2012
+PREWEANING MILK REPLACER EFFECTS ON LACTATION PERFORMANCE
+785
+weight, birth height, weaning weight, weaning height, 
+age at first calving (AFC), and monthly average ambi-
+ent temperatures were collected; ADG preweaning was 
+calculated from birth and weaning weights. Further, in 
+the Cornell herd, milk replacer intake was monitored 
+and recorded, and that information was available and 
+used in this analysis. Weaning from milk replacer in 
+the Cornell herd was achieved by approximately 49 d 
+by restricting milk replacer to 50% of prior intake for 7 
+d and feeding once per day in the evening. Calves were 
+held in hutches or a calf barn for another 7 to 10 d and 
+fed starter grain only until they were moved to group 
+housing. The milk replacers used during the period of 
+these observations were both commercially available 
+28% CP and were either 15 or 20% fat (Excelerate; 
+28% CP, 15% fat, 4.65 Mcal of ME/kg; Milk Specialties 
+Inc., Carpentersville, IL or Cows Match; 28% CP, 20% 
+fat, 4.87 Mcal of ME/kg; Land O’Lakes Animal Milk 
+Products Inc., Shoreview, MN), respectively. Calves 
+were offered the same total of milk replacer solids 
+throughout the year and no adjustments were made 
+to accommodate the change in maintenance require-
+ments due to changes in ambient temperature. Over 
+the preweaning period, the calves consumed between 
+4.5 and 5.3 Mcal of ME/d from the milk replacers as 
+estimated by the NRC (2001). The starter grain was a 
+commercially available starter that was 23% CP, 1.84 
+Mcal/kg (Cargill Animal Nutrition, Minneapolis, MN) 
+and was offered free choice starting at approximately d 
+5 of life. Starter grain intakes were not recorded and the 
+implications of this will be discussed. Water was offered 
+free choice with some exceptions during winter months, 
+when it was offered for 4 to 5 h per day due to freezing 
+conditions. Monthly average ambient temperature data 
+was used with the calf BW information to estimate the 
+daily maintenance requirements of calves (NRC, 2001) 
+and this data was further used to estimate intake energy 
+above maintenance from milk replacer before weaning 
+for all of the calves in the data set. This allowed us 
+to generate correlations between energy intake above 
+maintenance from milk replacer with milk yield of the 
+same animal once they completed a lactation and this 
+provided an additional parameter to evaluate the effect 
+of early life milk replacer nutrient intake on future milk 
+yield. Growth data were collected starting in 1998 and 
+the lactation data collection was through 2008.
+The records from the Cornell herd were reviewed and 
+any calf that was recorded as having diarrhea or treated 
+with antibiotics was documented and categorical vari-
+ables were designated for statistical evaluation of the 
+effect of either or both of these outcomes on milk yield. 
+Based on the available records and farm protocols, it 
+was assumed that the majority of antibiotic treatment 
+was primarily given for signs of respiratory illness.
+On the commercial farm, birth weights, weaning 
+weights, breeding weights, and AFC data were col-
+lected; preweaning ADG and ADG until breeding were 
+calculated from the data. A standard calf feeding pro-
+tocol existed on the dairy and the average milk replacer 
+feeding rate was 0.9 kg per day from d 7 to weaning at 
+approximately 49 d. The milk replacer used during the 
+period of these observations was 28% CP and 15% fat 
+(Excelerate; Milk Specialties Inc.; 4.65 Mcal of ME/
+kg). Given the feeding rates and milk replacer composi-
+tion, the calves were offered approximately 4.2 Mcal of 
+ME/d over the preweaning period (NRC, 2001). The 
+starter grain was a commercially available 20% CP 
+starter (DM basis). Health data were not available from 
+the commercial dairy herd.
+Milk production and milk composition records were 
+collected for both farms through DHI (Dairy Records 
+Management System, Raleigh, NC) and analyzed 
+either as actual 305-d milk yield or with the TDM. 
+For the Cornell herd, 1,244 completed first-lactation 
+records were available for analyses that covered 7 yr 
+of lactation data from 2001 to 2008. The lactation 
+data from the commercial dairy covered the calendar 
+years 1999 to 2004 and, after editing for missing data, 
+resulted in 623 complete first-lactation records. In ad-
+dition, due to the length of time the data covered, 
+we were able to collect lactation records of animals 
+that had completed up to 3 lactations, allowing us 
+to evaluate the effect of preweaning nutrient intake 
+on lifetime milk yield. The Cornell herd had 826 and 
+450 cattle with completed second and third lactations, 
+respectively. For the commercial dairy, 484 and 271 
+second and third completed lactations were analyzed, 
+respectively. Reasons for culling and other manage-
+ment factors were not analyzed.
+Test-Day Model
+Due to potential effects of calving year, season, man-
+agement, and environment on lactation performance, a 
+linear model that describes the biology of those influ-
+ences was applied to the production data (Everett and 
+Schmitz, 1994; Van Amburgh et al., 1997; Bauman et 
+al., 1999). The TDM assumes that it is inappropriate to 
+compare animals among farms without considering the 
+management conditions within herd over time. Residu-
+als from the TDM are simultaneously adjusted for herd 
+test day, age, DIM, calendar month fresh, pregnancy, 
+and management effects. Test-day residuals include 
+the random genetic cow effects and treatment effects. 
+The model accommodates the fact that conditions vary 
+from herd to herd as well as from environment to envi-
+ronment and conditions change over time within herd. 
+The TDM estimates within-herd, biological effects such 
+
+786
+SOBERON ET AL.
+Journal of Dairy Science Vol. 95 No. 2, 2012
+as age, DIM, and stage of pregnancy. The model used 
+to describe milk, fat, or protein on test day was
+Yijklmno = ti + ajk + djl + fjm + cjn + eijklmno,
+where Yijklmno = the dependent, continuous variable; ti 
+= the ith test day observed for a herd; ajk = the kth age 
+in months for the oth observation, where j = 1, 2 di-
+vides the herd data into halves, the oldest data having 
+separate fixed effects solutions from the newest data; djl 
+= the lth DIM for the test day of the oth observation, 
+where l describes the 10-d intervals and ranges from 1 
+to 45 for the first and second-and-greater lactations; fjm 
+= the mth month of freshening associated with the oth 
+observation; cjn = the nth day pregnant, where n = 1 is 
+the first 5 mo of pregnancy, n = 2 is the sixth month, . 
+. . , and n = 5 for the ninth-and-greater months of preg-
+nancy for the first and second lactations; and eijklmno = 
+the residual for the oth observation of a cow in the nth 
+period of pregnancy, the mth month fresh, the lth DIM, 
+and the kth age in months in the jth period and tested 
+on the ith herd test day.
+The observation y is a vector of all milk, fat, or pro-
+tein observations for a cow and the elements of y are 
+assumed to be correlated. The fixed effects equations 
+for the linear model are
+xcR−1xβ = xcR−1y,
+where R describes the relationships among the test-day 
+observations in the y vector on a cow; x is an incidence 
+matrix describing the test days, age, and DIM for each 
+record on each cow; β is a vector of solutions that are of 
+primary interest; and xc is a partial residual estimate. If 
+a cow is tested n times, R is an n × n matrix describing 
+the residual variance-covariance structure of the n test 
+days for the cow; R is assumed to have an autocorrela-
+tion structure such that R/σ2 = ρ is an autocorrelation 
+matrix, where σ2 is the variance of the associated test-
+day data, and ρij is the correlation between tests i and 
+j and equals
+ρq and q = ӛ(ti – tj)/30ӛ,
+where ti and tj are DIM for test i and j, respectively, 
+and ρ = 0.73, 0.58, and 0.69 for milk yield, fat yield, 
+and protein yield, respectively. The model was fit to the 
+data and residuals were obtained as e = y – xcβ. The 
+residuals were standardized to a common variance for 
+all test days.
+Test-day residuals were combined to produce TDM 
+residual lactation records, which were used in the 
+analysis to determine the effect of preweaning and pre-
+pubertal nutrition of calves and heifers on subsequent 
+lactation production. Because the residuals are from 
+a grand mean, the values will be both positive and 
+negative and the difference between residuals is the 
+variable of interest. We are making the assumption that 
+most of the test-day residuals are associated with either 
+unexplained variation after the adjustments described 
+above or to genetic relationships among the variable of 
+interest, which was also evaluated.
+Statistical Analysis
+Each farm was analyzed separately due to the envi-
+ronmental conditions specific to the farm that would 
+influence both growth and the lactation milk yields. 
+After the TDM residual lactation data were generated, 
+the residuals were regressed on the measured growth 
+and intake variables from each herd. Factors analyzed 
+on both farms included preweaning ADG, birth weight, 
+weaning weight, AFC, birth year, birth month, and 
+season of birth. For the Cornell herd, 305-d milk yield 
+and TDM lactation residuals were also regressed on 
+calculated ME intake from milk replacer above mainte-
+nance from milk replacer. Linear, cubic, and quadratic 
+relationships among the measured intake and growth 
+variables and TDM residuals were conducted using a 
+generalized linear model procedure as well as mixed 
+model procedures within SAS 9.2 (SAS Institute Inc., 
+Cary, NC). For all data, cubic and quadratic relation-
+ships were nonsignificant and were dropped from the 
+analyses.
+To analyze the 305-d milk yield, the statistical mod-
+els differed due to the calf and heifer growth data avail-
+able from each farm. For the Cornell herd, the model 
+used was
+Yij = Si + Gj + Eij,
+where Yij is the dependent, continuous variable; Si = 
+the effect of year of calving; Gj = the ADG of the calf 
+before weaning; and Eij = the residual error of the ith 
+year of calving and the jth average daily gain.
+A separate model was used to evaluate energy intake 
+above maintenance:
+Yij = IEi + Eij,
+where Yij is the dependent, continuous variable; IEi 
+= the intake energy above maintenance from milk re-
+placer of the calf before weaning; and Eij = the residual 
+error of the ith year of calving and the jth intake energy 
+above maintenance.
+For the commercial dairy, the model used was
+
+Journal of Dairy Science Vol. 95 No. 2, 2012
+PREWEANING MILK REPLACER EFFECTS ON LACTATION PERFORMANCE
+787
+Yijk = Si + Gj + PWk + Eijk,
+where Yijk is the dependent, continuous variable; Si = 
+the effect of year of calving; Gj = the ADG of the calf 
+before weaning; PWk = the postweaning ADG; and Eijk 
+= the residual error of the ith year of calving and the 
+jth preweaning ADG and kth postweaning ADG.
+In addition, data from the Cornell herd for calf diar-
+rhea and antibiotic treatment were analyzed for the 
+proportion of calves treated and then a mixed model 
+analyses was conducted to determine the effect of either 
+of these observations on the first-lactation milk yield 
+and the interaction between ADG and milk yield. The 
+relationship between energy intake above maintenance 
+and diarrhea and antibiotic treatment for first-lactation 
+milk yield was also analyzed by mixed model approach-
+es.
+Due to the availability of subsequent lactation data 
+for the Cornell herd, regressions of preweaning ADG 
+and intake over maintenance on TDM residual milk 
+were also generated for the second and third lactation 
+and cumulative milk from the first through third lacta-
+tion. In the commercial herd, preweaning ADG, birth-
+to-breeding ADG, and weaning-to-breeding ADG per 
+animal was regressed on TDM residual milk yield for 
+the second and third lactations and cumulative milk 
+yield from the first through third lactation. Significance 
+for all analyses was declared for P < 0.05. Trends were 
+declared at P < 0.10.
+RESULTS AND DISCUSSION
+Data on birth weight, growth rate, AFC, milk yield, 
+and other performance parameters for each herd are 
+found in Table 1. The mean preweaning growth rates 
+from the Cornell herd were 0.82 ± 0.18 kg/d, with a 
+range from 0.10 to 1.58 kg/d, and this was surprising, 
+given the amount of milk replacer consumed by the 
+calves. We believe this range in preweaning growth data 
+reflects several factors. First, it demonstrates that al-
+though the calves are offered adequate nutrients above 
+maintenance from milk replacer, the effects of cold and 
+heat stress are present in the data set. Monthly average 
+temperatures at the Cornell herd averaged 8.6°C and 
+ranged from −9.0 to 21.9°C. Further, no characteriza-
+tion of colostrum status was available and this has been 
+shown to affect prepubertal ADG (Faber et al., 2005).
+In the Cornell herd, the effect of diarrhea or antibiotic 
+treatment on preweaning ADG was not significant and 
+ADG differed by approximately 30 g/d for calves that 
+had either event in their records (P > 0.1). However, 
+for calves that had both events recorded, preweaning 
+ADG was lower by approximately 50 g/d (P < 0.01). 
+Over the 8-yr period, approximately 59% of all of the 
+calves had at least 1 of the recorded events.
+On the commercial dairy, the observed preweaning 
+ADG was similar in range and the mean was 0.66 
+± 0.11 kg, with a range from 0.32 to 1.27 kg. These 
+data most likely represent the reality of growth rates 
+observed on most farms, assuming that environmental 
+conditions and calf health challenges are reflected in 
+the range.
+On both farms, first-lactation milk yield was posi-
+tively correlated with preweaning ADG and weaning 
+weight (P < 0.03) and, in the Cornell herd, energy 
+intake above maintenance from milk replacer and am-
+bient temperature (P < 0.001; Table 2). Further, on 
+the commercial farm, milk production was positively 
+correlated with ADG from birth to breeding (P < 0.01) 
+and from weaning to breeding (P < 0.1; Table 2). On 
+the commercial farm ADG from birth to breeding and 
+ADG from weaning to breeding were highly correlated 
+with each other (correlation coefficient of 0.94; P < 
+0.01). On both farms, first-lactation milk yield was sig-
+Table 1. Growth, performance, and yield parameters from each farm used in the analyses of lactation performance1  
+Parameter
+Cornell  
+herd2
+SD
+Commercial  
+herd
+SD
+First-lactation records (n)
+1,244
+623
+Birth weight (kg)
+41.68
+5.09
+42.55
+5.10
+Birth height (cm)
+80.87
+5.71
+NA3
+NA
+Average monthly temperature (°C)
+8.57
+9.22
+9.41
+9.33
+Average megacalories above maintenance from milk replacer (Mcal/d)
+2.81
+0.61
+NA
+NA
+Weaning weight (kg)
+82.08
+10.25
+84.13
+10.81
+Weaning height (cm)
+93.79
+9.90
+NA
+NA
+Preweaning ADG (kg/d)
+0.82
+0.18
+0.66
+0.11
+Postweaning ADG (kg/d)
+NA
+NA
+0.91
+0.10
+Average age at first calving (d)
+691
+54
+687
+64
+First-lactation 305-d milk yield (kg)
+10,899
+1,781
+13,583
+1,285
+1Data are averages over the time period studied.
+2In Harford, New York.
+3NA = not applicable.
+
+788
+SOBERON ET AL.
+Journal of Dairy Science Vol. 95 No. 2, 2012
+nificantly affected by season of birth and year of birth. 
+Among both herds, AFC was also evaluated as a fac-
+tor affecting first-lactation milk yield and found to be 
+nonsignificant (data not shown; P = 0.59).
+Also, because culling is highly associated with low 
+milk production, there was a concern that as multiple 
+lactations were analyzed, some bias could be introduced 
+by culling out lower-producing animals, thus influenc-
+ing the multiple lactation information. The Cornell 
+data set was analyzed to examine potential bias in the 
+data from the cattle with second or third lactations be-
+cause those animals were also within the first-lactation 
+analyses. The TDM residuals for first-lactation cattle 
+(n = 1,244; mean = −128.1 kg) were compared with 
+the first-lactation residuals for the cattle that com-
+pleted second (n = 826; mean = −143.5 kg) and third 
+(n = 450; mean = −171.4 kg) lactations (Table 3). The 
+TDM residuals among the first lactation for all parity 
+groups were not significantly different; thus, we con-
+cluded that no bias existed due to preferential culling in 
+the analysis of multiparous cattle within this data set.
+To make a direct comparison with other studies, the 
+305-d first-lactation milk yields from the Cornell herd 
+were regressed on the preweaning growth rates of the 
+calves and, in this analyses, for every kilogram of ADG 
+before weaning, the 305-d milk yield increased by 704 
+kg in the first lactation (P < 0.01). This effect was 
+linear within the data set and implied that, under the 
+conditions of this analysis, the greater the ADG of the 
+calf before weaning, the greater their potential first-
+lactation milk response, consistent with other studies 
+(Shamay et al., 2005; Moallem et al., 2010).
+Although the analyses of the 305-d first lactation 
+milk yield resulted in identifying preweaning ADG as 
+a factor affecting first-lactation milk yield, another 
+approach was to use the TDM lactation milk yield re-
+siduals to evaluate the response. The use of the TDM 
+analyses should be a less biased solution for milk yield. 
+Accordingly, the TDM lactation yields were analyzed 
+by regressing the residuals on preweaning ADG and, for 
+every kilogram of ADG preweaning, heifers produced 
+850 kg more milk during their first lactation (P < 0.01; 
+Table 4). To ensure no bias in the response due to some 
+genetic component, the milk response identified by the 
+TDM was analyzed with the sire, dam, and individual 
+predicted transmitting ability for milk and the relation-
+ships were nonsignificant, implying the increase in milk 
+yield was environmental in nature and equally affected 
+individuals of high and low genetic merit. As this ap-
+pears to be an environmental response, calves and cattle 
+on each farm could have different milk yield responses 
+due to nutrition, housing, and other environmental fac-
+tors. Therefore, analyzing animals on individual farms 
+should demonstrate similar relationships if the effect is 
+consistent, but the magnitude of the response might be 
+different.
+Table 2. Equations developed from linear regression of the following preweaning and management parameters with first-lactation test-day 
+model residuals from each farm 
+Dependent variable
+Derivation
+Significance  
+(P-value)
+Cornell dairy (Harford, NY)
+ Megacalories above maintenance from milk replacer before weaning
+y = −783.18 + 235.42x
+<0.001
+ Preweaning ADG (kg)
+y = −816.63 + 849.63x
+<0.001
+ Birth weight (kg)
+y = −246.34 – 2.78x
+0.724
+ Weaning weight (kg)
+y = −1,354.38 + 15.05x
+<0.001
+ Temperature at birth (°C)
+y = −331.76 + 23.80x
+<0.001
+Commercial dairy
+ Preweaning ADG (kg)
+y = −682.01 + 1,112.71x
+0.03
+ Birth weight (kg)
+y = −794.84 – 19.63x
+0.07
+ Weaning weight (kg)
+y = −1,237.60 + 15.32x
+<0.01
+ ADG from birth to breeding (kg)
+y = −2,985.00 + 3,280.55x
+<0.01
+ ADG from weaning to breeding (kg)
+y = −1,061.46 + 1,168.48x
+0.10
+Table 3. Test-day model (TDM) milk residuals (kg) for cattle with 1, 2, or 3 completed lactations in the Cornell herd (Harford, NY) and the 
+effect of preweaning ADG on each lactation milk yield 
+Lactation
+First lactation
+Second lactation
+Third lactation
+n
+Mean  
+TDM
+Extra milk  
+(kg/kg of ADG)
+n
+Mean  
+TDM
+Extra milk  
+(kg/kg of ADG)
+n
+Mean  
+TDM
+Extra milk  
+(kg/kg of ADG)
+First
+1,244
+−128.1
+849.6
+First–second
+826
+−143.5
+941.3
+826
+611.5
+888.1
+First–third
+450
+−171.4
+1,100.2
+450
+892.8
+1,131.1
+450
+757.7
+48.3
+
+Journal of Dairy Science Vol. 95 No. 2, 2012
+PREWEANING MILK REPLACER EFFECTS ON LACTATION PERFORMANCE
+789
+The same relationship between TDM milk yield and 
+preweaning ADG was analyzed on the commercial farm 
+and, for every kilogram of ADG preweaning, heifers 
+produced 1,114 kg more milk during their first lacta-
+tion (P = 0.03; Table 5). Thus, on the commercial 
+farm, the response was approximately 31% greater than 
+for the Cornell dairy despite lower preweaning ADG, 
+and was consistent with the difference in first-lactation 
+milk yield differences between the 2 farms (Table 1). 
+The average milk yield in the commercial herd was ap-
+proximately 25% greater than in the Cornell herd over 
+the period studied; thus, the calf response to early life 
+nutrient intake is most likely associated with the overall 
+management level applied to the lactating cattle in the 
+dairy. When combining both farms and using a model 
+that included farm and season of birth as class variables 
+and birth weight as a covariate, for every additional 
+kilogram of ADG preweaning, heifers produced 970 kg 
+more milk during their first lactation (P < 0.01). The 
+uniformity of this relationship over 1,867 lactations 
+provides positive evidence that the preweaning period 
+represents a time of opportunity to alter the set points 
+of calves for potential lifetime milk production and is 
+consistent with other data (Shamay et al., 2005; Moal-
+lem et al., 2010).
+Moallem et al. (2010) fed both milk and milk re-
+placer, and the calves fed milk replacer did not show a 
+significant milk response, and they suggested that the 
+effects observed were possibly due to bioactive factors 
+in milk that did not exist in milk replacer. However, the 
+response observed in the current study suggests that 
+nutrient supply from high-quality milk replacer is effec-
+tive at stimulating the milk yield response. Comparing 
+the data from Moallem et al. (2010) with the current 
+data would indicate that the digestibility, protein qual-
+ity, and protein level of the milk replacer along with 
+total energy intake appear to be critical to generate the 
+milk response.
+In the data from Cornell, first-lactation milk yield was 
+not significantly affected by reported cases of diarrhea. 
+However, calves receiving antibiotics had significantly 
+decreased milk yield and produced 493 kg less milk in 
+the first lactation (P > 0.01) than calves with no record 
+of being treated. Regardless of antibiotic treatment, 
+the effect of ADG on first-lactation milk yield was sig-
+nificant in all calves (P < 0.05). Calves treated with 
+antibiotics produced 623 kg more milk per kilogram of 
+preweaning ADG, whereas calves that did not receive 
+antibiotics produced 1,407 kg more milk per kilogram 
+of preweaning ADG. The effect of increased nutrient in-
+Table 4. Differences in test-day model residual milk (kg) for first, second, and third lactation as well as 
+cumulative milk from first through third lactation by ADG before weaning and the energy intake over predicted 
+maintenance for calves in the Cornell (Harford, NY) herd1  
+Lactation
+No. of  
+animals
+Predicted difference  
+in milk per  
+kilogram of  
+preweaning ADG
+P-value
+Predicted difference  
+in milk by each  
+additional megacalorie  
+over maintenance  
+preweaning2
+P-value
+First
+1,244
+849.63
+<0.01
+235.42
+<0.01
+Second
+826
+888.08
+<0.01
+108.39
+0.26
+Third
+450
+48.32
+0.91
+351.39
+<0.01
+First through third
+450
+2,279.53
+0.01
+902.76
+<0.01
+1Monthly average ambient temperatures were used to calculate the maintenance requirements during the pre-
+weaning period for each calf.
+2Megacalories over maintenance were calculated using NRC (2001) equations.
+Table 5. Differences in test-day model residual milk (kg) for first, second, and third lactation as well as 
+cumulative milk from first through third lactation by ADG before weaning and from weaning to breeding for 
+the commercial herd 
+Lactation
+No. of  
+animals
+Predicted difference  
+in milk per  
+kilogram of  
+preweaning ADG
+P-value
+Predicted difference  
+in milk per  
+kilogram of ADG  
+from weaning  
+to breeding1
+P-value
+First
+623
+1,113.97
+0.03
+1,168.48
+0.10
+Second
+484
+−526.44
+0.49
+2,719.87
+0.01
+Third
+271
+1,293.47
+0.18
+2,874.88
+0.05
+First through third
+271
+1,286.18
+0.51
+8,199.80
+<0.01
+1ADG from weaning to breeding had a coefficient of correlation of 0.94 with ADG from birth to breeding (P 
+< 0.01).
+
+790
+SOBERON ET AL.
+Journal of Dairy Science Vol. 95 No. 2, 2012
+take from milk replacer was still apparent in the calves 
+that were treated, but the milk yield response was most 
+likely attenuated due to factors associated with sickness 
+and nutrient partitioning away from growth functions 
+(Johnson, 1998; Dantzer, 2006).
+In this data set, we had the opportunity to evaluate 
+the effect of preweaning ADG on milk production in 
+the second and third lactations. Data from both herds 
+demonstrated positive relationships between prewean-
+ing ADG and milk yield in subsequent lactations (Tables 
+4 and 5). In the Cornell herd, the effect was significant 
+for the second lactation, positive but nonsignificant 
+for the third lactation, and when analyzed over the 
+3 lactations, highly significant and substantial in the 
+amount of milk represented by preweaning ADG. In the 
+commercial herd, the data were only significant for the 
+first lactation and the negative residuals in the second 
+lactation could not be explained by any variables that 
+were available in the data set. Overall the data were 
+positive over the 3 lactations in the commercial herd, 
+although not significant. This demonstrates that the ef-
+fect of early life nutrient intake can be variable by herd 
+and the variation within herd is difficult to identify 
+when measuring this response over multiple lactations. 
+However, the data strongly suggest that the effect of 
+early life nutrition and management previously attrib-
+uted only to the first lactation can now be discussed in 
+terms of lifetime productivity.
+The ADG of the calves were responsive to the envi-
+ronment, especially under conditions of cold stress, and 
+maintenance requirements of the calves increased during 
+periods of cold stress. Thus, at constant feeding rates, 
+despite being higher than industry averages, growth 
+rate and first-lactation milk yield were decreased by 
+the average ambient temperature at birth, representing 
+changes in maintenance requirements (Figures 1 and 
+2).
+Among these 2 farms, calves born during the winter 
+produced, on average, 556 kg less milk during their first 
+lactation than calves born during the summer (P < 0.01; 
+data not shown). Thus, the season in which a calf was 
+born reflected the effects of environmental temperature 
+on the maintenance requirements of the calves. Howev-
+er, specific local environments at each farm interacted 
+differently; at the Cornell farm, calves born during the 
+summer produced more milk than calves born during 
+any other season (P < 0.01), whereas at the commercial 
+farm, calves born during the fall produced more milk 
+than calves born during any other season (P < 0.01). 
+We assume these observations are related to energy 
+intake above maintenance; however, we cannot rule out 
+the effects of photoperiod or differences in colostrum 
+status of calves in explaining some of the milk response 
+(Rius and Dahl, 2006).
+To explore this in a different manner and make the 
+data more quantifiable, the growth data and milk yield 
+were analyzed using temperature at birth. Within the 
+Cornell dairy, calves born during the colder months 
+(0.2°C) produced 532.2 kg less milk than calves born 
+in thermoneutral conditions (16.3°C; P < 0.01; Figure 
+1). Because all calves were fed the same amount of milk 
+replacer throughout the year, we concluded that the 
+effect of ADG on first-lactation milk production was 
+an indirect effect of nutrient intake above maintenance 
+during the first 49 d of life. To quantify this relation-
+ship, information regarding the milk replacer offered to 
+each calf during the first 49 d of life and mean monthly 
+temperatures for the time they were born were record-
+ed. To evaluate the effect of intake over maintenance as 
+another variable affecting first-lactation milk yield, the 
+Figure 1. Test-day model (TDM) lactation residuals in kilograms 
+of milk (±SD), averaged by temperature at the time of birth, in the 
+Cornell (Harford, NY) herd. Columns with different letters (a–c) differ 
+(P < 0.05). Color version available in the online PDF. 
+Figure 2. Test-day model (TDM) lactation residuals in kilograms 
+of milk (±SD), averaged by temperature at the time of birth, in the 
+commercial herd. Columns with different letters (a,b) differ (P < 
+0.05). Color version available in the online PDF. 
+
+Journal of Dairy Science Vol. 95 No. 2, 2012
+PREWEANING MILK REPLACER EFFECTS ON LACTATION PERFORMANCE
+791
+2001 Dairy NRC equation (NRC, 2001) for maintenance 
+requirements for calves was used to calculate the mega-
+calories of energy required for each calf and then the 
+megacalories of energy consumed above maintenance 
+were estimated. Using the calculated information on 
+megacalories of energy consumed above maintenance, 
+the TDM residuals were regressed on the megacalories 
+of energy above maintenance. Within the Cornell herd, 
+positive correlations with first-, second-, and third-
+lactation milk yields were observed for megacalories of 
+energy consumed above the maintenance requirements 
+(Table 4). In the Cornell herd, for every megacalorie of 
+additional energy consumed from milk replacer during 
+the preweaning period, calves produced 235 kg more 
+milk (P < 0.01) during the first lactation or a total of 
+903 kg more milk per megacalorie when analyzed over 
+3 lactations (P < 0.01). Calves born during the colder 
+months (0.2°C) consumed, on average, 1.43 Mcal/d less 
+energy above maintenance than calves born during the 
+warmer months (19.2°C). Based on NRC calculations, 
+this difference in energy above maintenance is equiva-
+lent to 0.3 kg of ADG and provides some indication 
+of the sensitivity of calf to this input relative to the 
+signals to enhance milk-producing ability. To evaluate 
+the possible limits of these correlations, we analyzed 
+the cubic and quadratic effects of megacalories above 
+maintenance with milk yield. Within our data set, a lin-
+ear equation best described this relationship, indicating 
+that, within the range of data analyzed (ADG ranging 
+from 0.10 to 1.58 kg and for megacalories above main-
+tenance from 0.92 to 4.13 Mcal), no plateau occurred in 
+the milk yield response. Also, when analyzed with the 
+data for antibiotic treatment, the effect of intake over 
+maintenance was not different between calves that were 
+treated or not (P > 0.1).
+Most of the data in the literature related to prepu-
+bertal ADG and future milk yield has demonstrated 
+negative effects of increasing the level of nutrient in-
+take in prepubertal heifers (Foldager and Sejrsen, 1987; 
+Radcliff et al., 2000). However, in the current study, 
+data from the commercial farm demonstrates that if 
+the calves received a higher level of nutrient intake dur-
+ing the preweaning phase, higher levels of nutrient in-
+take postweaning had a positive effect on first-lactation 
+milk yield. In this data, for every additional kilogram 
+of ADG from birth to breeding, heifers produced 3,281 
+kg of milk during their first lactation (P < 0.01; Table 
+5) and this effect was observed over the 3 lactations. If 
+only the postweaning period was considered, for every 
+additional kilogram of ADG from weaning to breeding, 
+heifers produced 8,200 kg of milk during 3 lactations 
+(P < 0.01; Table 5). The primary difference between 
+this data set and data generated previously is prewean-
+ing nutrition. In previous studies (Van Amburgh et 
+al., 1998; Radcliff et al., 2000), heifers were started 
+on treatment diets postweaning and no attempt was 
+made to modify preweaning nutrition or management. 
+The calves in this data set were fed a higher level of 
+nutrient intake before weaning and this appears to 
+have altered the prepubertal growth response, allow-
+ing heifers to be able to positively respond to higher 
+levels of nutrient intake postweaning. Similar observa-
+tions were described by Moallem et al. (2010) and data 
+from Meyer et al. (2006) demonstrated that calves fed 
+greater amounts of higher protein milk replacer before 
+weaning had significantly greater bromodeoxyuridine 
+incorporation and, thus, greater mammary parenchyma 
+proliferation before weaning. Although mammary DNA 
+is not a good indicator of future milk yield, the observa-
+tion that cells exist in the neonatal mammary gland 
+that are responsive to nutrient supply might provide a 
+possible mechanism and area of study for these long-
+term responses.
+These observations reinforce the role that manage-
+ment plays in phenotypic expression of genetic ca-
+pacity. The observation that preweaning growth rate 
+accounted for approximately 22% of the variation in 
+first-lactation milk yield further indicates that the 
+greater milk-producing capacity can be modified in 
+these calves, once we more fully understand the signals 
+that are being realized by this nutrient intake response. 
+Based on the relationship between preweaning growth 
+and milk yield, it might appear that any factors that 
+enhance protein synthesis and thus, growth, will en-
+hance the milk yield capacity of the calf. Therefore, 
+to potentially stimulate this long-term response energy 
+intake above maintenance and protein status of the 
+calf become critical factors, but these effects were not 
+directly analyzed within this study. This was implied 
+in this study by the composition of milk replacer fed 
+to the calves. The relationship between the protein 
+status of the calf and future milk yield was suggested in 
+the data of Moallem et al. (2010) where the calves fed 
+the lower protein quality milk replacer compared with 
+whole milk did not demonstrate a significant milk yield 
+response despite being offered the milk replacer on 
+an ad libitum basis. Further, this would be consistent 
+with the requirements of calves, determined from serial 
+harvest studies on young dairy calves, where protein 
+requirements for higher gain would be between 26 and 
+28% CP (Van Amburgh and Drackley, 2005; Bartlett 
+et al., 2006).
+Calf starter intake was not measured in this study 
+and relative to energy intake is a shortcoming of the 
+data with regard to the possible effect of this additional 
+energy on milk yield. The role of starter intake could be 
+important; however, it is hard to establish DMI from 
+starter grain that provide adequate energy supply for 
+
+792
+SOBERON ET AL.
+Journal of Dairy Science Vol. 95 No. 2, 2012
+optimum growth rates before 49 d of age, the period 
+in which the calf appears to be sensitive to this effect, 
+especially if consideration is given to absorbed energy 
+substrates and not simply rumen development and gut 
+fill (Stobo et al., 1966). Studies in calves fed restricted 
+levels of milk replacer (10% initial BW at 12.5% solids), 
+evaluating starter grain formulation, DMI, and rumen 
+development demonstrate growth rates over the first 5 
+wk of 0.18 to 0.35 kg/d (Coverdale et al., 2004; Lesmeis-
+ter and Heinrichs, 2004). Based on the data presented 
+in the current paper, the growth rates observed in those 
+studies would not stimulate the factors responsible for 
+the enhanced milk yield response and, therefore, the 
+absence of preweaning grain intake is most likely not 
+confounding the relationships observed in this study.
+These observations imply that the nutritional or 
+metabolic programming that occurs during the first 2 
+mo of life has lifelong implications on milk production. 
+Similarly, lifelong implications of a stimulus shortly 
+after birth were traced to epigenetic changes in rats 
+(Weaver et al., 2004). They demonstrated that the 
+behavior of the mother affected the way her pups re-
+sponded to stress throughout their life; these effects 
+were mediated by epigenetic regulations. The observa-
+tion that nutrition can impart epigenetic changes has 
+gained considerable attention over the last few years in 
+the area of human development and great progress has 
+been made (Hanley et al., 2010). It appears that similar 
+gains can be made in milk production through epigen-
+etic effects that are modified through a lactocrine-type 
+mechanism in the first 2 mo of life in the neonatal calf.
+CONCLUSIONS
+This analysis presents data that reinforces the obser-
+vation that lifetime performance is influenced by early 
+life development and dairy producers have the ability 
+to manipulate this early life programming via nutrition. 
+The length of time that heifer calves are responsive to 
+the effects of nutrition warrants further investigation. 
+However, we now know that this manipulation must 
+start immediately after birth and continue for at least 
+5 wk and must be in the form of liquid feed to have a 
+positive influence on lifetime performance.
+ACKNOWLEDGMENTS
+We gratefully acknowledge Milk Specialties Global 
+(Carpentersville, IL) and Land O’Lakes Inc. (St. Paul, 
+MN) for financial and other support of this work, the 
+New York dairy farm that provided us with access to 
+the farm’s data, and the staff of the Teaching and Re-
+search Farm (Harford, NY) for their help and support 
+of this work. We also thank John Ferry, DVM (Adams, 
+NY) for his help in securing a portion of this data.
+REFERENCES
+Anderson, K. L., T. G. Nagaraja, and J. L. Morrill. 1987. Rumen 
+metabolic development in calves weaned conventionally or early. 
+J. Dairy Sci.  70:1000–1005.
+Bagnell, C. A., W. Yan, A. A. Wiley, and F. F. Bartol. 2005. Effects 
+of relaxin on neonatal porcine uterine growth and development. 
+Ann. N. Y. Acad. Sci.  1041:248–255.
+Bar-Peled, U., B. Robinzon, E. Maltz, H. Tagari, Y. Folman, I. Bruck-
+ental, H. Voet, H. Gacitua, and A. R. Lehrer. 1997. Increased 
+weight gain and effects on production parameters of Holstein heifer 
+calves that were allowed to suckle from birth to six weeks of age. 
+J. Dairy Sci.  80:2523–2528.
+Bartlett, K. S., F. K. McKeith, M. J. VandeHaar, G. E. Dahl, and J. 
+K. Drackley. 2006. Growth and body composition of dairy calves 
+fed milk replacers containing different amounts of protein at two 
+feeding rates.  J. Anim. Sci.  84:1454–1467.
+Bartol, F. F., A. A. Wiley, and C. A. Bagnell. 2008. Epigenetic pro-
+gramming of porcine endometrial function and the lactocrine hy-
+pothesis.  Reprod. Domest. Anim.  43:273–279.
+Bauman, D. E., R. W. Everett, W. H. Weiland, and R. J. Collier. 1999. 
+Production responses to bovine somatotropin in Northeast dairy 
+herds.  J. Dairy Sci.  82:2564–2573.
+Baumrucker, C. R., and J. W. Blum. 1993. Secretion of insulin-like 
+growth factors in milk and their effect on the neonate.  Livest. 
+Prod. Sci.  35:49–72.
+Blum, J. W., and H. Hammon. 2000. Colostrum effects on the gas-
+trointestinal tract, and on nutritional, endocrine and metabolic 
+parameters in neonatal calves.  Livest. Prod. Sci.  66:151–159.
+Burrin, D. G., T. A. Davis, S. Ebner, P. A. Schoknecht, M. L. Fiorotto, 
+and P. J. Reeds. 1997. Colostrum enhances the nutritional stimu-
+lation of vital organ protein synthesis in neonatal pigs.  J. Nutr. 
+127:1284–1289.
+Coverdale, J. A., H. D. Tyler, J. D. Quigley III, and J. A. Brumm. 
+2004. Effect of various levels of forage and form of diet on rumen 
+development and growth in calves.  J. Dairy Sci.  87:2554–2562.
+Dantzer, R. 2006. Cytokine, sickness behavior, and depression.  Neu-
+rol. Clin.  24:441–460.
+Davis, C. L., and J. K. Drackley. 1998. The Development, Nutrition, 
+and Management of the Young Calf. Iowa State Univ. Press, Ames.
+Donovan, S. M., and J. Odle. 1994. Growth factors in milk as media-
+tors of infant development.  Annu. Rev. Nutr.  14:147–167.
+Everett, R. W. 1994. Method of bovine management. US Patent Num-
+ber 5,351,644. Cornell Research Foundation (Ithaca, NY), assignee.
+Everett, R. W., and F. Schmitz. 1994. Dairy genetics in 1994 and be-
+yond. Cow and sire evaluation using test-day records, DairyGene, 
+and DairyView for farm management. Pages 4–39 in Mimeo Ser. 
+No. 170. Cornell Coop. Ext., Cornell Univ., Ithaca, NY.
+Faber, S. N., N. E. Faber, T. C. McCauley, and R. L. Ax. 2005. Case 
+study: Effects of colostrum ingestion on lactational performance. 
+Prof. Anim. Sci.  21:420–425.
+Foldager, J., and C. C. Krohn. 1994. Heifer calves reared on very high 
+or normal levels of whole milk from birth to 6–8 weeks of age 
+and their subsequent milk production.  Proc. Soc. Nutr. Physiol. 
+3:301.
+Foldager, J., and K. Sejrsen. 1987. Mammary gland development and 
+milk production in dairy cows in relation to feeding and hormone 
+manipulation during rearing. Page 102 in Research in Cattle Pro-
+duction, Danish Status and Perspectives. Landhusholdningsselska-
+bet, Frederiksberg, Denmark.
+Grosvenor, C. E., M. F. Picciano, and C. R. Baumrucker. 1993. Hor-
+mones and growth factors in milk.  Endocr. Rev.  14:710–728.
+Hanley, B., J. Dijane, M. Fewtrell, A. Grynberg, S. Hummel, C. Ju-
+nien, B. Koletzko, S. Lewis, H. Renz, M. Symonds, M. Gros, L. 
+Harthoorn, K. Mace, F. Samuels, and E. M. van Der Beek. 2010. 
+Metabolic imprinting, programming and epigenetics—A review of 
+
+Journal of Dairy Science Vol. 95 No. 2, 2012
+PREWEANING MILK REPLACER EFFECTS ON LACTATION PERFORMANCE
+793
+present priorities and future opportunities.  Br. J. Nutr.  104(Sup-
+pl. 1):S1–S25.
+Johnson, R. W. 1998. Immune and endocrine regulation of food intake 
+in sick animals.  Domest Anim. Endocrinol.  15:309–319.
+Kertz, A. F., L. R. Prewitt, and J. P. Everett. 1979. An early weaning 
+calf program: Summarization and review.  J. Dairy Sci.  62:1835–
+1843.
+Lesmeister, K. E., and A. J. Heinrichs. 2004. Effects of corn processing 
+on growth characteristics, rumen development, and rumen param-
+eters in neonatal dairy calves.  J. Dairy Sci.  87:3439–3450.
+Meisel, H. 2005. Biochemical properties of peptides encrypted in bo-
+vine milk proteins.  Curr. Med. Chem.  12:1905–1919.
+Meyer, M. J., A. V. Capuco, D. A. Ross, L. M. Lintault, and M. E. 
+Van Amburgh. 2006. Developmental and nutritional regulation of 
+the prepubertal bovine mammary gland: II. Epithelial cell prolif-
+eration, parenchymal accretion rate, and allometric growth.  J. 
+Dairy Sci.  89:4298–4304.
+Moallem, U., D. Werner, H. Lehrer, M. Zachut, L. Livshitz, S. Yakoby, 
+and A. Shamay. 2010. Long-term effects of ad libitum whole milk 
+prior to weaning and prepubertal protein supplementation on skel-
+etal growth rate and first-lactation milk production.  J. Dairy Sci. 
+93:2639–2650.
+Morrison, S. J., H. C. F. Wicks, R. J. Fallon, J. Twigge, L. E. R. Daw-
+son, A. R. G. Wylie, and A. F. Carson. 2009. Effects of feeding 
+level and protein content of milk replacer on the performance of 
+dairy herd replacements.  Animal  3:1570–1579.
+NAHMS (National Animal Health Monitoring Service). 2002. Dairy 
+2002. Part I: Reference of dairy health and management in the 
+United States. USDA-APHIS-VS. Accessed Mar. 23, 2011. http://
+www.aphis.usda.gov/animal_health/nahms/dairy/downloads/ 
+dairy02/Dairy02_dr_PartI.pdf.
+NAHMS (National Animal Health Monitoring Service). 2007. Dairy 
+2007. Heifer calf health and management practices on U.S. dairy 
+operations. USDA-APHIS-VS. Accessed Mar. 23, 2011. http://
+www.aphis.usda.gov/animal_health/nahms/dairy/downloads/ 
+dairy07/Dairy07_ir_CalfHealth.pdf.
+NRC. 2001. Nutrient Requirements of Dairy Cattle. 7th rev. ed. Na-
+tional Academy Press, Washington, DC.
+Nusser, K. D., and S. Frawley. 1997. Depriving neonatal rats of milk 
+from early lactation has long-term consequences on mammotrope 
+development.  Endocrine  7:319–323.
+Otterby, D. E., and J. G. Linn. 1981. Advances in nutrition and man-
+agement of calves and heifers.  J. Dairy Sci.  64:1365–1377.
+Radcliff, R. P., M. J. Vandehaar, L. T. Chapin, T. E. Pilbeam, D. K. 
+Beede, E. P. Stanisiewski, and H. A. Tucker. 2000. Effects of diet 
+and injection of bovine somatotropin on prepubertal growth and 
+first-lactation milk yields of Holstein cows.  J. Dairy Sci.  83:23–29.
+Raeth-Knight, M., H. Chester-Jones, S. Hayes, J. Linn, R. Larson, 
+D. Ziegler, B. Ziegler, and N. Broadwater. 2009. Impact of con-
+ventional or intensive milk replacer programs on Holstein heifer 
+performance through six months of age and during first lactation. 
+J. Dairy Sci.  92:799–809.
+Rauprich, A. B., H. M. Hammon, and J. W. Blum. 2000. Influence of 
+feeding different amounts of first colostrum on metabolic, endo-
+crine, and health status and on growth performance of neonatal 
+calves.  J. Anim. Sci.  78:896–908.
+Reid, J. T., J. K. Loosli, G. W. Trimberger, K. L. Turk, S. A. Asdell, 
+and S. E. Smith. 1964. Causes and prevention of reproductive fail-
+ure in dairy cattle. IV. Effect of plane of nutrition during early 
+life on growth, reproduction, production, health and longevity of 
+Holstein cows. Birth to fifth calving. Cornell Research Bulletin 
+987. Cornell University, Ithaca, NY.
+Rius, A. G., and G. E. Dahl. 2006. Exposure to long-day photoperiod 
+prepubertally may increase milk yield in first-lactation cows.  J. 
+Dairy Sci.  89:2080–2083.
+Shamay, A., D. Werner, U. Moallem, H. Barash, and I. Bruckental. 
+2005. Effect of nursing management and skeletal size at weaning 
+on puberty, skeletal growth rate, and milk production during first 
+lactation of dairy heifers.  J. Dairy Sci.  88:1460–1469.
+Stobo, I. J. F., J. H. B. Roy, and H. J. Gaston. 1966. Rumen develop-
+ment in the calf. 1. The effect of diets containing different propor-
+tions of concentrates to hay on rumen development.  Br. J. Nutr. 
+20:171–188.
+Terré, M., C. Tejero, and A. Bach. 2009. Long-term effects on heifer 
+performance of an enhanced growth feeding programme applied 
+during the pre-weaning period.  J. Dairy Res.  76:331–339.
+Van Amburgh, M. E., and J. K. Drackley. 2005 Current perspectives 
+on the energy and protein requirements of the pre-weaned calf. 
+Pages 67–82 in Calf and Heifer Rearing: Principles of Rearing the 
+Modern Dairy Heifer From Calf to Calving. P. C. Garnsworthy, ed. 
+Nottingham Univ. Press, Nottingham, UK. 
+Van Amburgh, M. E., D. M. Galton, D. E. Bauman, and R. W. Ever-
+ett. 1997. Management and economics of extended calving inter-
+vals with use of bovine somatotropin.  Livest. Prod. Sci.  50:15–28.
+Van Amburgh, M. E., D. M. Galton, D. E. Bauman, R. W. Everett, D. 
+G. Fox, L. E. Chase, and H. N. Erb. 1998. Effects of three prepu-
+bertal body growth rates on performance of Holstein heifers during 
+first lactation.  J. Dairy Sci.  81:527–538.
+Weaver, I. C. G., N. Cervoni, F. A. Champagne, A. C. D’Alessio, S. 
+Sharma, J. R. Seckl, S. Dymov, M. Szyf, and M. J. Meaney. 2004. 
+Epigenetic programming by maternal behavior.  Nat. Neurosci. 
+7:847–854.

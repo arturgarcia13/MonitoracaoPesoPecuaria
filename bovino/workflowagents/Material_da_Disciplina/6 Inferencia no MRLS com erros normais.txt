@@ -1,0 +1,582 @@
+6.1 Por que assumir normalidade?
+Até aqui, estudamos as propriedades dos estimadores de mínimos quadrados ordinários (MQO) no Modelo de
+Regressão Linear Simples (MRLS). Mostramos que 
+ e 
+ são não viesados, possuem variâncias explícitas e,
+pelo Teorema de Gauss–Markov, são os melhores estimadores lineares não viesados (BLUE) sob as hipóteses
+clássicas de exogeneidade, homoscedasticidade e independência dos erros (Kutner et al., 2005; Montgomery; Peck;
+Vining, 2021).
+No entanto, até este ponto conhecemos apenas momentos de primeira e segunda ordem das distribuições
+amostrais dos estimadores, ou seja, suas esperanças e variâncias. Não conhecemos suas distribuições exatas. De
+inferência, já sabemos que um estimador ser não viesado e eficiente dentro de uma classe não é suficiente para
+construir intervalos de confiança exatos ou realizar testes de hipóteses com nível de significância controlado em
+amostras finitas.
+Para superar essa limitação, acrescentamos uma hipótese mais forte e específica: a normalidade dos erros,
+Ou seja, cada erro segue uma distribuição normal com média zero e variância constante 
+, sendo ainda
+independentes entre si.
+Com essa suposição adicional, a formulação probabilística do modelo passa a ser
+Logo, condicionalmente a 
+, temos
+Isso significa que o modelo deixa de ser apenas um modelo para a média condicional e passa a especificar
+completamente a distribuição condicional de 
+ dado 
+. Em outras palavras, a normalidade fornece não apenas a
+forma do valor esperado, mas também a forma funcional da incerteza em torno dessa média.
+A introdução da hipótese de normalidade tem implicações precisas:
+O MRLS continua sendo um modelo para a média condicional, mas agora a variabilidade em torno dessa
+média é descrita por uma estrutura probabilística completamente especificada.
+As hipóteses de Gauss–Markov já asseguravam que os estimadores de MQO eram BLUE, mas não
+determinavam suas distribuições exatas. A normalidade preenche exatamente essa lacuna.
+Como combinações lineares de variáveis normais são normais, os estimadores 
+ e 
+, que são combinações
+lineares dos 
+, passam a ter distribuições normais exatas em amostras finitas (Montgomery; Peck; Vining,
+2021).
+6  Inferência no MRLS com erros normais
+^β0
+^β1
+εi ∼N(0, σ2),
+i = 1, 2, … , n,
+independentes.
+σ2 > 0
+6.1.1 Estrutura probabilística do MRLS com erros normais
+Yi = β0 + β1Xi + εi,
+εi ∼N(0, σ2).
+Xi
+Yi ∣Xi ∼N(β0 + β1Xi, σ2).
+Y
+X
+6.1.2 Consequências conceituais da normalidade
+^β0
+^β1
+Yi
+Parte II — Modelo de Regressão Linear Simples (MRLS) > 6  Inferência no MRLS com erros normais
+
+
+A estatística baseada na soma dos quadrados dos resíduos passa a ter distribuição qui-quadrado, o que permite
+derivar distribuições  e 
+ de forma exata (Kutner et al., 2005).
+Do ponto de vista metodológico, a normalidade não é necessária para a obtenção das propriedades de não viés ou
+eficiência relativa, mas é uma boa alternativa para a construção de procedimentos inferenciais exatos em
+amostras finitas. Essa hipótese não altera os estimadores de MQO, mas altera o que podemos afirmar sobre sua
+variabilidade e sobre a incerteza associada às estimativas.
+Portanto, a introdução da normalidade transforma o MRLS de um modelo com propriedades ótimas em termos de
+média e variância em um modelo com estrutura probabilística completa, apto a sustentar intervalos de confiança
+e testes de hipóteses com boas propriedades.
+6.2 Distribuições amostrais no MRLS com erros normais
+Sob a hipótese adicional de normalidade dos erros no MRLS, podemos derivar as distribuições amostrais exatas
+dos principais estimadores do modelo. Esse é o ponto de transição entre propriedades puramente algébricas (não
+viés, variância mínima dentro de uma classe) e inferência estatística formal.
+Recordemos que, sob normalidade,
+Como os estimadores de MQO podem ser escritos como combinações lineares dos 
+, e cada 
+ é normal
+condicionalmente a 
+, segue que 
+ e 
+ são também normalmente distribuídos. Essa conclusão decorre do fato
+fundamental de que combinações lineares de variáveis normais independentes permanecem normais (Montgomery;
+Peck; Vining, 2021).
+Para a inclinação, obtemos:
+Para o intercepto:
+A demonstração dessas distribuições pode ser vista no Apêndice de Demonstrações {#demo}, onde se explora
+explicitamente a representação linear dos estimadores em função dos 
+ e a estrutura de variância-covariância do
+vetor de respostas.
+Além disso, para o estimador da variância residual,
+vale o resultado fundamental:
+t
+F
+εi ∼N(0, σ2),
+independentes.
+Yi
+Yi
+Xi
+^β0
+^β1
+6.2.1 Distribuição de 
+, 
+^β0 ^β1
+^β1 ∼N(β1,
+σ2
+Sxx
+),
+Sxx =
+n
+∑
+i=1
+(Xi −¯X)2.
+^β0 ∼N(β0, σ2 ( 1
+n +
+¯X 2
+Sxx
+)).
+Yi
+s2 = SQRes
+n −2 ,
+SQRes =
+n
+∑
+i=1
+(Yi −^Yi)2,
+(n −2)s2
+σ2
+∼χ2
+n−2.
+
+Esse resultado decorre da decomposição ortogonal do vetor 
+ em componente ajustada e componente residual,
+cuja demonstração também pode ser consultada no Apêndice {#demo} (Kutner et al., 2005). A perda de dois graus de
+liberdade reflete a estimação dos dois parâmetros 
+ e 
+.
+É importante destacar que a normalidade não altera os estimadores de MQO: as expressões de 
+, 
+ e 
+permanecem as mesmas. O ganho está em outro ponto: ela fornece uma descrição probabilística completa da
+variabilidade desses estimadores, algo que as hipóteses de Gauss–Markov não entregam por si só.
+Em particular, o resultado
+é a peça-chave que permite obter, de forma exata, as distribuições  e 
+ usadas em intervalos de confiança e testes
+de hipóteses. Os 
+ graus de liberdade refletem a estimação de 
+ e garantem que 
+ seja não viesado
+para 
+.
+6.3 Predição pontual da média condicional
+A predição pontual é o primeiro passo para inferir sobre a relação média entre 
+ e 
+ no MRLS. Antes de introduzir
+intervalos, é útil explicitar que os valores ajustados são quantidades aleatórias (pois dependem da amostra) e, sob
+normalidade, possuem distribuição conhecida.
+Para um valor genérico 
+, definimos o valor ajustado (ou média condicional estimada) como
+Sob erros normais, 
+ e 
+ são combinações lineares dos 
+ e, portanto, 
+ também é uma combinação linear
+de variáveis normais. Assim, 
+ é normalmente distribuído (Montgomery; Peck; Vining, 2021).
+Além disso, sua esperança é
+isto é, 
+ é não viesado para a média condicional.
+Sua variância é
+de modo que
+Essa expressão evidencia um aspecto estrutural da regressão: a incerteza sobre a média ajustada é menor perto
+de 
+ e aumenta à medida que 
+ se afasta do centro dos dados, refletindo a geometria do ajuste por mínimos
+quadrados (Kutner et al., 2005).
+Y
+β0
+β1
+^β0 ^β1
+s2
+(n −2)s2
+σ2
+∼χ2
+n−2
+t
+F
+n −2
+(β0, β1)
+s2
+σ2
+Y
+X
+6.3.1 Distribuição dos valores ajustados
+X0
+^μ(X0) = ^β0 + ^β1X0.
+^β0
+^β1
+Yi
+^μ(X0)
+^μ(X0)
+E[^μ(X0)] = β0 + β1X0 = μ(X0),
+^μ(X0)
+V ar(^μ(X0)) = σ2 [ 1
+n + (X0 −¯X)2
+Sxx
+],
+Sxx =
+n
+∑
+i=1
+(Xi −¯X)2,
+^μ(X0) ∼N(μ(X0), σ2 [ 1
+n + (X0 −¯X)2
+Sxx
+]).
+¯X
+X0
+6.3.2 Predição pontual
+
+A predição pontual da resposta média em 
+ é, portanto,
+que corresponde à função de regressão estimada avaliada em 
+. É importante enfatizar que 
+ se refere à média
+condicional 
+, e não ao valor de uma nova observação individual.
+Embora 
+ forneça uma estimativa central, ela não quantifica a incerteza associada ao ajuste. Por isso, em
+aplicações, a predição pontual deve ser acompanhada de:
+um intervalo de confiança para 
+, quando o interesse é a tendência média; ou
+um intervalo de predição, quando o objetivo é prever uma nova observação individual.
+Essas duas construções serão desenvolvidas nas próximas subseções (Kutner et al., 2005; Montgomery; Peck;
+Vining, 2021).
+Considere o seguinte gráfico, onde o ponto destacado corresponde a 
+, isto é, à estimativa da média condicional
+em 
+. Observe que o valor pontual não informa, por si só, o grau de incerteza associado à estimativa, questão que
+será tratada na próxima subseção.
+6.4 Intervalos de confiança no MRLS
+X0
+^Y0 = ^μ(X0) = ^β0 + ^β1X0,
+X0
+^Y0
+E[Y ∣X0]
+6.3.3 Limitação da predição pontual
+^Y0
+μ(X0)
+^Y0
+X0
+Predição pontual: reta ajustada e valor previsto para X0=5 horas.
+
+Na seção anterior vimos que, sob a hipótese de erros normais, os estimadores de MQO possuem distribuições
+normais quando a variância 
+ é conhecida. No entanto, na prática, 
+ é desconhecida e deve ser substituída por seu
+estimador não viesado
+Essa substituição tem consequência direta na forma das distribuições amostrais: ao padronizarmos os estimadores
+utilizando  em vez de , as estatísticas resultantes deixam de seguir a normal padrão e passam a seguir
+distribuições  de Student com 
+ graus de liberdade (Kutner et al., 2005; Montgomery; Peck; Vining, 2021).
+Essa mudança decorre do fato de que
+e de que 
+ e 
+ são independentes de 
+ sob normalidade dos erros, resultado cuja demonstração pode ser
+consultada no Apêndice de Demonstrações {#demo}.
+Para a inclinação, a estatística
+segue distribuição t de Student com 
+ graus de liberdade
+Analogamente, para o intercepto, temos a mesma distribuição t de Student com 
+ graus de liberdade
+A demonstração formal dessas distribuições padronizadas pode ser vista no Apêndice {#demo}, onde se utiliza a
+independência entre estimadores lineares normais e a soma de quadrados residual.
+Com base nessas estatísticas, os intervalos de confiança de nível 
+ são dados por
+e
+Aqui, 
+ denota o quantil superior da distribuição  com 
+ graus de liberdade.
+Anteriormente vimos que a predição pontual da média condicional em 
+ é
+σ2
+σ2
+s2 = SQRes
+n −2 ,
+SQRes =
+n
+∑
+i=1
+(Yi −^Yi)2.
+s
+σ
+t
+n −2
+(n −2)s2
+σ2
+∼χ2
+n−2,
+^β0
+^β1
+s2
+6.4.1 Intervalos para 
+, 
+β0 β1
+Tβ1 =
+^β1 −β1
+s/√Sxx
+,
+Sxx =
+n
+∑
+i=1
+(Xi −¯X)2.
+n −2
+Tβ1 ∼tn−2.
+n −2
+Tβ0 =
+^β0 −β0
+s√1
+n +
+¯X 2
+Sxx
+∼tn−2.
+(1 −α) × 100%
+IC1−α(β0) = ^β0 ± tn−2;1−α/2 s√1
+n +
+¯X 2
+Sxx
+IC1−α(β1) = ^β1 ± tn−2;1−α/2
+s
+√Sxx
+.
+tn−2;1−α/2
+t
+n −2
+6.4.2 Intervalo de confiança para a média condicional
+X0
+^μ(X0) = ^β0 + ^β1X0,
+
+estimativa natural de
+Sob a hipótese de erros normais, a combinação linear 
+ possui distribuição normal quando 
+ é conhecido.
+Como, na prática, 
+ é substituído por seu estimador não viesado 
+, a estatística padronizada
+segue distribuição  de Student com 
+ graus de liberdade (Kutner et al., 2005; Montgomery; Peck; Vining, 2021).
+A demonstração formal pode ser consultada no Apêndice de Demonstrações {#demo}.
+Consequentemente, um intervalo de confiança de nível 
+ para a média condicional é
+em que:
+ é a variância residual estimada;
+;
+o termo dentro da raiz representa a variabilidade da estimativa da média condicional.
+O fator
+possui interpretação estrutural clara. Ele combina:
+1. 
+: componente associado à incerteza na estimação do intercepto;
+2. 
+: componente associado à incerteza da inclinação e ao afastamento de 
+ em relação ao centro da
+amostra.
+Essa decomposição revela que a precisão da estimativa depende da posição de 
+ no domínio observado. O
+intervalo é:
+mais estreito quando 
+;
+mais largo à medida que 
+ se afasta da média amostral.
+Esse comportamento decorre diretamente da geometria da regressão linear e da estrutura de projeção ortogonal
+subjacente aos mínimos quadrados.
+É fundamental enfatizar que esse intervalo refere-se à média condicional
+e não a uma nova observação individual. Ele quantifica a incerteza sobre a tendência média da resposta para a
+condição 
+.
+Dicas de uso
+μ(X0) = E[Y ∣X0].
+^μ(X0)
+σ2
+σ2
+s2 = SQRes/(n −2)
+T = ^μ(X0) −μ(X0)
+s√1
+n + (X0−¯X)2
+Sxx
+t
+n −2
+(1 −α) × 100%
+IC1−α [μ(X0)] = ^μ(X0) ± tn−2; 1−α/2 s√1
+n + (X0 −¯X)2
+Sxx
+,
+s2 = SQRes/(n −2)
+Sxx = ∑n
+i=1(Xi −¯X)2
+1
+n + (X0 −¯X)2
+Sxx
+1
+n
+(X0−¯X)2
+Sxx
+X0
+X0
+X0 = ¯X
+X0
+μ(X0) = E[Y ∣X0],
+X = X0
+
+Utilize este intervalo quando o objetivo for inferir sobre a tendência média da resposta para um valor
+específico do regressor.
+Não o confunda com o intervalo de predição para um novo indivíduo, que incorpora variabilidade adicional do
+erro aleatório.
+A figura a seguir ilustra um intervalo de confiança de 95% para a média condicional ao longo do domínio observado.
+Observe qye banda em torno da reta representa a incerteza sobre 
+ ao longo dos valores observados de 
+.
+Note que ela é mais estreita nas proximidades de 
+ e se alarga progressivamente nos extremos do domínio
+amostral, refletindo o aumento da variância de 
+.
+A interpretação frequentista de um intervalo de confiança de nível 
+ é a seguinte: se o experimento fosse
+repetido um número grande de vezes e sob as mesmas condições, aproximadamente 
+ dos
+intervalos construídos conteriam o verdadeiro parâmetro. O parâmetro é fixo; o que varia é o intervalo, pois ele
+depende da amostra observada.
+A introdução da distribuição  de Student desempenha papel essencial nesse contexto. Ao substituir  por seu
+estimador , incorporamos a incerteza adicional decorrente da estimação da variância. Essa correção é
+particularmente relevante em amostras pequenas: quanto menor , mais pesada é a cauda da distribuição 
+ e,
+consequentemente, mais largos são os intervalos. À medida que  cresce, a distribuição 
+ converge para a
+normal padrão, e os intervalos passam a se aproximar daqueles que seriam obtidos se 
+ fosse conhecido.
+μ(X)
+X
+¯X
+^μ(X0)
+Intervalo de confiança (95%) para a média condicional.
+6.4.3 Interpretação frequentista e significado dos intervalos
+1 −α
+(1 −α) × 100%
+t
+σ
+s
+n
+tn−2
+n
+tn−2
+σ2
+
+Os intervalos são centrados em 
+ e 
+ porque esses estimadores são não viesados. Em média, as retas ajustadas
+coincidem com a reta verdadeira; os intervalos quantificam precisamente a incerteza em torno dessa centralidade.
+É fundamental distinguir os diferentes objetos inferenciais:
+O intervalo para 
+ e 
+ refere-se a parâmetros estruturais do modelo.
+O intervalo para 
+ refere-se à média condicional.
+Nenhum desses intervalos corresponde à previsão de uma nova observação individual.
+A distinção entre inferência sobre a média condicional e previsão individual é conceitualmente importante, pois a
+segunda incorpora não apenas a incerteza na estimação dos parâmetros, mas também a variabilidade intrínseca do
+processo aleatório. Essa diferença será aprofundada na subseção seguinte.
+6.5 Intervalo de predição para nova observação
+Até aqui construímos intervalos de confiança para a média condicional 
+. No entanto, muitas
+aplicações exigem algo diferente: prever o valor de uma nova observação individual associada a 
+.
+Se uma nova unidade experimental for observada no mesmo valor 
+, seu modelo é
+em que 
+ e é independente dos erros da amostra original.
+A diferença conceitual é que agora não estamos estimando apenas a média condicional, mas prevendo uma
+realização específica que contém, além da incerteza na estimação dos parâmetros, a variabilidade intrínseca do
+erro aleatório.
+Portanto, a quantidade relevante é
+cuja variância é
+O termo adicional “
+” aparece porque a nova observação contém um erro próprio, independente daquele utilizado
+na estimação dos parâmetros. A demonstração formal dessa variância pode ser consultada no Apêndice de
+Demonstrações {#demo} (Kutner et al., 2005; Montgomery; Peck; Vining, 2021).
+Padronizando essa quantidade por , obtemos uma estatística que segue distribuição t de Student com 
+ graus
+de liberdade (
+) sob normalidade dos erros. Assim, o intervalo de predição de nível 
+ é
+Comparando com o intervalo para a média condicional, temos
+^β0
+^β1
+β0
+β1
+μ(X0) = E[Y ∣X0]
+μ(X0) = E[Y ∣X0]
+X0
+X0
+Ynovo(X0) = β0 + β1X0 + εnovo,
+εnovo ∼N(0, σ2)
+Ynovo(X0) −^μ(X0),
+V ar[Ynovo(X0) −^μ(X0)] = σ2 [1 + 1
+n + (X0 −¯X)2
+Sxx
+].
++1
+s
+n −2
+tn−2
+(1 −α) × 100%
+IC[Ynovo(X0)] = ^μ(X0) ± tn−2; 1−α/2 s√1 + 1
+n + (X0 −¯X)2
+Sxx
+.
+^μ(X0) ± tn−2; 1−α/2 s√1
+n + (X0 −¯X)2
+Sxx
+.
+
+Daí, vemos claramente a presença do termo adicional  dentro da raiz. Esse termo representa a variabilidade
+individual irreducível do processo aleatório.
+Consequentemente:
+O intervalo de predição é sempre mais largo que o intervalo de confiança da média.
+A diferença entre eles é tanto maior quanto maior for 
+.
+Ambos se alargam quando 
+ se afasta de 
+, refletindo a incerteza adicional associada à extrapolação.
+O intervalo de predição fornece um conjunto de valores plausíveis para uma nova observação individual, e não
+para a média populacional. Em termos frequentistas, se o processo fosse repetido nas mesmas condições,
+aproximadamente 
+ desses intervalos conteriam a nova observação gerada pelo modelo.
+Dica prática
+Use intervalo de confiança quando o objetivo for inferir sobre a tendência média.
+Use intervalo de predição quando o interesse for antecipar o valor de um novo indivíduo.
+A figura a seguir ilustra simultaneamente o intervalo de confiança para a média e o intervalo de predição para nova
+observação. Comparando as bandas, perceba que o intervalo de predição é sempre mais largo que o de confiança.
+Isso ocorre porque ele incorpora a variabilidade individual das novas observações, além da incerteza da média.
+Advertência sobre extrapolação
+As expressões obtidas para o intervalo de predição são válidas para qualquer valor numérico 
+. No entanto, é
+fundamental distinguir entre interpolação (quando 
+ pertence ao intervalo observado da amostra) e
+1
+σ2
+X0
+¯X
+(1 −α) × 100%
+Intervalo de confiança vs. intervalo de predição (95%).
+X0
+X0
+
+extrapolação (quando 
+ está fora do domínio observado de 
+).
+Seja o intervalo amostral observado
+Quando 
+, o modelo está sendo utilizado em uma região sustentada pelos dados. Nesse caso,
+embora o intervalo possa se alargar à medida que 
+ se afasta de 
+, a inferência permanece ancorada na
+informação empírica disponível.
+Por outro lado, quando 
+ está fora desse intervalo, ocorre extrapolação. Nessa situação, a validade formal da
+expressão algébrica do intervalo permanece, mas sua confiabilidade prática pode ser comprometida, pois o modelo
+passa a depender fortemente da suposição de linearidade fora da região observada. Pequenas violações da forma
+funcional podem produzir erros substanciais de predição.
+Como destacam Kutner et al. (2005) e Montgomery; Peck; Vining (2021), a regressão linear deve ser utilizada com
+cautela fora do domínio amostral, pois o comportamento da relação entre 
+ e 
+ além dos dados observados não é
+garantido pelo modelo ajustado. Assim, intervalos de predição em extrapolação tendem a ser não apenas mais
+largos, mas também potencialmente menos representativos do processo real.
+X0
+X
+X(min) ≤Xi ≤X(max).
+X0 ∈[X(min), X(max)]
+X0
+¯X
+X0
+X
+Y

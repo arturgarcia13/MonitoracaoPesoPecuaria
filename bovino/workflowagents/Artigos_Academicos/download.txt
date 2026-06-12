@@ -1,0 +1,1301 @@
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+ 
+Estimativas de herdabilidade e tendências genéticas para características  
+de crescimento e reprodutivas em bovinos da raça Nelore 
+ 
+ 
+[Estimates of heritability and genetic trends for growth and reproduction traits in Nelore cattle] 
+ 
+M.M.M. Laureano1, A.A. Boligon2*, R.B. Costa2, S. Forni3, J.L.P. Severo4, L.G. Albuquerque5,6 
+ 
+1Instituto de Ciências Sociais, Educação e Zootecnia - UFAM – Parintins, AM 
+2Aluno de pós-graduação - FCAV-UNESP – Jaboticabal, SP 
+3Genus PLC – Hendersonville, Tennessee, EUA 
+4GenSys Consultores Associados S/C Ltda. – Porto Alegre, RS 
+5Faculdade de Ciências Agrárias e Veterinárias - UNESP – Jaboticabal, SP 
+6Pesquisadora de CNPq e do INCT-CA 
+ 
+RESUMO 
+ 
+Foram estimados os coeficientes de herdabilidade e a mudança genética para peso à desmama (PD), peso 
+ao sobreano (PS), ganho de peso do nascimento à desmama (GND), ganho de peso da desmama ao 
+sobreano (GDS), perímetro escrotal (PE) e idade ao primeiro parto (IPP) em animais da raça Nelore. 
+Foram utilizados dados de 128.148 animais nascidos entre 1984 e 2006. Os componentes de variância 
+foram estimados pelo método da máxima verossimilhança restrita, e os valores genéticos foram preditos 
+por modelos mistos aplicando-se modelo animal bicaracterística, incluindo peso à desmama em todas as 
+análises. As tendências genéticas foram estimadas pela regressão dos valores genéticos sobre o ano de 
+nascimento dos animais. Os coeficientes de herdabilidade do efeito direto estimados foram de 0,23 (0,07) 
+(PD); 0,24 (0,02) (PS); 0,21 (0,01) (GND); 0,23 (0,01) (GDS); 0,46 (0,02) (PE) e 0,15 (0,01) (IPP). As 
+tendências genéticas diretas estimadas foram de 0,171 (0,01); 0,219 (0,02); 0,186 (0,03) e 0,224 (0,02) 
+kg/ano para PD, PS, GND e GDS, respectivamente, o que representa incrementos de 0,10; 0,08; 0,13 e 
+0,22% nas médias das mesmas características ao ano, respectivamente. Para o PE e a IPP no período de 
+1984 a 1995, as tendências genéticas foram nulas, com valores de 0,011 (0,03) cm/ano e -0,003 (0,06) 
+dias/ano, respectivamente. No segundo período considerado (1996 a 2006), as tendências genéticas para 
+PE e IPP foram de 0,069 (0,01) cm/ano e -3,024 (0,04) dias/ano, respectivamente, indicando melhorias 
+consideráveis em tais características. Esses valores sugerem que características produtivas e reprodutivas, 
+quando utilizadas como critério de seleção, proporcionam progresso genético no rebanho, sendo indicadas 
+para seleção de animais da raça Nelore. 
+ 
+Palavras-chave: ganho de peso, idade ao primeiro parto, peso à desmama, peso ao sobreano, perímetro 
+escrotal 
+ 
+ABSTRACT 
+ 
+The heritability coefficients and genetic trends for weaning weight (WW), post-yearling weight (PW), 
+average gains from birth to weaning (GBW), average gains from weaning to post-yearling (GWP), 
+scrotal circumference (SC), and age at first calving (AFC) were estimated in Nelore cattle. Variance 
+components and heritability coefficients were estimated by restricted maximum likelihood and breeding 
+values were predicted fitting bivariate animal models, always including weaning weight. Data from 
+128,148 animals born from 1984 to 2006 were used. Genetic trends for each trait were estimated by 
+regression of breeding values on the animal birth year. Heritability estimates for direct effect were 0.23 
+(0.07) for WW; 0.24 (0.02) for PW; 0.21 (0.01) for GBW; 0.23 (0.01) for GWP; 0.46 (0.02) for SC; and 
+0.15 (0.01) for AFC. The direct genetic trends were 0.171 (0.01); 0.219 (0.02); 0.186 (0.03); and 0.224 
+(0.02) kg per year, for WW, PW, GBW, and GWP, respectively, corresponding to increases of 0.10, 0.08, 
+                                                 
+ Recebido em 27 de setembro de 2009 
+Aceito em 28 de dezembro de 2010 
+*Autor para correspondência (corresponding author) 
+E-mail: arioneboligon@yahoo.com.br 
+
+Laureano et al. 
+144  
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+0.13, and 0.22% in the means of the same traits per year, respectively. In the first period (1984 to 1995), 
+the SC and AFC genetic trends were null, with values of 0.011 (0.03) cm/year and -0.003 (0.06) 
+days/year, respectively. Moreover, in the other period (1996 to 2006), the genetic trends of SC and AFC 
+were 0.069 (0.01) cm/year and -3.024 (0.04) days/year, respectively. These values suggest that productive 
+and reproductive traits, when used as selection criteria, result in genetic progress of the herd. Thus, they 
+are indicated for selection of Nelore cattle. 
+ 
+Keywords: average gains, age at first calving, weaning weight, post-yearling weight, scrotal 
+circumference 
+ 
+ 
+INTRODUÇÃO 
+ 
+As características de crescimento e reprodução 
+são importantes na determinação da eficiência 
+econômica de qualquer sistema de produção de 
+bovinos 
+de 
+corte. 
+Nesse 
+contexto, 
+as 
+características de crescimento, pesos à desmama 
+e ao sobreano e ganho de peso em diferentes 
+idades destacam-se como critério de seleção, 
+pois, além de apresentarem herdabilidades que 
+variam de média a alta magnitude, o que pode 
+proporcionar maiores ganhos genéticos por 
+geração, são bons indicadores do potencial de 
+crescimento dos animais em idades mais 
+avançadas.  
+ 
+Atualmente, várias características reprodutivas 
+foram incluídas como critério de seleção em 
+programas de melhoramento de gado de corte, 
+como, por exemplo, o perímetro escrotal. 
+Segundo Silva et al. (2000), o perímetro escrotal 
+é característica de fácil mensuração, está 
+associado à fertilidade e possui correlações 
+genéticas favoráveis com outras características 
+reprodutivas e de crescimento, principalmente 
+nos machos. Por outro lado, Pereira et al. (2002) 
+e Boligon et al. (2007) observaram correlação 
+genética baixa entre o perímetro escrotal e 
+algumas características reprodutivas das fêmeas, 
+como a idade ao primeiro parto, indicando que a 
+seleção somente para o perímetro escrotal pode 
+não ser uma boa alternativa quando se busca 
+melhoria 
+no 
+desempenho 
+reprodutivo 
+do 
+rebanho. 
+ 
+A seleção conjunta de perímetro escrotal com 
+características reprodutivas de fêmeas, como, por 
+exemplo, idade ao primeiro parto em avaliações 
+genéticas, pode ser uma alternativa para 
+aumentar a eficiência reprodutiva das matrizes de 
+corte (Azevêdo et al., 2006). As fêmeas com 
+menor idade ao primeiro parto ficam menos 
+tempo ociosas no rebanho, o que implica 
+aumento do número de bezerros nascidos e, por 
+consequência, maior retorno econômico ao 
+produtor. 
+ 
+Independente das características incluídas nos 
+índices 
+de 
+seleção, 
+há 
+necessidade 
+de 
+acompanhamento da evolução genética dos 
+rebanhos, para verificar a efetividade do 
+processo de seleção. Uma das maneiras de 
+monitorar esses resultados é feita pelo estudo da 
+tendência genética de características sob seleção 
+direta ao longo dos anos, bem como de 
+características correlacionadas, permitindo um 
+redirecionamento das características selecionadas 
+no 
+programa 
+de 
+melhoramento, 
+quando 
+necessário. 
+ 
+Este estudo foi realizado com o objetivo de 
+estimar os parâmetros genéticos e as tendências 
+genéticas para características de crescimento pré 
+e pós-desmama e reprodutivas de machos e 
+fêmeas na raça Nelore. 
+ 
+MATERIAL E MÉTODOS 
+ 
+Foram utilizados registros de 128.148 animais da 
+raça Nelore, nascidos entre os anos de 1984 e 
+2006, provenientes de uma empresa agropecuária 
+que se dedica à bovinocultura de corte, 
+localizada no estado de São Paulo. 
+ 
+No rebanho estudado, os animais são avaliados e 
+selecionados à desmama (próximo aos sete 
+meses de idade) e ao sobreano (próximo aos 17 
+meses de idade). No sobreano, também é feita a 
+mensuração do perímetro escrotal. Em cada 
+período de avaliação, 10% das fêmeas e 50%  
+
+Estimativas de herdabilidade... 
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+145 
+dos 
+machos 
+são 
+descartados. 
+Assim, 
+aproximadamente 81% das fêmeas e 25% dos 
+machos nascidos anualmente permanecem no 
+rebanho 
+ou 
+são 
+comercializados 
+como 
+reprodutores. Cabe ressaltar que até 1991 não 
+ocorria seleção pós-desmama nesse rebanho. 
+Atualmente, são consideradas as seguintes 
+ponderações na composição do índice de seleção: 
+ 
+IS= [(23 * PD160) + (4 * CD) + (8 * PD) + (8 * MD) + (23 * PD240) + (4 * CS)  
++ (8 * PS) + (8 * MS) + (14 * PE)] / 100, em que: 
+ 
+IS= índice de seleção; PD160= precocidade em 
+dias para ganhar 160kg do nascimento à 
+desmama; CD= conformação à desmama; PD= 
+precocidade à desmama; MD= musculosidade à 
+desmama; PD240= precocidade em dias para 
+ganhar 240kg pós-desmama; CS= conformação 
+ao sobreano; PS= precocidade ao sobreano; MS= 
+musculosidade ao sobreano; PE= perímetro 
+escrotal medido ao sobreano. 
+ 
+O sistema de produção da empresa baseia-se na 
+utilização de pastagens tropicais. No manejo 
+reprodutivo, são realizadas duas estações de 
+monta, sendo a primeira iniciada em fevereiro e a 
+segunda em novembro. A primeira monta inicia-
+se em fevereiro, participando as novilhas com 
+idade próxima aos 17 meses e machos de 
+diferentes idades, selecionados e aprovados no 
+exame andrológico. As novilhas que não 
+emprenham participam, novamente, da segunda 
+estação de monta, juntamente com as matrizes do 
+plantel. As vacas que não emprenham na 
+segunda estação de monta são descartadas do 
+rebanho. 
+ 
+As características utilizadas neste estudo foram: 
+peso à desmama (PD), peso ao sobreano (PS), 
+ganho de peso do nascimento à desmama (GND), 
+ganho de peso da desmama ao sobreano (GDS), 
+perímetro escrotal (PE) e idade ao primeiro parto 
+(IPP). 
+ 
+Os grupos de contemporâneos considerados para 
+cada característica são descritos a seguir: PD e o 
+GND: fazenda de nascimento, fazenda da 
+desmama, grupo de manejo ao nascimento, grupo 
+de manejo à desmama, ano e mês de nascimento 
+e sexo. Além desses, para o PS e o GDS foram 
+incluídos, no grupo de contemporâneo, a fazenda 
+do sobreano e grupo de manejo ao sobreano. 
+Para o PE, o grupo de contemporâneo foi o 
+mesmo descrito para o PS e o GDS, porém sem a 
+inclusão do sexo. Para a IPP, o grupo de 
+contemporâneo foi o mesmo descrito para o PE, 
+com a inclusão do tipo de serviço (monta natural 
+ou inseminação artificial). 
+Grupos de contemporâneos com menos de quatro 
+observações foram excluídos, totalizando 3.129 
+(PD); 2.469 (PS); 1.773 (GND); 2.414 (GDS); 
+986 
+(PE) 
+e 
+1.780 
+(IPP) 
+grupos 
+de 
+contemporâneos. Além do efeito fixo de grupo 
+de contemporâneos, foram consideradas como 
+covariáveis a idade do animal no momento da 
+pesagem (exceto para GND e GDS) e a idade da 
+mãe ao parto (efeitos linear e quadrático). Para 
+GND e GDS, também foram utilizados como 
+covariáveis o número de dias do nascimento à 
+desmama e o número de dias da desmama ao 
+sobreano, respectivamente. 
+ 
+Os 
+componentes 
+de 
+(co)variâncias 
+foram 
+estimados 
+pelo 
+método 
+da 
+máxima 
+verossimilhança 
+restrita, 
+utilizando-se 
+o 
+programa 
+computacional 
+MTDFREML 
+(Boldman et al., 1995) e empregando-se modelo 
+animal uni e bicaracterística. As análises 
+bicaracterísticas foram realizadas sempre com 
+peso à desmama com o objetivo de minimizar os 
+efeitos da seleção. Nos modelos utilizados, foram 
+considerados como efeitos aleatórios os efeitos 
+genético aditivo direto e residual. Além desses, 
+para peso à desmama, peso ao sobreano, ganho 
+de peso do nascimento à desmama e ganho de 
+peso da desmama ao sobreano, foram também 
+considerados os efeitos genético aditivo materno 
+e de ambiente permanente materno. 
+ 
+Na forma matricial, o modelo geral pode ser 
+descrito como: 
+ 
+e
+c
+Z
+m
+Z
+a
+Z
+X
+y
+c
+m
+a
++
++
++
++
+=
+β
+, em que: 
+ 
+y é o vetor dos caracteres observados; β é o vetor 
+dos efeitos fixos; a é o vetor dos efeitos 
+genéticos aditivos diretos; m é o vetor dos efeitos 
+genéticos aditivos maternos; c é o vetor do efeito 
+de ambiente permanente materno, e é o vetor dos 
+efeitos residuais; X, Za e Zm são as matrizes de 
+incidência relacionando β, a, m, c a y. Assumiu-
+se 
+que 
+E[y]=X 
+β; 
+Var(a)=A⊗Σa, 
+Var(m)=A⊗Σm, Var(c)=A⊗Σc e Var(e)= IN⊗ 
+
+Laureano et al. 
+146  
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+Σe, em que: Σa é a matriz de covariância genética 
+aditiva direta; Σm é a matriz de covariância 
+genética aditiva materna; Σc é a matriz de 
+covariância genética de ambiente permanente 
+materno; Σe é a matriz de covariância residual; A 
+é a matriz de parentesco; I é a matriz identidade 
+e ⊗denota o produto direto entre as matrizes. 
+Assumiu-se que os vetores a, m, c e e não são 
+correlacionados entre si. 
+ 
+Os valores genéticos para cada característica 
+foram 
+estimados 
+e 
+utilizados 
+para 
+obter 
+estimativa da tendência genética anual por 
+contrastes ortogonais, como mostrado por 
+Johnson et al. (1999) e Pereira et al. (2008), 
+empregando-se 
+o 
+programa 
+computacional 
+MTDFREML. Um vetor de coeficientes (k) foi 
+gerado e incorporado ao MTDFREML para 
+produzir contrastes lineares dos valores genéticos 
+(â) sobre os anos de nascimento. Os coeficientes 
+em k foram obtidos dividindo-se cada valor em c 
+(vetor de coeficientes ortogonais) pelo seu 
+respectivo número de observações, sendo c’=[-
+11,5; -10,5; -9,5; -8,5; -7,5; -6,5; -5,5; -4,5; -3,5; 
+-2,5;-1,5; -0,5; 0,5; 1,5; 2,5; 3,5; 4,5; 5,5; 6,5; 
+7,5; 8,5; 9,5; 10,5]. Os coeficientes de regressão 
+foram calculados como k’â/c’c, e a variância de 
+k’â foi calculada no MTDFREML como 
+V(k’â)= k’Caak, em que: Caa é diagonal da 
+matriz inversa do coeficiente das equações de 
+modelo misto, referente aos animais. O erro-
+padrão do coeficiente de regressão foi obtido 
+como [V(k’â)]0,5/ c’c, e a significância da 
+regressão foi determinada pelo teste t, com graus 
+de liberdade iguais a n-2, em que: n é o número 
+de anos no contraste. Este procedimento leva em 
+conta as covariâncias e, portanto, a deriva 
+genética no cálculo do erro-padrão da regressão 
+(Sorensen e Kennedy, 1984), o que é importante, 
+especialmente em pequenas populações. 
+ 
+RESULTADOS E DISCUSSÃO 
+ 
+A estrutura geral do arquivo de dados analisado 
+está descrita na Tab. 1. Os valores médios 
+observados para os pesos à desmama e ao 
+sobreano 
+foram 
+171,15 
+e 
+274,7kg, 
+respectivamente, próximos aos descritos por 
+Ferraz Filho et al. (2002) e Boligon et al. (2008). 
+Para ganho de peso do nascimento à desmama, 
+observou-se média de 0,74kg/dia. O ganho de 
+peso nessa fase depende mais da habilidade 
+materna do que do mérito do próprio animal. No 
+período da desmama ao sobreano, observou-se a 
+diminuição na velocidade de crescimento, com a 
+média 
+de 
+ganho 
+de 
+0,31kg/dia. 
+Valores 
+semelhantes foram relatados por Paneto et al. 
+(2002) e Sarmento et al. (2003), para animais da 
+raça Nelore. 
+ 
+ 
+Tabela 1. Número de observações (N), média e respectivos desvios-padrão (DP) para as características 
+avaliadas 
+Características 
+Número 
+Média 
+Desvio-padrão 
+PD (kg) 
+123.681 
+171,15 
+24,95 
+PS (kg) 
+55.569 
+274,72 
+43,84 
+GND (kg) 
+73.280 
+141,47 
+25,41 
+GDS (kg) 
+54.621 
+100,93 
+34,42 
+PE (cm) 
+20.702 
+26,45 
+3,02 
+IPP (dias) 
+26.050 
+1.052,90 
+91,75 
+PD: peso à desmama; PS: peso ao sobreano; GND: ganho de peso do nascimento à desmama; GDS: ganho de peso da 
+desmama ao sobreano; PE: perímetro escrotal; IPP: idade ao primeiro parto. 
+ 
+Para o perímetro escrotal, a média obtida 
+(26,45cm) está dentro da amplitude de valores 
+descritos na literatura para raça Nelore, que 
+variam de 26,0 a 28,3cm (Pereira et al., 2000; 
+Forni e Albuquerque, 2005; Pereira et al., 2005, 
+Boligon et al., 2007). A idade ao primeiro parto, 
+média obtida no rebanho estudado (1.052,9 dias), 
+assemelha-se às relatadas por Dias et al. (2004), 
+Forni e Albuquerque (2005) e Boligon et al. 
+(2007). 
+ 
+As estimativas de herdabilidades diretas e 
+respectivos erros-padrão, obtidas em análises 
+unicaracterística, foram de 0,20 (0,07); 0,21 
+(0,02); 0,18 (0,01); 0,21 (0,01); 0,42 (0,02) e 
+0,12 (0,01) para peso à desmama, peso ao 
+sobreano, ganho de peso do nascimento à 
+desmama, ganho de peso da desmama ao 
+sobreano, perímetro escrotal e idade ao primeiro 
+parto, respectivamente. 
+ 
+
+Estimativas de herdabilidade... 
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+147 
+As herdabilidades diretas estimadas para peso à 
+desmama e peso ao sobreano foram de 
+magnitude moderada (Tab. 2), estando próximas 
+aos valores descritos por Mercadante et al. 
+(2004) e Boligon et al. (2008). Lôbo et al. (2000) 
+descreveram herdabilidades diretas médias de 
+0,30 e 0,35 para peso à desmama e peso ao 
+sobreano, respectivamente. De modo semelhante, 
+Giannotti et al. (2005) relataram herdabilidades 
+diretas de 0,23 e 0,31, na mesma ordem, para 
+peso à desmama e peso ao sobreano. Lira et al. 
+(2008) 
+relataram 
+estimativas 
+médias 
+de 
+herdabilidade direta de 0,28 e 0,35 para  peso à 
+desmama e peso ao sobreano, respectivamente. 
+ 
+ 
+Os estudos que apresentam maiores valores de 
+herdabilidade para peso ao sobreano não 
+consideraram o efeito genético materno no 
+modelo de análise, o que pode ter superestimado 
+a variância genética aditiva. A inclusão do efeito 
+genético materno em análises de pesos pós-
+desmama tem sido mencionada em alguns 
+trabalhos, como o de Meyer et al. (1991), que 
+observaram que esse efeito apresentou influência 
+sobre 
+características 
+de 
+crescimento 
+pós-
+desmama, uma vez que o efeito materno passa a 
+fazer parte do efeito residual quando não 
+incluído no modelo. Este efeito tem grande 
+influência nos pesos pré-desmama, que podem 
+influenciar nas medidas pós-desmama. 
+ 
+Tabela 2. Estimativas de (co)variâncias e parâmetros genéticos para características de crescimento e 
+reprodutivas, obtidas em análises bicaracterísticas com peso à desmama 
+Estimativas 
+σ2
+a 
+σ2
+m 
+σ2
+c 
+σ2
+e 
+h2
+a 
+h2
+m 
+rg 
+PD 
+PD 
+57,87 
+19,67 
+39,05 
+136,51 
+0,23 
+0,08 
+1,00 
+PS 
+100,93 
+8,77 
+3,19 
+316,68 
+0,24 
+0,02 
+0,70 
+GND 
+69,14 
+19,54 
+8,92 
+227,47 
+0,21 
+0,06 
+0,43 
+GDS 
+82,93 
+15,66 
+11,51 
+254,49 
+0,23 
+0,04 
+0,54 
+PE 
+2,84 
+- 
+- 
+3,36 
+0,46 
+- 
+0,24 
+IPP 
+731,47 
+- 
+- 
+4.052,98 
+0,15 
+- 
+-0,16 
+PD: peso à desmama; PS: peso ao sobreano; GND: ganho de peso do nascimento à desmama; GDS: ganho de peso da 
+desmama ao sobreano; PE: perímetro escrotal; IPP: idade ao primeiro parto; σ2
+a: variância genética aditiva direta; σ2
+m: 
+variância genética materna; 
+σ
+2
+c: variância de ambiente permanente materno; σ2
+e: variância ambiental; h2
+a: 
+herdabilidade do efeito direto; h2
+m: herdabilidade do efeito materno; rg: correlação genética. 
+ 
+As estimativas de herdabilidade direta, para 
+ganho de peso do nascimento à desmama e 
+ganho de peso da desmama ao sobreano, foram 
+de média magnitude (Tab. 2), indicando que o 
+valor fenotípico nessas características pode ser 
+utilizado como estimador do valor genético 
+aditivo direto; consequentemente, a utilização 
+dessas características como critério de seleção 
+pode trazer aumento no ganho de peso do 
+período correspondente. Ao estudarem ganhos de 
+peso pré e pós-desmama, definidos como ganhos 
+dos 100 aos 300 e dos 300 aos 600 dias de  
+idade, respectivamente, Holanda et al. (2004), 
+em 
+análise 
+unicaracterística, 
+estimaram 
+herdabilidades diretas de 0,23 e 0,06 para ganho 
+de peso pré e pós-desmama, respectivamente. 
+ 
+As herdabilidades maternas estimadas, para as 
+características de crescimento, foram abaixo de 
+0,10, valores menores que os relatados para peso 
+à desmama e ao sobreano, por Ribeiro et al. 
+(2001) e Ferraz Filho et al. (2002). O efeito 
+materno teve pouca importância, principalmente, 
+no peso ao sobreano, em razão da alta variância 
+aditiva e da baixa variância materna estimadas 
+nessa característica em relação às demais. São 
+poucos os estudos que incluem o efeito materno 
+na avaliação do peso ao sobreano, entretanto a 
+baixa magnitude dessa herdabilidade é esperada, 
+uma vez que a influência dos efeitos maternos 
+em pesos pós-desmama é menor. Segundo 
+Albuquerque e Meyer (2001), em idades pós-
+desmama, apesar da baixa relevância, o efeito 
+materno continua presente. 
+ 
+O coeficiente de herdabilidade direta estimado 
+para o perímetro escrotal foi semelhante aos 
+valores observados por Pereira et al. (2000), 
+Forni e Albuquerque (2005) e Boligon et al. 
+(2007). Em trabalho de revisão com zebuínos de 
+corte, 
+Lira 
+et 
+al. 
+(2008) 
+descreveram 
+herdabilidade direta para perímetro escrotal ao 
+sobreano de 0,28 a 0,76, com valor médio de 
+0,35. A estimativa de herdabilidade obtida neste 
+
+Laureano et al. 
+148  
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+estudo para o perímetro escrotal sugere que parte 
+considerável da variação entre os animais, para 
+essa característica, é decorrente do efeito 
+genético direto. Deste modo, o perímetro escrotal 
+deve responder à seleção individual com bastante 
+eficiência. 
+ 
+Para 
+idade 
+ao 
+primeiro 
+parto, 
+a 
+baixa 
+herdabilidade estimada (0,15) é coerente com os 
+valores descritos na literatura, que variam de 
+0,12 a 0,16 (Pereira et al., 2000; Dias et al., 
+2004; Boligon et al., 2007). A baixa magnitude 
+de herdabilidade, estimada neste trabalho, para 
+idade ao primeiro parto pode ser explicada, em 
+parte, pelo fato de que apenas as fêmeas que 
+pariram entraram nas análises, portanto parte da 
+variação genética existente na característica não 
+foi 
+estimada. 
+Uma 
+alternativa 
+para 
+esse 
+problema, sugerida por Dias et al. (2004), seria a 
+inclusão de todas as fêmeas expostas ao touro na 
+análise, atribuindo uma idade ao primeiro parto 
+para as fêmeas que não conceberam e usando a 
+idade ao primeiro parto mais alta dentro do seu 
+grupo de contemporâneos. 
+ 
+No geral, a grande influência dos efeitos 
+genéticos não aditivos e de ambiente na idade ao 
+primeiro parto indica que a expressão da 
+característica depende de condições adequadas 
+de manejo. Entretanto, mesmo que melhorias no 
+manejo dos animais possam ser alternativas mais 
+rápidas para a redução de sua expressão, 
+considerando a importância econômica das 
+características 
+reprodutivas, 
+os 
+processos 
+seletivos a longo prazo poderão ter impacto 
+positivo na produtividade dos rebanhos. 
+ 
+Para peso à desmama e peso ao sobreano, as 
+tendências genéticas foram de 0,171 (0,01) e 
+0,219 (0,02) kg/ano, respectivamente (Fig. 1). 
+Em termos de mudança genética anual, isso 
+representa incrementos de 0,10 e 0,08% nas 
+médias anuais do peso à desmama e peso ao 
+sobreano, respectivamente, e uma diferença de, 
+aproximadamente, 3,9 e 5,0kg no período de 
+seleção estudado, para estas características, 
+respectivamente. Esses resultados sugerem que a 
+seleção que vem sendo praticada no rebanho 
+estudado está provocando mudanças positivas 
+nas médias dos pesos dos animais. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 1. Tendências genéticas aditivas diretas para peso à desmama (PD), peso ao sobreano (PS), ganho 
+de peso do nascimento à desmama (GND) e ganho de peso da desmama ao sobreano (GDS), no período 
+de 1984 a 2006. 
+y = - 471,01+ 0,219 * ano
+R2 = 0,91
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+y = - 380,40 + 0,171 * ano 
+R2 = 0,93
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+Valor genético
+y = - 370,33 + 0,186 * ano 
+R2 = 0,88
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+Ano de nascimento
+Valor genético
+y = - 407,74 + 0,224 * ano
+R2 = 0,94
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+Ano de nascimento
+PD 
+PS 
+GDS 
+GND 
+
+Estimativas de herdabilidade... 
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+149 
+Cabe ressaltar que, até 1991, não ocorria seleção 
+pós-desmama nesse rebanho; dessa forma, pode-
+se observar que o ganho genético anual para peso 
+ao sobreano foi mais acentuado a partir de 1995, 
+período em que se consegue observar os 
+resultados dessa seleção. Já para o período 
+anterior a 1991, o aumento na tendência genética 
+do peso ao sobreano pode ter ocorrido por 
+resposta correlacionada à seleção, uma vez que a 
+correlação genética estimada entre peso à 
+desmama e peso ao sobreano é de 0,70 (Tab. 2). 
+De 
+modo 
+geral, 
+as 
+tendências 
+genéticas 
+estimadas para peso à desmama e peso ao 
+sobreano apresentaram valores favoráveis, visto 
+que os animais não são selecionados diretamente 
+para maiores pesos em determinadas idades, mas 
+são utilizados índices de seleção que incluem 
+dias para ganhar determinado peso. 
+ 
+As tendências genéticas do peso à desmama e 
+peso ao sobreano são semelhantes às obtidas por 
+Ferraz Filho et al. (2002), que relataram 
+tendências genéticas diretas iguais a 0,13 e 
+0,28kg/ano, 
+respectivamente, 
+para 
+peso 
+à 
+desmama e peso ao sobreano, as quais 
+corresponderam a incrementos na mudança 
+genética anual de 0,08 e 0,10% nas médias dos 
+pesos, para animais da raça Tabapuã. Mucari e 
+Oliveira (2003), também para animais de raça 
+zebuína, relataram tendências genéticas de 0,155 
+e 0,345kg/ano, para peso à desmama e peso ao 
+sobreano, respectivamente. De acordo com esses 
+autores, os ganhos genéticos relativamente 
+baixos 
+podem 
+estar 
+associados 
+à 
+baixa 
+variabilidade genética observada no rebanho 
+avaliado. 
+ 
+As mudanças genéticas estimadas para ganho de 
+peso do nascimento à desmama e da desmama ao 
+sobreano de 0,186 (0,03) e 0,224 (0,02), 
+respectivamente, representam tendência média 
+anual de 0,13 e 0,22%. Em rebanhos da raça 
+Nelore, 
+Holanda 
+et 
+al. 
+(2004) 
+relataram 
+mudanças genéticas anuais menores, ou seja, 
+0,001kg e 0,075kg, para ganhos de peso pré e 
+pós-desmama, respectivamente. Segundo os 
+autores, 
+apesar 
+de 
+os 
+ganhos 
+genéticos 
+apresentarem valores aparentemente pequenos, 
+esse progresso deve ser levado em consideração, 
+pois as mudanças são estáveis e cumulativas ao 
+longo dos anos. 
+Para as características reprodutivas, as tendências 
+genéticas foram estimadas considerando-se dois 
+períodos (Tab. 2). Para o PE no período de 1984 
+a 1995, a tendência genética foi de 0,011 (0,03) 
+cm/ano, representando uma mudança média 
+anual de 0,04%. As mudanças genéticas anuais 
+nesse período não foram suficientes para 
+considerar que esta população esteja evoluindo 
+geneticamente em termos de aumento do 
+perímetro escrotal; dessa forma, maior atenção 
+foi dada à seleção dos indivíduos utilizados para 
+a reprodução. 
+ 
+Por outro lado, no segundo período considerado 
+(1996 a 2006), a tendência genética foi 0,069 
+(0,01) cm/ano, representando mudança média 
+anual de 0,26%. Apesar de o perímetro escrotal 
+ser característica que compõe atualmente o 
+índice de seleção do rebanho estudado, a seleção 
+para características pós-desmama foi iniciada em 
+1991, o que justifica ganhos praticamente nulos 
+observados para o perímetro escrotal no primeiro 
+período estudado. No período de 1996 a 2006, os 
+ganhos 
+genéticos 
+mostraram 
+aumentos 
+acentuados, sugerindo que a mudança nos 
+critérios de seleção preconizados pelo programa 
+de melhoramento foi responsável por melhorias, 
+principalmente, no desempenho pós-desmama 
+dos animais. Utilizando informações de bovinos 
+da raça Nelore selecionados, Cyrillo et al. (2001) 
+obtiveram maior valor de mudança genética para 
+o perímetro escrotal (0,31cm/ano). 
+ 
+Para a idade ao primeiro parto, pode-se observar 
+estabilidade na tendência genética no primeiro 
+período considerado, sendo ela considerada nula, 
+com valor de -0,003 (0,06) dias/ano (Fig. 2). 
+Entretanto, no período de 1996 a 2006, 
+obtiveram-se 
+melhorias 
+consideráveis 
+na 
+tendência genética, com valor de -3,024 (0,04) 
+dias/ano, indicando redução considerável em tal 
+característica. Esse resultado pode ser explicado 
+em razão da exposição das fêmeas em idades 
+mais jovens na estação de monta, o que permite 
+que alguns animais expressem seu potencial 
+genético para precocidade sexual. Assim, a 
+seleção que vem sendo praticada nos últimos 
+anos está proporcionando melhorias na eficiência 
+reprodutiva do rebanho, com a redução na idade 
+ao primeiro parto das fêmeas. 
+ 
+ 
+ 
+
+Laureano et al. 
+150  
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 2. Tendências genéticas aditivas diretas para perímetro escrotal (PE) e idade ao primeiro parto 
+(IPP), nos períodos de 1984 a 1995 e de 1996 a 2006. 
+ 
+Utilizando informações de animais da raça Gir, 
+Balieiro et al. (1999) relataram tendência 
+genética para IPP de 0,008 meses/ano. Segundo 
+esses autores, mudanças de pequena magnitude 
+observadas 
+em 
+algumas 
+características 
+reprodutivas podem ser parcialmente explicadas 
+pela pequena variabilidade genética, em razão da 
+utilização de estações de monta com períodos 
+curtos. Outro fator que contribui para a 
+estimação de variâncias genéticas aditivas de 
+pequena magnitude para a idade ao primeiro 
+parto é o atraso na exposição de novilhas à 
+reprodução. Isso dificulta que alguns animais 
+expressem 
+seu 
+potencial 
+genético 
+para 
+precocidade sexual, o que não é o caso do 
+rebanho analisado. 
+ 
+Apesar de os ganhos genéticos obtidos para as 
+características reprodutivas apresentarem valores 
+baixos, 
+o 
+progresso 
+genético 
+deve 
+ser 
+considerado, pois as mudanças genéticas são 
+estáveis, cumulativas e permanentes ao longo 
+dos anos. Entretanto, apesar de serem estáveis, 
+tais mudanças genéticas podem vir a não se 
+expressar fenotipicamente como consequência 
+das condições ambientais distintas ao longo dos 
+anos avaliados. Com a utilização do índice de 
+seleção atual, que inclui características de 
+crescimento e reprodutivas, foram obtidos 
+ganhos genéticos de maior magnitude, visto que 
+esse índice considera as características em 
+conjunto, 
+com 
+valores 
+relativos 
+à 
+sua 
+importância econômica. 
+ 
+CONCLUSÕES 
+ 
+As características de crescimento e reprodutivas 
+apresentaram variabilidade genética e podem ser 
+incluídas em programas de melhoramento 
+genético, pois respondem à seleção individual. 
+As tendências genéticas para pesos, ganhos de 
+peso e perímetro escrotal foram positivas, o que 
+mostra ter ocorrido progresso genético no 
+rebanho e sugere que os critérios de seleção 
+utilizados resultaram em progresso genético 
+nessas características. A idade ao primeiro parto 
+y = - 22,68 + 0,011 * ano
+R2 = 0,81
+-0,3
+0
+0,3
+0,6
+0,9
+1980
+1985
+1990
+1995
+2000
+Valor genético
+y = - 136,84 + 0,069 * ano 
+R2 = 0,93
+-0,3
+0
+0,3
+0,6
+0,9
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+y = 7,12 - 0,003 * ano
+R2 = 0,64
+-30
+-20
+-10
+0
+10
+1980
+1985
+1990
+1995
+2000
+Ano de nascimento
+Valor genético
+y = 6035,4 - 3,024 * ano 
+R2 = 0,91
+-30
+-20
+-10
+0
+10
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+Ano de nascimento
+PE 
+PE 
+IPP 
+IPP 
+
+Estimativas de herdabilidade... 
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+151 
+apresentou tendência genética quase nula, nos 
+primeiros anos de avaliação, e redução nos 
+últimos oito anos, indicando que a seleção 
+praticada no rebanho é responsável por melhorias 
+dessa característica. 
+ 
+REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+ALBUQUERQUE, L.G.; MEYER, K. Estimates 
+of direct and maternal genetic effects for weights 
+from birth to 600 days of age in Nelore cattle. J. 
+Anim. Breed. Genet., v.118, p.83-92, 2001. 
+AZEVÊDO, D.M.M.R; MARTINS FILHO, R.; 
+LOBO, R.N.B. Desempenho reprodutivo de 
+vacas Nelore no Norte e Nordeste do Brasil. Rev. 
+Bras. Zootec., v.35, p.988-996, 2006. 
+BALIEIRO, 
+E.S.; 
+PEREIRA, 
+R.S.; 
+VERNEQUE, C.S. et al. Estimativas de 
+parâmetros genéticos e de tendência fenotípica, 
+genética e de ambiente de algumas características 
+reprodutivas na raça Gir. Arq. Bras. Med. Vet. 
+Zootec., v.51, p.371-376, 1999. 
+BOLDMAN, 
+K.G.; 
+KRIESE, 
+L.A.; 
+VAN 
+VLECK, L.D. et al. A manual for use of 
+MTDFREML: a set of programs to obtain 
+estimates of variance and (co)variance (DRAFT). 
+Lincoln: Department of Agriculture/ARS, 1995. 
+120p.  
+BOLIGON, 
+A.A.; 
+RORATO, 
+P.R.N.; 
+ALBUQUERQUE, L.G. Correlações genéticas 
+entre 
+medidas 
+de 
+perímetro 
+escrotal 
+e 
+características produtivas e reprodutivas de 
+fêmeas da raça Nelore. Rev. Bras. Zootec., v.36, 
+p.565-571, 2007. 
+BOLIGON, A.A.; ALBUQUERQUE, L.G.; 
+RORATO, P.R.N. Associações genéticas entre 
+pesos e características reprodutivas em rebanhos 
+da raça Nelore. Rev. Bras. Zootec., v.37, p.596-
+601, 2008. 
+CYRILLO, 
+J.N.S.G.; 
+RAZZOK, 
+A.G.; 
+FIGUEIREDO, L.A. et al. Estimativas de 
+tendências e parâmetros genéticos do peso 
+padronizados aos 378 dias de idade, medidas 
+corporais e perímetro escrotal de machos Nelore 
+de Sertãzinho, SP. Rev. Bras. Zootec., v.30, p.56-
+65, 2001. 
+DIAS, L.T.; EL FARO, L.; ALBUQUERQUE, 
+L.G. Estimativas de herdabilidade para idade ao 
+primeiro parto de novilhas da raça Nelore. Rev. 
+Bras. Zootec., v.33, p.97-102, 2004. 
+FERRAZ FILHO, P.B.; RAMOS, A.A.; SILVA, 
+L.O.C. et al. Tendência genética dos efeitos 
+direto e materno sobre os pesos à desmama e 
+pós-desmama de bovinos da raça Tabapuã no 
+Brasil. Rev. Bras. Zootec., v.31, p.635-640, 2002. 
+FORNI, S.; ALBUQUERQUE, L.G. Estimates 
+of genetic correlations between days to calving 
+and reproductive and weight traits in Nelore 
+cattle. J. Anim. Sci., v.83, p.1511-1515, 2005. 
+GIANNOTTI, 
+J.G.; 
+PACKER, 
+I.U.; 
+MERCADANTE, 
+M.E.Z. 
+Meta-análise 
+das 
+estimativas de herdabilidade para características 
+de crescimento em bovinos de corte. Rev. Bras. 
+Zootec., v.34, p.1173-1180, 2005. 
+HOLANDA, 
+M.C.R.; 
+BARBOSA, 
+S.B.P.; 
+RIBEIRO, A.C. et al. Tendências genéticas para 
+crescimento em bovinos Nelore em Pernambuco, 
+Brasil. Arch. Zootec., v.53, p.185-194. 2004. 
+JOHNSON, R.K.; NIELSEN, M.K.; CASEY 
+D.S. Responses in ovulation rate, embryonal 
+survival, and litter traits in swine to 14 
+generations of selection to increase litter size. J. 
+Anim. Sci., v.77, p.541-557, 1999. 
+LIRA, T., ROSA, E.M., GARNERO, A.V. 
+parâmetros 
+genéticos 
+de 
+características 
+produtivas e reprodutivas em zebuínos de corte 
+(revisão). Cienc. Anim. Bras., v.9, p.1-22, 2008. 
+LÔBO, R.N.B., MADALENA, F.E., VIEIRA, 
+A.R. Average estimates of genetic parameters for 
+beef and dairy cattle in tropical regions. Anim. 
+Breed. Abst., v.68, p.433-462, 2000. 
+MERCADANTE, M.E.Z.; RAZOOK, A.G.; 
+TROVO, J.B.F. et al. Parâmetros genéticos do 
+peso no início da estação de monta, considerando 
+indicativo do peso adulto de matrizes Nelore. 
+Rev. Bras. Zootec., v.33, p.1135-1144, 2004. 
+MEYER, K.; HAMMOND, K.; MACKINNON, 
+M.J. et al. Estimates of covariances between 
+reproduction and growth in Australian beef 
+cattle. J. Anim. Sci., v.69, p.3533-3543, 1991. 
+MUCARI, T.B.; OLIVEIRA, J.A. Análise 
+genético-quantitativa de pesos aos 8, 12, 18 e 24 
+meses de idade em um rebanho da raça Guzerá. 
+Rev. Bras. Zootec., v.32, p.1604-1613, 2003. 
+PANETO, J.C.C.; LEMOS, D.C.; BEZERRA, 
+L.A.F. 
+et 
+al. 
+Estudo 
+de 
+características 
+quantitativas de crescimento dos 120 aos 550 
+dias de idade em gado Nelore. Rev. Bras. 
+Zootec., v.31, p.668-674, 2002. 
+
+Laureano et al. 
+152  
+Arq. Bras. Med. Vet. Zootec., v.63, n.1, p.143-152, 2011 
+PEREIRA, E.; ELER, J.P.; FERRAZ, J.B.S. 
+Correlação genética entre perímetro escrotal e 
+algumas características reprodutivas na raça 
+Nelore. Rev. Bras. Zootec., v.29, p.1676-1683, 
+2000. 
+PEREIRA, E.; ELER, J.P; FERRAZ, J.B.S. 
+Análise genética de características reprodutivas 
+na raça Nelore. Pesq. Agrop. Bras., v.37, p.703-
+702, 2002.  
+PEREIRA, J.C.C.; RIBEIRO, S.H.A.; SILVA, 
+M.A. 
+Análise 
+genética 
+de 
+características 
+ponderais e reprodutivas de fêmeas bovinas 
+Tabapuã. Arq. Bras. Med. Vet. Zootec., v.57, 
+supl.2, p.231-236, 2005. 
+PEREIRA, M.C.; MERCADANTE, M.E.Z.; 
+RAZOOK, A.G. et al. Results of 23 years of 
+selection for post-weaning weight in a Caracu 
+herd. S. Afric. J. Anim. Sci., v.38, p.136-144, 
+2008. 
+RIBEIRO, N.M.; PIMENTA FILHO, E.C.; 
+MARTINS, G.A. et al. Herdabilidades para 
+efeitos direto e materno de características de 
+crescimento de bovinos Nelore no estado da 
+Paraíba. Rev. Bras. Zootec., v.30, p.1224-1227, 
+2001. 
+SARMENTO, J.L.R.; PIMENTA FILHO, E.C.; 
+RIBEIRO, R.M.F. et al. Efeitos ambientais e 
+genéticos sobre ganho em peso diário de bovinos 
+Nelore no estado da Paraíba. Rev. Bras. Zootec., 
+v.32, p.325-330, 2003. 
+SILVA, A.M.; ALENCAR, M.M.; FREITAS, 
+A.R. et al. Herdabilidades e correlações 
+genéticas para peso e perímetro escrotal de 
+machos e características reprodutivas e de 
+crescimento de fêmeas, na raça Canchim. Rev. 
+Bras. Zootec., v.29, p.2223-2230, 2000. 
+SORENSEN, 
+D.A; 
+KENNEDY, 
+B.W. 
+Estimation of response to selection using least 
+squares and mixed model methodology. J. Anim. 
+Sci., v.58, p.1097-1106, 1984. 
+ 

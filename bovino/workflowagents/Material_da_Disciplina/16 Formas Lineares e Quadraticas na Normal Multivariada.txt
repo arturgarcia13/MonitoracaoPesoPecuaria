@@ -1,0 +1,318 @@
+Em regressão linear clássica, muitos estimadores e estatísticas fundamentais são formas lineares e formas
+quadráticas de um vetor aleatório Normal multivariado. Essa conexão não é meramente técnica: ela é estrutural e
+explica por que distribuições exatas em amostras finitas podem ser obtidas sob normalidade. A fundamentação
+matricial e geométrica desses resultados pode ser encontrada, em diferentes níveis de formalidade (Anderson, 2003;
+Harville, 2000).
+16.1 Preliminares: Normal multivariada e transformações lineares
+Seja
+com 
+ simétrica definida positiva.
+Uma propriedade central da Normal multivariada é sua estabilidade por transformações lineares: se 
+ é uma
+matriz fixa 
+ e 
+, então
+Esse resultado é apresentado de forma sistemática em Anderson (2003) e constitui a base probabilística da teoria da
+regressão linear.
+Como caso particular, para um vetor fixo 
+,
+A dedução segue diretamente da propriedade anterior e também pode ser vista como aplicação do fato de que
+combinações lineares de vetores Normais permanecem Normais, como discutido em Casella; Berger (2002).
+Essa estrutura será aplicada diretamente a:
+;
+contrastes 
+;
+predições lineares e combinações de coeficientes.
+16.2 Padronização multivariada e redução ao caso 
+Para estudar formas quadráticas, é útil reduzir o problema ao caso esférico.
+Como 
+ é definida positiva, existe uma matriz simétrica definida positiva 
+ tal que
+A existência dessa raiz quadrada decorre da decomposição espectral de matrizes simétricas definidas positivas,
+tratada em detalhe em Harville (2000).
+Defina
+16  Formas Lineares e Quadráticas na Normal Multivariada
+Y ∼Nn(μ, Σ),
+Σ
+A
+m × n
+a ∈Rm
+Z = AY + a ∼Nm(Aμ + a, AΣA⊤).
+c ∈Rn
+L = c⊤Y ∼N(c⊤μ, c⊤Σc).
+^β = (X⊤X)−1X⊤Y
+C ^β
+I
+Σ
+Σ1/2
+Σ1/2Σ1/2 = Σ,
+(Σ1/2)−1 = Σ−1/2.
+Z = Σ−1/2(Y −μ).
+Parte IV — Apêndices > 16  Formas Lineares e Quadráticas na Normal Multivariada
+
+
+Então
+Essa transformação separa de maneira conceitualmente limpa os papéis de média e dispersão, reduzindo a análise
+probabilística ao caso esférico. Além disso, ela mostra que a chamada distância de Mahalanobis
+é simplesmente a norma euclidiana ao quadrado de um vetor Normal padrão:
+Essa ponte entre geometria (normas e projeções) e distribuição (Qui-quadrado) é central na teoria da inferência sob
+normalidade.
+16.3 Forma linear: distribuição, interpretação e conexão com
+regressão
+Uma forma linear de um vetor aleatório é uma expressão do tipo
+onde  é fixo.
+Se 
+, então:
+ é Normal;
+;
+.
+Na regressão linear, quando se assume normalidade dos erros, tanto  quanto qualquer contraste 
+ são formas
+lineares em 
+. Por isso, possuem distribuição Normal exata em amostras finitas.
+16.4 Forma quadrática: definição e interpretação
+Uma forma quadrática em 
+ é uma expressão do tipo
+onde 
+ é uma matriz fixa 
+.
+Primeira observação fundamental: apenas a parte simétrica de 
+ influencia 
+. De fato,
+Logo, pode-se assumir 
+ simétrica sem perda de generalidade, fato discutido na literatura matricial estatística como
+em Harville (2000).
+Em regressão, as somas de quadrados são precisamente formas quadráticas:
+Z ∼Nn(0, In).
+(Y −μ)⊤Σ−1(Y −μ)
+(Y −μ)⊤Σ−1(Y −μ) = Z⊤Z.
+L = c⊤Y,
+c
+Y ∼Nn(μ, Σ)
+L
+E(L) = c⊤μ
+Var(L) = c⊤Σc
+^β
+C ^β
+Y
+Y
+Q = Y⊤AY,
+A
+n × n
+A
+Q
+Y⊤AY = Y⊤( A + A⊤
+2
+)Y.
+A
+SQReg = Y⊤HY,
+SQRes = Y⊤MY.
+
+O comportamento probabilístico de 
+ depende criticamente das propriedades estruturais de 
+. Quando 
+ é uma
+projeção ortogonal (simétrica e idempotente), a forma quadrática se reduz a uma soma de quadrados de
+componentes Normais padrão em um subespaço.
+16.5 O caso central: 
+ e a distribuição 
+Se 
+, então suas componentes são independentes e
+Consequentemente,
+Esse resultado é a base de todas as somas de quadrados na regressão sob normalidade, como apresentado em
+textos de inferência como Casella; Berger (2002).
+16.6 Projeções ortogonais e Qui-quadrado
+Seja 
+ e seja 
+ simétrica e idempotente:
+Se 
+, então
+Esse resultado pode ser deduzido via decomposição espectral de 
+ e é tratado com rigor em Harville (2000) e
+Rencher; Christensen (2012).
+Geometricamente, 
+ projeta sobre um subespaço  de dimensão . Assim, 
+ mede o comprimento ao
+quadrado da componente projetada de  em , que se comporta como soma de quadrados de  Normais padrão.
+Esse resultado aplica-se diretamente às matrizes 
+ (posto 
+) e 
+ (posto 
+). Quando  representa a
+versão padronizada do vetor de erros, as somas de quadrados do modelo e do resíduo assumem distribuições Qui-
+quadrado com graus de liberdade dados por esses postos.
+16.7 Independência via ortogonalidade
+Se 
+ e 
+, 
+ são simétricas idempotentes tais que
+então
+A independência decorre da decomposição ortogonal do espaço combinada com a simetria esférica da Normal
+padrão.
+Critério análogo vale para independência entre forma linear 
+ e forma quadrática 
+: se
+Q
+A
+A
+Z⊤Z
+χ2
+Z ∼Nn(0, In)
+Zi ∼N(0, 1).
+Z⊤Z =
+n
+∑
+i=1
+Z 2
+i ∼χ2
+n.
+Z ∼Nn(0, In)
+A
+A⊤= A,
+A2 = A.
+r = rank(A) = tr(A)
+Z⊤AZ ∼χ2
+r.
+A
+A
+S
+r
+Z⊤AZ
+Z
+S
+r
+H
+p + 1
+M
+n −p −1
+Z
+Z ∼Nn(0, In)
+A B
+AB = 0,
+Z⊤AZ  ⊥ Z⊤BZ.
+L = a⊤Z
+Q = Z⊤AZ
+
+então  e 
+ são independentes.
+16.8 MRLM Normal
+Considere o modelo de regressão linear múltipla sob normalidade e homocedasticidade:
+Como consequência direta da estabilidade da Normal multivariada por transformações lineares, tem-se
+As quantidades centrais do modelo podem ser classificadas estruturalmente da seguinte forma, destacando-se suas
+distribuições quando há uma forma conhecida.
+Trata-se de uma transformação linear do vetor aleatório 
+. Logo,
+Em particular, para cada componente 
+,
+Como  é transformação linear de um vetor Normal multivariado, segue que
+Como 
+, obtém-se
+Assim, os resíduos possuem estrutura Normal degenerada em um subespaço de dimensão 
+.
+Como 
+ é simétrica idempotente com
+segue que, após padronização por 
+,
+Aa = 0,
+L
+Q
+Y = Xβ + ε,
+ε ∼Nn(0, σ2In).
+Y ∼Nn(Xβ, σ2In).
+16.8.1 Estimador como forma linear em Y
+^β = (X⊤X)−1X⊤Y.
+Y
+^β ∼Np+1(β, σ2(X⊤X)−1).
+^βj
+^βj −βj
+σ√[(X⊤X)−1]jj
+∼N(0, 1).
+16.8.2 Resíduos como transformação linear
+^ε = MY,
+M = In −H.
+^ε
+^ε ∼Nn(MXβ, σ2M).
+MX = 0
+^ε ∼Nn(0, σ2M).
+n −p −1
+16.8.3 Soma de quadrados residual como forma quadrática
+SQRes = ^ε⊤^ε = Y⊤MY.
+M
+rank(M) = n −p −1,
+σ2
+
+Equivalentemente,
+Além disso, definindo
+tem-se
+Sob o modelo Normal, após padronização por 
+, as duas parcelas tornam-se formas quadráticas associadas a
+projeções ortogonais complementares.
+Escrevendo 
+, obtém-se:
+Parte ajustada (forma quadrática não-central)
+Parte residual (forma quadrática central)
+Como 
+ e ambas são projeções ortogonais, essas duas formas quadráticas são independentes:
+A partir dessas distribuições, emergem naturalmente as estatísticas de inferência.
+Para cada coeficiente,
+A estatística  surge como razão entre uma Normal padrão e a raiz de uma Qui-quadrado independente dividida por
+seus graus de liberdade.
+De modo análogo, a estatística global de significância do modelo pode ser escrita como
+SQRes
+σ2
+= Y⊤MY
+σ2
+∼χ2
+n−p−1.
+SQRes ∼σ2 χ2
+n−p−1.
+^σ2 =
+SQRes
+n −p −1 ,
+(n −p −1)^σ2
+σ2
+∼χ2
+n−p−1.
+16.8.4 Decomposição ortogonal da soma de quadrados total
+Y⊤Y = Y⊤HY + Y⊤MY.
+σ2
+μ = Xβ
+Y⊤HY
+σ2
+∼χ2
+p+1(λ),
+λ = μ⊤μ
+σ2 .
+Y⊤MY
+σ2
+∼χ2
+n−p−1.
+HM = 0
+Y⊤HY
+σ2
+  ⊥  Y⊤MY
+σ2
+.
+16.8.5 Surgimento das distribuições  e 
+t
+F
+Tj =
+^βj −βj
+^σ√[(X⊤X)−1]jj
+=
+^βj −βj
+σ√[(X⊤X)−1]jj
+√SQRes/σ2
+n−p−1
+∼t n−p−1.
+t
+
+no caso central sob a hipótese nula apropriada.
+Assim, as distribuições  e 
+ não são introduzidas ad hoc: elas emergem diretamente da estrutura geométrica das
+projeções ortogonais combinada com a Normalidade multivariada do vetor de respostas.
+F =
+(Y⊤HY)/(p + 1)
+(Y⊤MY)/(n −p −1) ∼F p+1, n−p−1,
+t
+F
