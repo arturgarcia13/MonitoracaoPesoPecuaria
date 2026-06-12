@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import seaborn as sns
 import pandas as pd
-from src.main.domain.calculadora_biometrica import CalculadoraBiometrica
-from src.main.domain.avaliador_risco import AvaliadorRiscoNeonatal
-from src.main.monitoring.monitorador_rebanho import MonitoradorRebanho, StatusAlerta
+from domain.calculadora_biometrica import CalculadoraBiometrica
+from domain.avaliador_risco import AvaliadorRiscoNeonatal
+from monitoring.monitorador_rebanho import MonitoradorRebanho, StatusAlerta
 
 
 class PlotadorEstatisticas:

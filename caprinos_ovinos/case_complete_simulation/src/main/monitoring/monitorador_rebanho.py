@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from enum import Enum
-from src.main.domain.calculadora_biometrica import CalculadoraBiometrica
+from domain.calculadora_biometrica import CalculadoraBiometrica
 
 
 class StatusAlerta(Enum):

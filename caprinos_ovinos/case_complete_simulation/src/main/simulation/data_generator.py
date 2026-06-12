@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-from src.main.domain.calculadora_biometrica import CalculadoraBiometrica
-from src.main.domain.avaliador_risco import AvaliadorRiscoNeonatal
+from domain.calculadora_biometrica import CalculadoraBiometrica
+from domain.avaliador_risco import AvaliadorRiscoNeonatal
 
 class GeradorDados:
     """
