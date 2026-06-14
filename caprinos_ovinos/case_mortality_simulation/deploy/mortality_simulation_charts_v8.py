@@ -106,7 +106,7 @@ def gerar_graficos_monte_carlo_v8():
     axes[1].set_ylabel('Frequência')
     
     plt.tight_layout()
-    plt.savefig('v8_grafico_1_histogramas.png')
+    plt.savefig('graphics/v8_grafico_1_histogramas.png')
     plt.close()
     
     # 2. Curva ROC
@@ -132,7 +132,7 @@ def gerar_graficos_monte_carlo_v8():
     ax.set_xlabel('Taxa de Falsos Positivos (1 - Especificidade)')
     ax.set_ylabel('Taxa de Verdadeiros Positivos (Sensibilidade)')
     ax.legend(loc="lower right")
-    plt.savefig('v8_grafico_2_roc_curve.png')
+    plt.savefig('graphics/v8_grafico_2_roc_curve.png')
     plt.close()
 
     # 3. Curva de Calibração
@@ -148,7 +148,7 @@ def gerar_graficos_monte_carlo_v8():
     ax.set_xlabel('Risco Previsto Máximo (% no Decil)')
     ax.set_ylabel('Proporção Real de Animais Problemáticos (%)')
     ax.legend(loc='upper left')
-    plt.savefig('v8_grafico_3_calibracao.png')
+    plt.savefig('graphics/v8_grafico_3_calibracao.png')
     plt.close()
 
     # 4. Trajetória Temporal de Peso
@@ -196,7 +196,7 @@ def gerar_graficos_monte_carlo_v8():
     by_label = dict(zip(labels, handles))
     ax.legend(by_label.values(), by_label.keys(), loc='upper left')
     
-    plt.savefig('v8_grafico_4_trajetoria_peso.png')
+    plt.savefig('graphics/v8_grafico_4_trajetoria_peso.png')
     plt.close()
 
     # 5. Curva de Detecção Acumulada
@@ -215,7 +215,7 @@ def gerar_graficos_monte_carlo_v8():
     ax.set_xticks(dias_pesagem)
     ax.set_ylim(0, 105)
     ax.legend(loc='lower right')
-    plt.savefig('v8_grafico_5_deteccao_acumulada.png')
+    plt.savefig('graphics/v8_grafico_5_deteccao_acumulada.png')
     plt.close()
 
     print("Todos os gráficos foram gerados e salvos em disco (v8_grafico_1_*.png a v8_grafico_5_*.png).")
