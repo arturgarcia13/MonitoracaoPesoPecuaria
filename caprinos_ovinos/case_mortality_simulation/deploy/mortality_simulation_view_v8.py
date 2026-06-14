@@ -56,8 +56,7 @@ class SimParams:
 
     # ── Sistema de alerta ─────────────────────────────────────────────────────
     limiar_alerta_pct: float = 30.0   # R(t) em % acima do qual o alerta é emitido
-    k_decaimento:      float = 0.7    # sensibilidade do R(t) ao Z negativo
-                                       # k=0.4: Z=-2.0 → R(t) = R_nasc * e^0.8 ≈ 2.2×
+    k_decaimento:      float = 0.2    # sensibilidade do R(t) ao Z negativo
 
     # ── Equação 1: Peso ao Nascer ─────────────────────────────────────────────
     # β0 = 4.10 kg: Macho, Parto Simples, Mãe Multípara (Hatcher 2009)

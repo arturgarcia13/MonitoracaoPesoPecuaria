@@ -6,7 +6,7 @@ from sklearn.metrics import roc_curve, auc, roc_auc_score
 import time
 import os
 
-import case_mortality_simulation.deploy.mortality_simulation_view_v8 as v8
+import mortality_simulation_view_v8 as v8
 
 # ─── CONFIGURAÇÃO DE PLOT ─────────────────────────────────────────────────────
 sns.set_theme(style="whitegrid", context="paper", font_scale=1.2)
