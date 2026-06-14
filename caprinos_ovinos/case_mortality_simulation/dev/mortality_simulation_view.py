@@ -39,11 +39,11 @@ df = pd.DataFrame({
     'Tipo_Parto': tipos_parto,
     'Idade_Dias': dias_vida,
     'Peso_atual': pesos_aferidos + (gmd_final_bio * dias_vida),
-    'GMD_Real': gmd_final_bio # Salvo permanentemente
+    'GMD_Real': gmd_final_bio
 })
 
 # ==========================================
-# 2. LOOP DE PROCESSAMENTO (O Aprendizado da Máquina)
+# 2. LOOP DE PROCESSAMENTO
 # ==========================================
 fases, risco_sistema_lista, p_opt_min_memoria, p_opt_max_memoria = [], [], [], []
 
